@@ -723,9 +723,9 @@ let link = "https://wa.me/541124924167?text="
     cartTotalValue.textContent = cartInfo.total;
     link += ",%20Total:$" + cartTotalValue.textContent;
     wpp.innerHTML = "Confirmar pedido";
-    document.getElementById("enviar-pedido").onclick = function () {
-        location.href = link;
-    };
+    document.getElementById("enviar-pedido").addEventListener('click', function () {
+       location.href = link;
+    });
 }
 
 //cambio foto principal
