@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Tiempo Extra Bebidas</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="images/logo.png">
+  <!-- font awesome cdn -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+    crossorigin="anonymous" />
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- header  -->
+  <header>
+    <div class="container">
+      <!-- navbar -->
+      <nav class="navbar">
+        <a href="index.html" class="navbar-brand"> <img src="images/logo.png" class="logo"></a>
+        <button type="button" class="navbar-toggler">
+          <i class="fas fa-bars"></i>
+        </button>
+        <div class="navbar-collapse">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#Promociones">Promociones</a></li>
+            <li><a href="catalogo.html">Catalogo</a></li>
+            <li><a href="#MediosDePago">Medios de pago</a></li>
+            <li><a href="#AboutUs">Acerca de nosotros</a></li>
+          </ul>
+        </div>
+
+        <div class="cart">
+          <button type="button" id="cart-btn">
+            <i class="fas fa-shopping-cart"></i>
+            <span id="cart-count-info"></span>
+          </button>
+
+          <div class="cart-container">
+            <div class="cart-list">
+            </div>
+
+            <div class="cart-total">
+              <h3 id="total">Total: $</h3>
+              <span id="cart-total-value"></span>
+              <button type="button" href="" class="btn-wpp" id="enviar-pedido">Enviar pedido por WhatsApp</button>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <!-- end of navbar -->
+
+      <!-- banner -->
+      <div class="banner">
+        <div class="banner-content">
+          <h1>Tiempo Extra Bebidas</h1>
+          <p class="text" id="Home">Localizados en Caballito, contamos con una gran variedad de productos y de buena calidad.
+            Trabajamos en local con atencion al publico, venta por mayor y por menor.</p>
+          <p class="text">Horarios: Lunes a Viernes de 16 a 21 hrs, y Sabados de 5 a 22 hrs.</p>
+          <p class="text">Direccion: Avenida Juan B. Alberdi 743.</p>
+          <p class="text">Envios sin cargo a partir de los $1000 (zonas de envio: Caballito, Flores, Parque Chacabuco, Boedo y Almagro, consultar por otras zonas)</p>
+          <div class="btns">
+            <a href="catalogo.html">
+              <button type="button" class="btn">Catalogo</button>
+            </a>
+            <a href="#Promociones">
+              <button type="button" class="btn" id="conoceMas">Conoce mas</button>
+            </a>
+          </div>
+        </div>
+
+        <div class="banner-img">
+          <img id="foto-principal" src="images/local-nuevo.jpg" style="max-height: 500px; max-width: 450px;margin-left: auto; margin-right: auto; width: 90%;" alt="furniture banner image">
+        </div>
+      </div>
+      <!-- end of banner  -->
+    </div>
+  </header>
+  <!-- end of header -->
+  <!-- products section  -->
+  <section class="promociones">
+    <div class="container">
+      <h2 id="Promociones">Promociones</h2>
+      <div class="slideshow-container">
+        <!--myslide face 1-->
+        <div class="mySlides fade">
+          <div class="promocion1-list">
+            
+          </div>
+          <!--promocion list-->
+        </div>
+        <!--myslide face 2-->
+        <div class="mySlides fade">
+          <div class="promocion2-list">
+            
+          </div>
+        </div>
+        <div style="text-align:center ; margin-bottom: 40px;">
+          <span class="dot" onclick="currentSlide(1)"></span>
+          <span class="dot" onclick="currentSlide(2)"></span>
+        </div>
+        <a href="catalogo.html">
+          <button type="button" class="btn" style="display: block;">Ver catalogo</button>
+        </a>
+      </div>
+      <!--slideshow container-->
+    </div>
+    <!--container-->
+  </section>
+  <!-- end of products section -->
+
+  <!-- footer -->
+  <footer>
+    <div class="footer-banner-pagos">
+      <div class="container">
+        <h2 id="MediosDePago">Medios de pago</h2>
+        <div class="medios-de-pago">
+          <div class="pagos">
+            <img src="https://www.mgscreativa.com/images/stories/virtuemart/product/logo-mercadopago561.png" alt="Mercado Pago"
+              class="pago-imagen">
+            <p class="text">Mercado Pago</p>
+          </div>
+          <div class="pagos">
+            <img src="https://d31dn7nfpuwjnm.cloudfront.net/images/valoraciones/0033/7447/Como_hacer_una_transferencia_de_un_banco_a_otro.png?1555642629" alt="Transferencia"
+              class="pago-imagen">
+            <p class="text">Transferencia</p>
+          </div>
+          <div class="pagos">
+            <img src="images/tarjeta-credito-debito.png"
+              alt="Tarjeta credito/debito" class="pago-imagen">
+            <p class="text">Debito/Credito</p>
+          </div>
+          <div class="pagos">
+            <img
+              src="https://img.icons8.com/cotton/2x/cash-in-hand.png"
+              alt="efectivo" class="pago-imagen">
+            <p class="text">Efectivo</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="banner" style="background: url(images/madera.jpg); background-size: contain;">
+      <div class="container-about-us">
+        <p class="title-about-us" id="AboutUs">Acerca de nosotros</p>
+        <p class="text-about-us">¡Arma tu presupuesto! Combos para previas - Fiestas - Casamientos - Reuniones - Cumpleaños -
+          Aniversarios - Eventos</p>
+        <p class="text-about-us">Envios gratis a partir de los $1000</p>
+        <p class="text-about-us">Zonas de envio: Caballito, Flores, Parque Chacabuco, Boedo y Almagro, consultar por otras zonas.</p>
+        <a href="https://wa.me/541124924167?text=Hola,%20acabo%20de%20ver%20tu%20pagina%20web!" target="_blank">
+        <button type="button"  class="btn-wpp">WhatsApp <i class="fab fa-whatsapp"></i></button>
+        </a>
+      </div>
+      <div class="maps">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13132.299238935902!2d-58.4515826!3d-34.62754975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9b1b8d99ab8dde61!2sTiempo%20Extra%20Almac%C3%A9n%20de%20Bebidas!5e0!3m2!1ses-419!2sar!4v1622396293169!5m2!1ses-419!2sar" height="363" style="border:0; width: -webkit-fill-available;" allowfullscreen="" loading="lazy"></iframe>      </div>
+      </div>
+    </div>
+
+
+    <div class="container">
+      <div class="social-icons">
+        <a href="mailto:tiempoextrabebidas@gmail.com" target="_blank">
+          <i class="far fa-envelope"></i>
+        </a>
+        <a href="https://www.instagram.com/tiempoextrabebidas/?hl=es-la" target="_blank">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="https://goo.gl/maps/cJQZNa2uvg7DXr5g8" target="_blank">
+          <i class="fas fa-map-marker-alt"></i>
+        </a>
+        <a href="https://wa.me/541124924167?text=Hola,%20acabo%20de%20ver%20tu%20pagina%20web!" target="_blank">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </div>
+    </div>
+  </footer>
+  <!-- end of footer -->
+
+  <script src="app.js"></script>
+</body>
+
+</html>

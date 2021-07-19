@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "1 Smirnoff <br> 2 jugos Cepita 1L",
+        "category" : "Promocion Smirnoff",
+        "price" : "570",
+        "imgSrc" : "https://ontherocks.com.ar/wp-content/uploads/2021/05/Smirnoff-2Jugos.png",
+        "nro" : "145",
+        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Cepita%201L%20$570"
+    },
+    {
+        "name" : "1 Smirnoff saborizado <br> 4 Speeds",
+        "category" : "Promocion Speed",
+        "price" : "660",
+        "imgSrc" : "https://http2.mlstatic.com/D_NQ_NP_825366-MLA44357300603_122020-O.jpg",
+        "nro" : "146",
+        "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$660"
+    },
+    {
+        "name" : "1 JaggerMaister <br> 4 Speeds",
+        "category" : "Promocion Jagger",
+        "price" : "750",
+        "imgSrc" : "http://d2r9epyceweg5n.cloudfront.net/stores/145/041/products/promociones-en-efectivo-21-cdb7f4391dde91978515894119122014-640-0.png",
+        "nro" : "147",
+        "wpp" : "Promo%20Jagger:%201%20Jagger%20+%204%20Speeds%20$750"
+    },
+    {
+        "name" : "1 Gancia <br> 2 Sprites 1.5L",
+        "category" : "Promocion Gancia",
+        "price" : "850",
+        "imgSrc" : "http://delivery.desanrafael.ar/contenidos/884_1.jpg",
+        "nro" : "148",
+        "wpp" : "Promo%20Gancia:%201%20Gancia%20+%202%20Sprites%201.5L%20$850"
+    }
+]

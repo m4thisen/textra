@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "1 Pack X6 Warsteiner",
+        "category" : "Ofertas",
+        "price" : "550",
+        "imgSrc" : "https://http2.mlstatic.com/D_NQ_NP_760788-MLA44576159123_012021-O.jpg",
+        "nro" : "405",
+        "wpp" : "Oferta%20Pack%20X6%20Warsteiner%20$550",
+        "descuento" : "-20%"
+    },
+    {
+        "name" : "1 Pack X24 Warsteiner",
+        "category" : "Ofertas",
+        "price" : "2100",
+        "imgSrc" : "https://growlerstore.com.ar/1569-large_default/pack-warsteiner-x-24-latas-473cc.jpg",
+        "nro" : "406",
+        "wpp" : "Oferta%20Pack%20X24%20Warsteiner%20$2100",
+        "descuento" : "-50%"
+    },
+    {
+        "name" : "1 Pack X24 Corona 330cc",
+        "category" : "Ofertas",
+        "price" : "2000",
+        "imgSrc" : "https://www.mayorista.licoexpress.co/wp-content/uploads/2020/05/corona-big-pack.jpg",
+        "nro" : "407",
+        "wpp" : "Oferta%20Pack%20X24%20Corona%20330cc%20$2000",
+        "descuento" : "-25%"
+    },
+    {
+        "name" : "1 Pack X6 Corona 330cc",
+        "category" : "Ofertas",
+        "price" : "660",
+        "imgSrc" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/135/244/products/corona-por-61-269cdb67e274574d2b15870710172364-1024-1024.jpg",
+        "nro" : "408",
+        "wpp" : "Oferta%20Pack%20X6%20Corona%20330cc%20$660",
+        "descuento" : "-25%"
+    }
+]
