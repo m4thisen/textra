@@ -3,7 +3,7 @@
         "name" : "Absolute regular 750",
         "category" : "Vodka",
         "price" : "1300",
-        "imgSrc" : "https://wineconnection.com.sg/media/catalog/product/cache/3e2bbaf775fd7489474b010c6ab9956f/a/6/a62_absolutvodka_sg.png",
+        "imgSrc" : "",
         "nro" : "401",
         "wpp" : "Oferta%20Pack%20X6%20Schneider%20$410",
         "descuento" : "-25%"
@@ -12,7 +12,7 @@
         "name" : "Patagonia 710",
         "category" : "Cerveza",
         "price" : "175",
-        "imgSrc" : "https://http2.mlstatic.com/D_NQ_NP_968092-MLA27690070344_072018-O.jpg",
+        "imgSrc" : "",
         "nro" : "402",
         "wpp" : "Oferta%20Patagonia%20710%20$175",
         "descuento" : "-30%"
@@ -21,7 +21,7 @@
         "name" : "1 Pack X6 Quilmes Bock",
         "category" : "Ofertas",
         "price" : "450",
-        "imgSrc" : "http://juanse-tucuman.tiendalite.com/images/products/500/75-157.jpg",
+        "imgSrc" : "",
         "nro" : "403",
         "wpp" : "Oferta%20Pack%20X6%20Quilmes%20Bock%20$450",
         "descuento" : "-25%"
@@ -30,7 +30,7 @@
         "name" : "Oye Malbec",
         "category" : "Vinos",
         "price" : "140",
-        "imgSrc" : "https://www.espaciovino.com.ar/media/default/0001/54/thumb_53697_default_medium.jpeg",
+        "imgSrc" : "",
         "nro" : "404",
         "wpp" : "Oferta%20Oye%20Malbec%20$140",
         "descuento" : "-50%"

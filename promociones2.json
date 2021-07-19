@@ -3,7 +3,7 @@
         "name" : "1 Smirnoff <br> 2 jugos Cepita 1L",
         "category" : "Promocion Smirnoff",
         "price" : "570",
-        "imgSrc" : "https://ontherocks.com.ar/wp-content/uploads/2021/05/Smirnoff-2Jugos.png",
+        "imgSrc" : "",
         "nro" : "145",
         "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Cepita%201L%20$570"
     },
@@ -11,7 +11,7 @@
         "name" : "1 Smirnoff saborizado <br> 4 Speeds",
         "category" : "Promocion Speed",
         "price" : "660",
-        "imgSrc" : "https://http2.mlstatic.com/D_NQ_NP_825366-MLA44357300603_122020-O.jpg",
+        "imgSrc" : "",
         "nro" : "146",
         "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$660"
     },

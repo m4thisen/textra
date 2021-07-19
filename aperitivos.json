@@ -4,7 +4,7 @@
         "name" : "Fernet Branca 450",
         "category" : "Aperitivos",
         "price" : "320",
-        "imgSrc" : "https://mercanet.com.ar/server/Portal_0019782/img/products/fernet-branca-450-cc_9311071.jpg",
+        "imgSrc" : "",
         "nro" : "22",
         "wpp" : "Aperitivo%20Fernet%20Branca%20450%20$320"
     },
@@ -12,7 +12,7 @@
         "name" : "Fernet Branca 750",
         "category" : "Aperitivos",
         "price" : "510",
-        "imgSrc" : "https://mercanet.com.ar/server/Portal_0019782/img/products/fernet-branca-450-cc_9311071.jpg",
+        "imgSrc" : "",
         "nro" : "23",
         "wpp" : "Aperitivo%20Fernet%20Branca%20750%20$510"
     },
@@ -20,7 +20,7 @@
         "name" : "Fernet Branca 1 lt.",
         "category" : "Aperitivos",
         "price" : "690",
-        "imgSrc" : "https://mercanet.com.ar/server/Portal_0019782/img/products/fernet-branca-450-cc_9311071.jpg",
+        "imgSrc" : "",
         "nro" : "24",
         "wpp" : "Aperitivo%20Fernet%20Branca%201LT%20$690"
     },
@@ -36,7 +36,7 @@
         "name" : "Gancia",
         "category" : "Aperitivos",
         "price" : "250",
-        "imgSrc" : "http://d3ugyf2ht6aenh.cloudfront.net/stores/835/701/products/gancia11-9c3b425b36b7e774ab15900668021036-640-0.jpg",
+        "imgSrc" : "",
         "nro" : "26",
         "wpp" : "Aperitivo%20Gancia%20$250"
     },
@@ -44,7 +44,7 @@
         "name" : "Gancia Spritz",
         "category" : "Aperitivos",
         "price" : "300",
-        "imgSrc" : "https://www.argensend.com/wp-content/uploads/2020/10/00246671.jpg",
+        "imgSrc" : "",
         "nro" : "27",
         "wpp" : "Aperitivo%20Gancia%20Spritz%20$300"
     },
@@ -52,7 +52,7 @@
         "name" : "Cynar",
         "category" : "Aperitivos",
         "price" : "280",
-        "imgSrc" : "http://d3ugyf2ht6aenh.cloudfront.net/stores/835/701/products/cynar-6x7501-41ee87d7120d7df1f615329774341716-640-0.png",
+        "imgSrc" : "",
         "nro" : "28",
         "wpp" : "Aperitivo%20Cynar%20$280"
     },
@@ -60,7 +60,7 @@
         "name" : "Campari",
         "category" : "Aperitivos",
         "price" : "380",
-        "imgSrc" : "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/069/568/products/campc-00011-b769808f440b21f07415749347933957-640-0.jpg",
+        "imgSrc" : "",
         "nro" : "29",
         "wpp" : "Aperitivo%20Campari%20$380"
     },
@@ -68,7 +68,7 @@
         "name" : "Aperol",
         "category" : "Aperitivos",
         "price" : "390",
-        "imgSrc" : "https://www.almacenotamendi.com.ar/wp-content/uploads/2020/10/7891136057029_02.jpg",
+        "imgSrc" : "",
         "nro" : "30",
         "wpp" : "Aperitivo%20Aperol%20$390"
     },
@@ -76,7 +76,7 @@
         "name" : "Velho Bareiro",
         "category" : "Aperitivos",
         "price" : "550",
-        "imgSrc" : "https://www.espaciovino.com.ar/media/default/0001/54/thumb_53697_default_medium.jpeg",
+        "imgSrc" : "",
         "nro" : "31",
         "wpp" : "Aperitivo%20Velho%20Bareiro%20$550"
     }
