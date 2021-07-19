@@ -19,7 +19,7 @@
         "name" : "1 JaggerMaister <br> 4 Speeds",
         "category" : "Promocion Jagger",
         "price" : "750",
-        "imgSrc" : "http://d2r9epyceweg5n.cloudfront.net/stores/145/041/products/promociones-en-efectivo-21-cdb7f4391dde91978515894119122014-640-0.png",
+        "imgSrc" : "",
         "nro" : "147",
         "wpp" : "Promo%20Jagger:%201%20Jagger%20+%204%20Speeds%20$750"
     },
@@ -27,7 +27,7 @@
         "name" : "1 Gancia <br> 2 Sprites 1.5L",
         "category" : "Promocion Gancia",
         "price" : "850",
-        "imgSrc" : "http://delivery.desanrafael.ar/contenidos/884_1.jpg",
+        "imgSrc" : "",
         "nro" : "148",
         "wpp" : "Promo%20Gancia:%201%20Gancia%20+%202%20Sprites%201.5L%20$850"
     }
