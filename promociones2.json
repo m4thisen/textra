@@ -1,17 +1,17 @@
 [
     {
-        "name" : "1 Smirnoff <br> 2 jugos Cepita 1L",
-        "category" : "Promocion Smirnoff",
+        "name" : "1 Aperol <br> 1 MUMM",
+        "category" : "Promocion Aperol",
         "price" : "570",
-        "imgSrc" : "",
+        "imgSrc" : "images/promoaperol.png",
         "nro" : "145",
-        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Cepita%201L%20$570"
+        "wpp" : "Promo%20Aperol:%201%20Aperol%20+%201%20MUMM%20$570"
     },
     {
         "name" : "1 Smirnoff saborizado <br> 4 Speeds",
         "category" : "Promocion Speed",
         "price" : "660",
-        "imgSrc" : "",
+        "imgSrc" : "images/promospeed.png",
         "nro" : "146",
         "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$660"
     },
@@ -19,7 +19,7 @@
         "name" : "1 JaggerMaister <br> 4 Speeds",
         "category" : "Promocion Jagger",
         "price" : "750",
-        "imgSrc" : "",
+        "imgSrc" : "images/promojager.png",
         "nro" : "147",
         "wpp" : "Promo%20Jagger:%201%20Jagger%20+%204%20Speeds%20$750"
     },
@@ -27,7 +27,7 @@
         "name" : "1 Gancia <br> 2 Sprites 1.5L",
         "category" : "Promocion Gancia",
         "price" : "850",
-        "imgSrc" : "",
+        "imgSrc" : "images/promogancia.png",
         "nro" : "148",
         "wpp" : "Promo%20Gancia:%201%20Gancia%20+%202%20Sprites%201.5L%20$850"
     }

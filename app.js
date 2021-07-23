@@ -32,7 +32,7 @@ function crearLista(){
 }
 
 crearLista();
-eventListeners(); 
+eventListeners();
 
 // all event listeners
 function eventListeners(){
@@ -127,8 +127,8 @@ function loadJSONCervezas(){
         productListCervezas.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server` + error);
-        //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
+        console.log(`User live server or local server cerveza` + error);
+       //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
 function loadJSONVodkas(){
@@ -160,7 +160,7 @@ function loadJSONVodkas(){
         productListVodkas.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server vodka` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -193,7 +193,7 @@ function loadJSONAperitivos(){
         productListAperitivos.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server aperi` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -226,7 +226,7 @@ function loadJSONVinos(){
         productListVinos.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server vinos` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -260,7 +260,7 @@ function loadJSONWhisky(){
         productListWhisky.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server whisky` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -293,7 +293,7 @@ function loadJSONGin(){
         productListGin.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server gin` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -323,10 +323,13 @@ function loadJSONChampagne(){
                 </div>
             `;
         });
+        if(html.nextElementSibling){
+            productListChampagne.nextElementSibling.innerHTML = html;
+        }
         productListChampagne.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server champagne` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -359,7 +362,7 @@ function loadJSONSa(){
         productListSa.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server sa` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -392,7 +395,7 @@ function loadJSONOtros(){
         productListOtros.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server otros` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -426,7 +429,7 @@ function loadOfertas1(){
         ofertas1List.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server ofertas 1` + error );
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -460,7 +463,7 @@ function loadOfertas2(){
         ofertas2List.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server ofertas 2` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -493,7 +496,7 @@ function loadPromocion1(){
         promocion1List.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server promo 1` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -523,10 +526,13 @@ function loadPromocion2(){
                 </div>
             `;
         });
+        //if(html.nextElementSibling){
+        //    promocion2List.nextElementSibling.innerHTML = html;
+        //}
         promocion2List.innerHTML = html;
     })
     .catch(error => {
-        alert(`User live server or local server`);
+        console.log(`User live server or local server promo 2` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
@@ -732,13 +738,13 @@ let link = "https://wa.me/541124924167?text="
 function cambiarImagenPrincipal(){
     if(document.getElementById('foto-principal')!=null){
 let index = 0;
-let listaimg = ["images/local-nuevo.jpg", "images/hoarios-dia-padre.jpg", "images/info-pedidos.jpg"];
+let listaimg = ["images/local-nuevo.jpg", "images/car-fernet.jpeg", "images/car-horarios.jpeg", "images/car-patagonia.jpeg", "images/car-pedidos.jpeg"];
 setInterval(changeImage, 3000);
     function changeImage() {
       let img = document.getElementById('foto-principal');
       img.src=listaimg[index];
       index++;
-      if(index == 3)
+      if(index == 5)
       index = 0;
     }
 }

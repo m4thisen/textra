@@ -3,7 +3,7 @@
         "name" : "1 Fernet 1L <br>2 Cocas 1.5L",
         "category" : "Promocion Fernet",
         "price" : "750",
-        "imgSrc" : "",
+        "imgSrc" : "images/promofernet.jpeg",
         "nro" : "141",
         "wpp" : "Promo%20Fernet:%201%20Fernet%201L%20+%202%20Cocas%201.5L%20$750"
     },
@@ -11,7 +11,7 @@
         "name" : "1 Campari <br>2 jugos Baggio",
         "category" : "Promocion Campari",
         "price" : "500",
-        "imgSrc" : "",
+        "imgSrc" : "images/promocampari.png",
         "nro" : "142",
         "wpp" : "Promo%20Campari:%201%20Campari%20+%202%20Baggio%20$500"
     },
@@ -19,7 +19,7 @@
         "name" : "1 Paso de los toros <br>1 Gin Gordon's",
         "category" : "Promocion Tonica",
         "price" : "810",
-        "imgSrc" : "",
+        "imgSrc" : "images/promotonica.png",
         "nro" : "143",
         "wpp" : "Promo%20Gin:%201%20Paso%20de%20los%20Toros%20+%201%20Gin%20Gordon%20$810"
     },
@@ -27,7 +27,7 @@
         "name" : "1 Smirnoff saborizado <br> 2 jugos Cepita 1L",
         "category" : "Promocion Smirnoff S.",
         "price" : "750",
-        "imgSrc" : "",
+        "imgSrc" : "images/promocepita.png",
         "nro" : "144",
         "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20saborizado%20+%202%20Cepita%201L%20$750"
     }
