@@ -2,7 +2,7 @@
 
 :root{
     --ghost-white: black;
-    --fire-bush: orange;
+    --fire-bush: rgb(240, 145, 77);
     --granite-gray: aliceblue;
     --baltic-sea: black;
     --trans: all 0.5s ease-in-out;
@@ -110,7 +110,7 @@ h1{
     width: 200px;
     height: auto;
     border: none;
-    background: orange;
+    background: rgb(240, 145, 77);
     position: fixed;
     z-index: 998;
 }
@@ -197,7 +197,7 @@ h1{
 /* js related class */
 .show-navbar{
     height: 205px; 
-    background-color: orange;
+    background-color: rgb(240, 145, 77);
 }
 /*  */
 .navbar-collapse ul{
@@ -661,7 +661,7 @@ footer > .container{
     height: 30px;
     width: 30px;
     margin: 0 2px;
-    background-color: orange;
+    background-color: rgb(240, 145, 77);
     border-radius: 50%;
     display: inline-block;
     transition: background-color 0.6s ease;
@@ -729,7 +729,7 @@ footer > .container{
 
 .wrapper-fixed .item-category-fixed:hover{
     background-color: black;
-    color: orange;
+    color: rgb(240, 145, 77);
     border-radius: 12px;
  transition: 1s;
 }
@@ -894,7 +894,7 @@ footer > .container{
 
 @media screen and (min-width: 992px){
     .navbar{
-        padding: 1.5rem 6rem!important;
+        padding: .5rem 6rem!important;
     }
     .cart-container{
         width: 660px;
@@ -902,6 +902,7 @@ footer > .container{
         right: 6rem;
     }
     .banner{
+        margin-top: 125px;
         padding-top: 0;
         display: grid;
         grid-template-columns: 55% 45%;
@@ -945,6 +946,7 @@ footer > .container{
         display: none;
     }
     .navbar-fixed{
+        margin-top: 45px;
         display: grid;
     }
 }

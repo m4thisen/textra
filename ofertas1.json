@@ -3,7 +3,7 @@
         "name" : "Absolute regular 750",
         "category" : "Vodka",
         "price" : "1300",
-        "imgSrc" : "",
+        "imgSrc" : "catalogo/absolutebodka.png",
         "nro" : "401",
         "wpp" : "Oferta%20Pack%20X6%20Schneider%20$410",
         "descuento" : "-25%"
@@ -12,7 +12,7 @@
         "name" : "Patagonia 710",
         "category" : "Cerveza",
         "price" : "175",
-        "imgSrc" : "",
+        "imgSrc" : "catalogo/patagonia710.png",
         "nro" : "402",
         "wpp" : "Oferta%20Patagonia%20710%20$175",
         "descuento" : "-30%"
@@ -21,7 +21,7 @@
         "name" : "1 Pack X6 Quilmes Bock",
         "category" : "Ofertas",
         "price" : "450",
-        "imgSrc" : "",
+        "imgSrc" : "catalogo/packquilmesbock.png",
         "nro" : "403",
         "wpp" : "Oferta%20Pack%20X6%20Quilmes%20Bock%20$450",
         "descuento" : "-25%"
@@ -30,7 +30,7 @@
         "name" : "Oye Malbec",
         "category" : "Vinos",
         "price" : "140",
-        "imgSrc" : "",
+        "imgSrc" : "catalogo/oyemalbec.png",
         "nro" : "404",
         "wpp" : "Oferta%20Oye%20Malbec%20$140",
         "descuento" : "-50%"
