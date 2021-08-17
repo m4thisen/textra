@@ -2,121 +2,81 @@
     {
         "name" : "Schneider Lata 473ml.",
         "category" : "Cerveza",
-        "price" : "85",
+        "price" : "70",
         "imgSrc" : "",
-        "nro" : "1",
-        "wpp" : "Cerveza%20Schneider%20Lata473%20$85"
+        "nro" : "101",
+        "wpp" : "Cerveza%20Schneider%20Lata473%20$70"
     },
     {
-        "name" : "1 Pack X6 Schneider",
-        "category" : "Cerveza",
-        "price" : "410",
-        "imgSrc" : "",
-        "nro" : "401",
-        "wpp" : "Cerveza%20Pack%20X6%20Schneider%20$410"
-    },
-    {
-        "name" : "1 Pack X24 Schneider",
-        "category" : "Cerveza",
-        "price" : "1600",
-        "imgSrc" : "",
-        "nro" : "402",
-        "wpp" : "Cerveza%20Pack%20X24%20Schneider%20$1600"
-    },
-    {
-        "name" : "Quilmes Bock",
+        "name" : "Quilmes Bock/Redlager/Stout/0.0",
         "category" : "Cerveza",
         "price" : "75",
         "imgSrc" : "",
-        "nro" : "2",
+        "nro" : "102",
         "wpp" : "Cerveza%20Quilmes%20Bock%20$75"
-    },
-    {
-        "name" : "1 Pack X6 Quilmes Bock",
-        "category" : "Cerveza",
-        "price" : "450",
-        "imgSrc" : "",
-        "nro" : "403",
-        "wpp" : "Cerveza%20Pack%20X6%20Quilmes%20Bock%20$450"
-    },
-    {
-        "name" : "1 Pack X24 Quilmes Bock",
-        "category" : "Cerveza",
-        "price" : "1700",
-        "imgSrc" : "",
-        "nro" : "404",
-        "wpp" : "Cerveza%20Pack%20X24%20Quilmes%20Bock%20$1700"
     },
     {
         "name" : "Brahma lata 473ml.",
         "category" : "Cerveza",
+        "price" : "80",
+        "imgSrc" : "",
+        "nro" : "103",
+        "wpp" : "Cerveza%20Brahma%20Lata473%20$80"
+    },
+    {
+        "name" : "Quilmes 1890 lata",
+        "category" : "Cerveza",
+        "price" : "70",
+        "imgSrc" : "",
+        "nro" : "104",
+        "wpp" : "Cerveza%20Quilmes%1890%20$70"
+    },
+    {
+        "name" : "Amstel lata 473ml.",
+        "category" : "Cerveza",
         "price" : "75",
         "imgSrc" : "",
-        "nro" : "3",
-        "wpp" : "Cerveza%20Brahma%20Lata473%20$75"
+        "nro" : "105",
+        "wpp" : "Cerveza%20Amstel%20Lata473%20$75"
     },
     {
         "name" : "Budweiser lata 473ml.",
         "category" : "Cerveza",
         "price" : "80",
         "imgSrc" : "",
-        "nro" : "4",
+        "nro" : "106",
         "wpp" : "Cerveza%20Budweiser%20Lata473%20$80"
-    },
-    {
-        "name" : "Quilmes lata 473ml.",
-        "category" : "Cerveza",
-        "price" : "70",
-        "imgSrc" : "",
-        "nro" : "5",
-        "wpp" : "Cerveza%20Quilmes%20Lata473%20$70"
     },
     {
         "name" : "Imperial lata 473ml.",
         "category" : "Cerveza",
-        "price" : "85",
+        "price" : "90",
         "imgSrc" : "",
-        "nro" : "6",
-        "wpp" : "Cerveza%20Imperial%20Lata473%20$85"
+        "nro" : "107",
+        "wpp" : "Cerveza%20Imperial%20Lata473%20$90"
     },
     {
         "name" : "Imperial Golden lata 473ml.",
         "category" : "Cerveza",
         "price" : "90",
         "imgSrc" : "",
-        "nro" : "7",
+        "nro" : "108",
         "wpp" : "Cerveza%20Imperial%20Golden%20Lata473%20$90"
     },
     {
         "name" : "Warsteiner lata 473ml.",
         "category" : "Cerveza",
-        "price" : "25",
+        "price" : "95",
         "imgSrc" : "",
-        "nro" : "8",
-        "wpp" : "Cerveza%20Warsteiner%20Lata473%20$25"
-    },
-    {
-        "name" : "1 Pack X6 Warsteiner",
-        "category" : "Cerveza",
-        "price" : "550",
-        "imgSrc" : "",
-        "nro" : "405",
-        "wpp" : "Cerveza%20Pack%20X6%20Warsteiner%20$550"
-    },
-    {
-        "name" : "1 Pack X24 Warsteiner",
-        "category" : "Cerveza",
-        "price" : "2100",
-        "imgSrc" : "",
-        "nro" : "406",
-        "wpp" : "Cerveza%20Pack%20X24%20Warsteiner%20$2100"
+        "nro" : "109",
+        "wpp" : "Cerveza%20Warsteiner%20Lata473%20$95"
     },
     {
         "name" : "Miller lata 473ml.",
         "category" : "Cerveza",
         "price" : "95",
         "imgSrc" : "",
-        "nro" : "9",
+        "nro" : "110",
         "wpp" : "Cerveza%20Miller%20Lata473%20$95"
     },
     {
@@ -124,103 +84,111 @@
         "category" : "Cerveza",
         "price" : "95",
         "imgSrc" : "",
-        "nro" : "10",
+        "nro" : "111",
         "wpp" : "Cerveza%20Stella%20Artois%20Lata473%20$95"
     },
     {
         "name" : "Grolsh lata 473ml.",
         "category" : "Cerveza",
-        "price" : "110",
+        "price" : "100",
         "imgSrc" : "",
-        "nro" : "11",
-        "wpp" : "Cerveza%20Grolsh%20Lata473%20$110"
+        "nro" : "112",
+        "wpp" : "Cerveza%20Grolsh%20Lata473%20$100"
     },
     {
-        "name" : "Andes lata 473ml.",
+        "name" : "Andes lata 473ml. CRI/ROJA/NEG/IPA",
         "category" : "Cerveza",
         "price" : "95",
         "imgSrc" : "",
-        "nro" : "12",
-        "wpp" : "Cerveza%20Andes%20Lata473%20$95"
+        "nro" : "113",
+        "wpp" : "Cerveza%20Andes%20Lata473%20CRI/ROJA/NEG/IPA%20$95"
+    },
+    {
+        "name" : "Andes lata 473ml. RUBIA",
+        "category" : "Cerveza",
+        "price" : "85",
+        "imgSrc" : "",
+        "nro" : "114",
+        "wpp" : "Cerveza%20Andes%20Lata473%20RUBIA%20$85"
     },
     {
         "name" : "Heineken lata 473ml.",
         "category" : "Cerveza",
-        "price" : "105",
+        "price" : "110",
         "imgSrc" : "",
-        "nro" : "13",
-        "wpp" : "Cerveza%20Heineken%20Lata473%20$105"
+        "nro" : "115",
+        "wpp" : "Cerveza%20Heineken%20Lata473%20$110"
     },
     {
         "name" : "Imperial APA/IPA",
         "category" : "Cerveza",
-        "price" : "105",
+        "price" : "120",
         "imgSrc" : "",
-        "nro" : "14",
-        "wpp" : "Cerveza%20Imperial%20APA-API%20$105"
+        "nro" : "116",
+        "wpp" : "Cerveza%20Imperial%20APA-API%20$120"
     },
     {
         "name" : "Imperial Roja",
         "category" : "Cerveza",
-        "price" : "90",
+        "price" : "-",
         "imgSrc" : "",
-        "nro" : "15",
-        "wpp" : "Cerveza%20Imperial%20Roja%20$90"
+        "nro" : "117",
+        "wpp" : "Cerveza%20Imperial%20Roja%20$-"
     },
     {
         "name" : "Patagonia lata 473ml.",
         "category" : "Cerveza",
-        "price" : "110",
+        "price" : "115",
         "imgSrc" : "",
-        "nro" : "16",
-        "wpp" : "Cerveza%20Patagonia%20Lata473%20$110"
+        "nro" : "118",
+        "wpp" : "Cerveza%20Patagonia%20Lata473%20$115"
     },
     {
         "name" : "Patagonia 710",
         "category" : "Cerveza",
-        "price" : "175",
+        "price" : "180",
         "imgSrc" : "",
-        "nro" : "17",
-        "wpp" : "Cerveza%20Patagonia%20710%20$175"
+        "nro" : "119",
+        "wpp" : "Cerveza%20Patagonia%20710%20$180"
     },
     {
         "name" : "Corona Porron 355ml.",
         "category" : "Cerveza",
         "price" : "100",
         "imgSrc" : "",
-        "nro" : "18",
+        "nro" : "120",
         "wpp" : "Cerveza%20Corona%20Porron%20355ml.%20$100"
-    },
-    {
-        "name" : "1 Pack X24 Corona 355ml.",
-        "category" : "Cerveza",
-        "price" : "2000",
-        "imgSrc" : "",
-        "nro" : "407",
-        "wpp" : "Cerveza%20Pack%20X24%20Corona%20330cc%20$2000"
     },
     {
         "name" : "Corona 710",
         "category" : "Cerveza",
-        "price" : "180",
+        "price" : "200",
         "imgSrc" : "",
-        "nro" : "19",
-        "wpp" : "Cerveza%20Corona%20710%20$180"
-    },
-    {
-        "name" : "Heineken Porron",
-        "category" : "Cerveza",
-        "price" : "180",
-        "imgSrc" : "",
-        "nro" : "20",
-        "wpp" : "Cerveza%20Heineken%20Porron%20$180"
+        "nro" : "121",
+        "wpp" : "Cerveza%20Corona%20710%20$200"
     },
     {
         "name" : "Sol lata 473ml.",
         "category" : "Cerveza",
         "price" : "110",
         "imgSrc" : "",
-        "nro" : "21",
+        "nro" : "122",
         "wpp" : "Cerveza%20Sol%20Lata473%20$110"
+    },
+    {
+        "name" : "Peñon del Aguila normal",
+        "category" : "Cerveza",
+        "price" : "120",
+        "imgSrc" : "",
+        "nro" : "123",
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20$120"
+    },
+    {
+        "name" : "Peñon del Aguila frutados",
+        "category" : "Cerveza",
+        "price" : "150",
+        "imgSrc" : "",
+        "nro" : "124",
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20frutados%20$150"
     }
 ]

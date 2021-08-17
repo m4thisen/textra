@@ -1,0 +1,58 @@
+[
+    {
+        "name" : "1 Pack X6 Schneider",
+        "category" : "Cerveza",
+        "price" : "410",
+        "imgSrc" : "",
+        "nro" : "401",
+        "wpp" : "Cerveza%20Pack%20X6%20Schneider%20$410"
+    },
+    {
+        "name" : "1 Pack X24 Schneider",
+        "category" : "Cerveza",
+        "price" : "1600",
+        "imgSrc" : "",
+        "nro" : "402",
+        "wpp" : "Cerveza%20Pack%20X24%20Schneider%20$1600"
+    },
+    {
+        "name" : "1 Pack X6 Quilmes Bock",
+        "category" : "Cerveza",
+        "price" : "450",
+        "imgSrc" : "",
+        "nro" : "403",
+        "wpp" : "Cerveza%20Pack%20X6%20Quilmes%20Bock%20$450"
+    },
+    {
+        "name" : "1 Pack X24 Quilmes Bock",
+        "category" : "Cerveza",
+        "price" : "1700",
+        "imgSrc" : "",
+        "nro" : "404",
+        "wpp" : "Cerveza%20Pack%20X24%20Quilmes%20Bock%20$1700"
+    },
+    {
+        "name" : "1 Pack X6 Warsteiner",
+        "category" : "Cerveza",
+        "price" : "550",
+        "imgSrc" : "",
+        "nro" : "405",
+        "wpp" : "Cerveza%20Pack%20X6%20Warsteiner%20$550"
+    },
+    {
+        "name" : "1 Pack X24 Warsteiner",
+        "category" : "Cerveza",
+        "price" : "2100",
+        "imgSrc" : "",
+        "nro" : "406",
+        "wpp" : "Cerveza%20Pack%20X24%20Warsteiner%20$2100"
+    },
+    {
+        "name" : "1 Pack X24 Corona 355ml.",
+        "category" : "Cerveza",
+        "price" : "2000",
+        "imgSrc" : "",
+        "nro" : "407",
+        "wpp" : "Cerveza%20Pack%20X24%20Corona%20330cc%20$2000"
+    }
+]
