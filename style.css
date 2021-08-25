@@ -2,7 +2,7 @@
 
 :root{
     --ghost-white: black;
-    --fire-bush: rgb(240, 145, 77);
+    --fire-bush: rgb(225,112,54);
     --granite-gray: aliceblue;
     --baltic-sea: black;
     --trans: all 0.5s ease-in-out;
@@ -110,7 +110,7 @@ h1{
     width: 200px;
     height: auto;
     border: none;
-    background: rgb(240, 145, 77);
+    background: rgb(225,112,54);
     position: fixed;
     z-index: 998;
 }
@@ -197,7 +197,7 @@ h1{
 /* js related class */
 .show-navbar{
     height: 205px; 
-    background-color: rgb(240, 145, 77);
+    background-color: rgb(225,112,54);
 }
 /*  */
 .navbar-collapse ul{
@@ -661,7 +661,7 @@ footer > .container{
     height: 30px;
     width: 30px;
     margin: 0 2px;
-    background-color: rgb(240, 145, 77);
+    background-color: rgb(225,112,54);
     border-radius: 50%;
     display: inline-block;
     transition: background-color 0.6s ease;
@@ -729,7 +729,7 @@ footer > .container{
 
 .wrapper-fixed .item-category-fixed:hover{
     background-color: black;
-    color: rgb(240, 145, 77);
+    color: rgb(225,112,54);
     border-radius: 12px;
  transition: 1s;
 }
@@ -897,8 +897,8 @@ footer > .container{
         padding: .5rem 2rem!important;
     }
     .logo{
-        height: 4rem;
-        width: 5rem;
+        height: 5rem;
+        width: 6rem;
     }
     .cart-container{
         width: 660px;
@@ -957,7 +957,7 @@ footer > .container{
 
 @media screen and (min-width: 1200px){
     .navbar{
-        padding: 1rem 14rem!important;
+        padding: 1rem 4rem!important;
     }
     .cart-container{
         right: 14rem;
