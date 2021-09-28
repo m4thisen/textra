@@ -211,24 +211,32 @@
         "name" : "Camacho",
         "category" : "Tequila",
         "price" : "230",
-        "imgSrc" : "",
+        "imgSrc" : "fotostequilas/camacho-01.jpeg",
         "nro" : "401",
         "wpp" : "Tequila%20Camacho%20$230"
     },
     {
-        "name" : "DF",
+        "name" : "DF Blanco",
         "category" : "Tequila",
         "price" : "220",
-        "imgSrc" : "",
+        "imgSrc" : "fotostequilas/df-blanco-01.jpeg",
         "nro" : "402",
-        "wpp" : "Tequila%20DF%20$220"
+        "wpp" : "Tequila%20DF%20Dorado%20$220"
+    },
+    {
+        "name" : "DF Dorado",
+        "category" : "Tequila",
+        "price" : "220",
+        "imgSrc" : "fotostequilas/df-dorado-01.jpeg",
+        "nro" : "403",
+        "wpp" : "Tequila%20DF%20Blanco%20$220"
     },
     {
         "name" : "Jose Cuervo",
         "category" : "Tequila",
         "price" : "1500",
-        "imgSrc" : "",
-        "nro" : "403",
+        "imgSrc" : "fotostequilas/jose-cuervo-01.jpeg",
+        "nro" : "404",
         "wpp" : "Tequila%20Jose%20Cuervo%20$1500"
     }
 ]
