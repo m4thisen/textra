@@ -5,7 +5,10 @@
         "price" : "170",
         "imgSrc" : "fotossa/sprite-225-01.jpeg",
         "nro" : "1001",
-        "wpp" : "Sprite%202.25L%20$170"
+        "wpp" : "Sprite%202.25L%20$170",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Fanta 2.25L",
@@ -13,7 +16,10 @@
         "price" : "170",
         "imgSrc" : "fotossa/fanta-225-01.jpeg",
         "nro" : "1002",
-        "wpp" : "Fanta%202.25L%20$170"
+        "wpp" : "Fanta%202.25L%20$170",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Coca Cola 2.25L",
@@ -21,7 +27,10 @@
         "price" : "180",
         "imgSrc" : "fotossa/coca-225-01.jpeg",
         "nro" : "1003",
-        "wpp" : "Coca%20Cola%202.25L%20$180"
+        "wpp" : "Coca%20Cola%202.25L%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Coca Cola Light 1.5L",
@@ -29,7 +38,10 @@
         "price" : "135",
         "imgSrc" : "fotossa/coca-light-15-01.jpeg",
         "nro" : "1004",
-        "wpp" : "Coca%20Cola%20Light%202.25L%20$135"
+        "wpp" : "Coca%20Cola%20Light%202.25L%20$135",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Coca Cola Zero 2.25L",
@@ -37,7 +49,10 @@
         "price" : "135",
         "imgSrc" : "fotossa/coca-zero-225-01.jpeg",
         "nro" : "1005",
-        "wpp" : "Coca%20Cola%20Zero%202.25L%20$135"
+        "wpp" : "Coca%20Cola%20Zero%202.25L%20$135",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Coca Cola 1.5L",
@@ -45,7 +60,10 @@
         "price" : "135",
         "imgSrc" : "fotossa/coca-15-01.jpeg",
         "nro" : "1006",
-        "wpp" : "Coca%20Cola%201.5L%20$135"
+        "wpp" : "Coca%20Cola%201.5L%20$135",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Paso de los toros tonica",
@@ -53,7 +71,10 @@
         "price" : "110",
         "imgSrc" : "fotossa/paso-de-los-toros-tonica-01.jpeg",
         "nro" : "1007",
-        "wpp" : "Pas%20de%20los%20toros%20tonica%20$110"
+        "wpp" : "Pas%20de%20los%20toros%20tonica%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Schweppes Pomelo 2.25L",
@@ -61,7 +82,10 @@
         "price" : "125",
         "imgSrc" : "fotossa/schweppes-pomelo-225-01.jpeg",
         "nro" : "1008",
-        "wpp" : "Schweppes%20Pomelo%202.25L%20$125"
+        "wpp" : "Schweppes%20Pomelo%202.25L%20$125",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Pepsi regular 1.5L",
@@ -69,7 +93,10 @@
         "price" : "110",
         "imgSrc" : "fotossa/pepsi-15-01.jpeg",
         "nro" : "1009",
-        "wpp" : "Pepsi%20regular%201.5L%20$110"
+        "wpp" : "Pepsi%20regular%201.5L%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Pepsi black 1.5L",
@@ -77,7 +104,10 @@
         "price" : "110",
         "imgSrc" : "fotossa/pepsi-black-15-01.jpeg",
         "nro" : "1010",
-        "wpp" : "Pepsi%black%201.5L%20$110"
+        "wpp" : "Pepsi%black%201.5L%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Paso de los toros Pomelo comun 1.5L",
@@ -85,7 +115,10 @@
         "price" : "110",
         "imgSrc" : "fotossa/pas-de-los-toros-15-01.jpeg",
         "nro" : "1011",
-        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20comun%201.5L%20$110"
+        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20comun%201.5L%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Paso de los toros Pomelo light 1.5L",
@@ -93,7 +126,10 @@
         "price" : "110",
         "imgSrc" : "fotossa/paso-de-los-toros-free-15-01.jpeg",
         "nro" : "1012",
-        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20light%201.5L%20$110"
+        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20light%201.5L%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Paso de los toros Pomelo tonica 1.5L",
@@ -101,7 +137,10 @@
         "price" : "110",
         "imgSrc" : "fotossa/paso-de-los-toros-tonica-01.jpeg",
         "nro" : "1013",
-        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20tonica%201.5L%20$110"
+        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20tonica%201.5L%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Speed",
@@ -109,7 +148,10 @@
         "price" : "65",
         "imgSrc" : "fotossa/speed-01.jpeg",
         "nro" : "1014",
-        "wpp" : "Speed%20$65"
+        "wpp" : "Speed%20$65",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Speed XL",
@@ -117,7 +159,10 @@
         "price" : "110",
         "imgSrc" : "fotossa/speed-xl-01.jpeg",
         "nro" : "1015",
-        "wpp" : "Speed%20XL%20$110"
+        "wpp" : "Speed%20XL%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Red Bull",
@@ -125,7 +170,10 @@
         "price" : "0",
         "imgSrc" : "fotossa/red-bull-tropical-01.jpeg",
         "nro" : "1016",
-        "wpp" : "RedBull%20$-"
+        "wpp" : "RedBull%20$-",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Monster Guarana",
@@ -133,7 +181,10 @@
         "price" : "130",
         "imgSrc" : "fotossa/monster-guarana-01.jpeg",
         "nro" : "1017",
-        "wpp" : "Monster%20Guarana%20$130"
+        "wpp" : "Monster%20Guarana%20$130",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Monster Mango",
@@ -141,7 +192,10 @@
         "price" : "130",
         "imgSrc" : "fotossa/monster-mango-loco-01.jpeg",
         "nro" : "1018",
-        "wpp" : "Monster%20Mango%20$130"
+        "wpp" : "Monster%20Mango%20$130",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Monster Taurina",
@@ -149,7 +203,10 @@
         "price" : "130",
         "imgSrc" : "fotossa/monster-taurina-01.jpeg",
         "nro" : "1019",
-        "wpp" : "Monster%20Taurina%20$130"
+        "wpp" : "Monster%20Taurina%20$130",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Monster Sunrise",
@@ -157,7 +214,10 @@
         "price" : "130",
         "imgSrc" : "fotossa/monster-zero-azucares-01.jpeg",
         "nro" : "1020",
-        "wpp" : "Monster%20Sunrise%20$130"
+        "wpp" : "Monster%20Sunrise%20$130",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Monster Paradise",
@@ -165,7 +225,10 @@
         "price" : "130",
         "imgSrc" : "fotossa/monster-zero-sugar-01.jpeg",
         "nro" : "1021",
-        "wpp" : "Monster%20Paradise%20$130"
+        "wpp" : "Monster%20Paradise%20$130",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Cepita Naranja 1L",
@@ -173,7 +236,10 @@
         "price" : "0",
         "imgSrc" : "fotossa/cepita-naranja-1-01.jpeg",
         "nro" : "1022",
-        "wpp" : "Cepita%20Naranja%201L%20$-"
+        "wpp" : "Cepita%20Naranja%201L%20$-",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Gatorade 500ml Azul",
@@ -181,7 +247,10 @@
         "price" : "70",
         "imgSrc" : "fotossa/gatorade-azul-500-01.jpeg",
         "nro" : "1023",
-        "wpp" : "Gatorade%20500ml%20Azul%20$70"
+        "wpp" : "Gatorade%20500ml%20Azul%20$70",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Gatorade 500ml Manzana",
@@ -189,7 +258,10 @@
         "price" : "70",
         "imgSrc" : "fotossa/gatorade-manzana-500-01.jpeg",
         "nro" : "1024",
-        "wpp" : "Gatorade%20500ml%20Manzana%20$70"
+        "wpp" : "Gatorade%20500ml%20Manzana%20$70",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Gatorade 500ml Naranja",
@@ -197,7 +269,10 @@
         "price" : "70",
         "imgSrc" : "fotossa/gatorade-naranja-500-01.jpeg",
         "nro" : "1025",
-        "wpp" : "Gatorade%20500ml%20Naranja%20$70"
+        "wpp" : "Gatorade%20500ml%20Naranja%20$70",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Gatorade 500ml Rojo",
@@ -205,7 +280,10 @@
         "price" : "70",
         "imgSrc" : "fotossa/gatorade-rojo-500-01.jpeg",
         "nro" : "1026",
-        "wpp" : "Gatorade%20500ml%20Rojo%20$70"
+        "wpp" : "Gatorade%20500ml%20Rojo%20$70",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Eco de los Andes 1.5L",
@@ -213,7 +291,10 @@
         "price" : "60",
         "imgSrc" : "fotossa/eco-de-los-andes-15-01.jpeg",
         "nro" : "1027",
-        "wpp" : "Eco%20de%20los%20Andes%201.5L%20$60"
+        "wpp" : "Eco%20de%20los%20Andes%201.5L%20$60",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Agua Glaciar 2L",
@@ -221,6 +302,9 @@
         "price" : "70",
         "imgSrc" : "fotossa/glaciar-2-01.jpeg",
         "nro" : "1028",
-        "wpp" : "Agua%20Glaciar%202L%20$70"
+        "wpp" : "Agua%20Glaciar%202L%20$70",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
 ]

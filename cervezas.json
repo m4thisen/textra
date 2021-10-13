@@ -5,7 +5,10 @@
         "price" : "70",
         "imgSrc" : "fotoscervezas/schneider.jpeg",
         "nro" : "101",
-        "wpp" : "Cerveza%20Schneider%20Lata473%20$70"
+        "wpp" : "Cerveza%20Schneider%20Lata473%20$70",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Quilmes Bock",
@@ -13,7 +16,10 @@
         "price" : "75",
         "imgSrc" : "fotoscervezas/quilmes-bock-01.jpeg",
         "nro" : "102",
-        "wpp" : "Cerveza%20Quilmes%20Bock%20$75"
+        "wpp" : "Cerveza%20Quilmes%20Bock%20$75",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Quilmes Redlager",
@@ -21,7 +27,10 @@
         "price" : "75",
         "imgSrc" : "fotoscervezas/quilmes-red.lager-01.jpg",
         "nro" : "103",
-        "wpp" : "Cerveza%20Quilmes%20Redlager%20$75"
+        "wpp" : "Cerveza%20Quilmes%20Redlager%20$75",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Quilmes Stout",
@@ -29,7 +38,10 @@
         "price" : "75",
         "imgSrc" : "fotoscervezas/quilmes-stout-01.jpeg",
         "nro" : "104",
-        "wpp" : "Cerveza%20Quilmes%20Stout%20$75"
+        "wpp" : "Cerveza%20Quilmes%20Stout%20$75",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Quilmes 0.0",
@@ -37,7 +49,10 @@
         "price" : "75",
         "imgSrc" : "fotoscervezas/quilmes-0.0-01.jpg",
         "nro" : "105",
-        "wpp" : "Cerveza%20Quilmes%20CERO%20$75"
+        "wpp" : "Cerveza%20Quilmes%20CERO%20$75",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Brahma lata 473ml.",
@@ -45,7 +60,10 @@
         "price" : "80",
         "imgSrc" : "fotoscervezas/brahma-01.jpeg",
         "nro" : "106",
-        "wpp" : "Cerveza%20Brahma%20Lata473%20$80"
+        "wpp" : "Cerveza%20Brahma%20Lata473%20$80",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Quilmes 1890 lata",
@@ -53,7 +71,10 @@
         "price" : "70",
         "imgSrc" : "fotoscervezas/1890-01.jpeg",
         "nro" : "107",
-        "wpp" : "Cerveza%20Quilmes%1890%20$70"
+        "wpp" : "Cerveza%20Quilmes%1890%20$70",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Amstel lata 473ml.",
@@ -61,7 +82,10 @@
         "price" : "75",
         "imgSrc" : "fotoscervezas/amstel-01.jpeg",
         "nro" : "108",
-        "wpp" : "Cerveza%20Amstel%20Lata473%20$75"
+        "wpp" : "Cerveza%20Amstel%20Lata473%20$75",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Budweiser lata 473ml.",
@@ -69,7 +93,10 @@
         "price" : "80",
         "imgSrc" : "fotoscervezas/budweiser-01.jpeg",
         "nro" : "109",
-        "wpp" : "Cerveza%20Budweiser%20Lata473%20$80"
+        "wpp" : "Cerveza%20Budweiser%20Lata473%20$80",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Imperial lata 473ml.",
@@ -77,7 +104,10 @@
         "price" : "90",
         "imgSrc" : "fotoscervezas/imperial-01.jpeg",
         "nro" : "110",
-        "wpp" : "Cerveza%20Imperial%20Lata473%20$90"
+        "wpp" : "Cerveza%20Imperial%20Lata473%20$90",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Imperial Golden lata 473ml.",
@@ -85,7 +115,10 @@
         "price" : "90",
         "imgSrc" : "fotoscervezas/imperial-golden-01.jpeg",
         "nro" : "111",
-        "wpp" : "Cerveza%20Imperial%20Golden%20Lata473%20$90"
+        "wpp" : "Cerveza%20Imperial%20Golden%20Lata473%20$90",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Warsteiner lata 473ml.",
@@ -93,7 +126,10 @@
         "price" : "95",
         "imgSrc" : "fotoscervezas/warsteiner-01.jpeg",
         "nro" : "112",
-        "wpp" : "Cerveza%20Warsteiner%20Lata473%20$95"
+        "wpp" : "Cerveza%20Warsteiner%20Lata473%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Miller lata 473ml.",
@@ -101,7 +137,10 @@
         "price" : "95",
         "imgSrc" : "fotoscervezas/miller-01.jpeg",
         "nro" : "113",
-        "wpp" : "Cerveza%20Miller%20Lata473%20$95"
+        "wpp" : "Cerveza%20Miller%20Lata473%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Stella Artois lata 473ml.",
@@ -109,7 +148,10 @@
         "price" : "95",
         "imgSrc" : "fotoscervezas/stella-01.jpeg",
         "nro" : "114",
-        "wpp" : "Cerveza%20Stella%20Artois%20Lata473%20$95"
+        "wpp" : "Cerveza%20Stella%20Artois%20Lata473%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Grolsh lata 473ml.",
@@ -117,7 +159,10 @@
         "price" : "100",
         "imgSrc" : "fotoscervezas/grolsch-01.jpeg",
         "nro" : "115",
-        "wpp" : "Cerveza%20Grolsh%20Lata473%20$100"
+        "wpp" : "Cerveza%20Grolsh%20Lata473%20$100",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Andes lata 473ml. Criolla",
@@ -125,7 +170,10 @@
         "price" : "95",
         "imgSrc" : "fotoscervezas/andes-criolla-01.jpeg",
         "nro" : "116",
-        "wpp" : "Cerveza%20Andes%20Lata473%20Criolla%20$95"
+        "wpp" : "Cerveza%20Andes%20Lata473%20Criolla%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Andes lata 473ml. Roja",
@@ -133,7 +181,10 @@
         "price" : "95",
         "imgSrc" : "fotoscervezas/andes-roja-01.jpeg",
         "nro" : "117",
-        "wpp" : "Cerveza%20Andes%20Lata473%20Roja%20$95"
+        "wpp" : "Cerveza%20Andes%20Lata473%20Roja%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Andes lata 473ml. Negra",
@@ -141,7 +192,10 @@
         "price" : "95",
         "imgSrc" : "fotoscervezas/andes-negra-01.jpeg",
         "nro" : "118",
-        "wpp" : "Cerveza%20Andes%20Lata473%20Negra%20$95"
+        "wpp" : "Cerveza%20Andes%20Lata473%20Negra%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Andes lata 473ml. IPA",
@@ -149,7 +203,10 @@
         "price" : "95",
         "imgSrc" : "fotoscervezas/andes-ipa-01.jpeg",
         "nro" : "119",
-        "wpp" : "Cerveza%20Andes%20Lata473%20IPA%20$95"
+        "wpp" : "Cerveza%20Andes%20Lata473%20IPA%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Andes lata 473ml. Rubia",
@@ -157,7 +214,10 @@
         "price" : "85",
         "imgSrc" : "fotoscervezas/andes-rubia-01.jpeg",
         "nro" : "120",
-        "wpp" : "Cerveza%20Andes%20Lata473%20Rubia%20$85"
+        "wpp" : "Cerveza%20Andes%20Lata473%20Rubia%20$85",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Heineken lata 473ml.",
@@ -165,7 +225,10 @@
         "price" : "110",
         "imgSrc" : "fotoscervezas/heinekenlata.jpeg",
         "nro" : "121",
-        "wpp" : "Cerveza%20Heineken%20Lata473%20$110"
+        "wpp" : "Cerveza%20Heineken%20Lata473%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Imperial APA",
@@ -173,7 +236,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/imperial-apa-01.jpeg",
         "nro" : "122",
-        "wpp" : "Cerveza%20Imperial%20APA%20$120"
+        "wpp" : "Cerveza%20Imperial%20APA%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Imperial IPA",
@@ -181,7 +247,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/imperial-ipa-01.jpeg",
         "nro" : "123",
-        "wpp" : "Cerveza%20Imperial%20IPA%20$120"
+        "wpp" : "Cerveza%20Imperial%20IPA%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Imperial Roja",
@@ -189,7 +258,10 @@
         "price" : "0",
         "imgSrc" : "fotoscervezas/imperial-roja-01.jpeg",
         "nro" : "124",
-        "wpp" : "Cerveza%20Imperial%20Roja%20$-"
+        "wpp" : "Cerveza%20Imperial%20Roja%20$-",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia lata 473ml. 24.7",
@@ -197,7 +269,10 @@
         "price" : "115",
         "imgSrc" : "fotoscervezas/patagonia-24.7-lata-01.jpg",
         "nro" : "125",
-        "wpp" : "Cerveza%20Patagonia%20Lata473%2024.7%20$115"
+        "wpp" : "Cerveza%20Patagonia%20Lata473%2024.7%20$115",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia lata 473ml. Amber",
@@ -205,7 +280,10 @@
         "price" : "115",
         "imgSrc" : "fotoscervezas/patagonia-amber-lata-01.jpeg",
         "nro" : "126",
-        "wpp" : "Cerveza%20Patagonia%20Lata473%20Amber%20$115"
+        "wpp" : "Cerveza%20Patagonia%20Lata473%20Amber%20$115",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia lata 473ml. Bohemian",
@@ -213,7 +291,10 @@
         "price" : "115",
         "imgSrc" : "fotoscervezas/patagonia-bohemian-01.jpeg",
         "nro" : "127",
-        "wpp" : "Cerveza%20Patagonia%20Lata473%20Bohemian%20$115"
+        "wpp" : "Cerveza%20Patagonia%20Lata473%20Bohemian%20$115",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia lata 473ml. Kune",
@@ -221,7 +302,10 @@
         "price" : "115",
         "imgSrc" : "fotoscervezas/patagonia-kune-lata-01.jpeg",
         "nro" : "128",
-        "wpp" : "Cerveza%20Patagonia%20Lata473%20Kune%20$115"
+        "wpp" : "Cerveza%20Patagonia%20Lata473%20Kune%20$115",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia lata 473ml. Weisse",
@@ -229,7 +313,10 @@
         "price" : "115",
         "imgSrc" : "fotoscervezas/patagonia-weisse-lata-01.jpeg",
         "nro" : "129",
-        "wpp" : "Cerveza%20Patagonia%20Lata473%20Weisse%20$115"
+        "wpp" : "Cerveza%20Patagonia%20Lata473%20Weisse%20$115",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia 710ml. 24.7",
@@ -237,7 +324,10 @@
         "price" : "180",
         "imgSrc" : "fotoscervezas/patagonia-24.7-710-01.jpg",
         "nro" : "130",
-        "wpp" : "Cerveza%20Patagonia%20710%2024.7%20$180"
+        "wpp" : "Cerveza%20Patagonia%20710%2024.7%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia 710ml. Amber",
@@ -245,7 +335,10 @@
         "price" : "180",
         "imgSrc" : "fotoscervezas/patagonia-amber-710-01.jpeg",
         "nro" : "131",
-        "wpp" : "Cerveza%20Patagonia%20710%20Amber%20$180"
+        "wpp" : "Cerveza%20Patagonia%20710%20Amber%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia 710ml. Lager",
@@ -253,7 +346,10 @@
         "price" : "180",
         "imgSrc" : "fotoscervezas/patagonia-lager-710-01.jpeg",
         "nro" : "132",
-        "wpp" : "Cerveza%20Patagonia%20710%20Lager%20$180"
+        "wpp" : "Cerveza%20Patagonia%20710%20Lager%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia 710ml. Kune",
@@ -261,7 +357,10 @@
         "price" : "180",
         "imgSrc" : "fotoscervezas/patagonia-kune-710-01.jpeg",
         "nro" : "133",
-        "wpp" : "Cerveza%20Patagonia%20710%20Kune%20$180"
+        "wpp" : "Cerveza%20Patagonia%20710%20Kune%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia 710ml. Weisse",
@@ -269,7 +368,10 @@
         "price" : "180",
         "imgSrc" : "fotoscervezas/patagonia-weisse-710-01.jpeg",
         "nro" : "134",
-        "wpp" : "Cerveza%20Patagonia%20710%20Weisse%20$180"
+        "wpp" : "Cerveza%20Patagonia%20710%20Weisse%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Patagonia 710ml. Bohemian",
@@ -277,7 +379,10 @@
         "price" : "180",
         "imgSrc" : "fotoscervezas/patagonia-bohemian-710-01.jpeg",
         "nro" : "135",
-        "wpp" : "Cerveza%20Patagonia%20710%20Bohemian%20$180"
+        "wpp" : "Cerveza%20Patagonia%20710%20Bohemian%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Corona Porron 355ml.",
@@ -285,7 +390,10 @@
         "price" : "100",
         "imgSrc" : "fotoscervezas/corona-porron-01.jpeg",
         "nro" : "136",
-        "wpp" : "Cerveza%20Corona%20Porron%20355ml.%20$100"
+        "wpp" : "Cerveza%20Corona%20Porron%20355ml.%20$100",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Corona 710",
@@ -293,7 +401,10 @@
         "price" : "200",
         "imgSrc" : "fotoscervezas/corona-710-01.jpeg",
         "nro" : "137",
-        "wpp" : "Cerveza%20Corona%20710%20$200"
+        "wpp" : "Cerveza%20Corona%20710%20$200",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Sol lata 473ml.",
@@ -301,7 +412,10 @@
         "price" : "110",
         "imgSrc" : "fotoscervezas/sol-01.jpeg",
         "nro" : "138",
-        "wpp" : "Cerveza%20Sol%20Lata473%20$110"
+        "wpp" : "Cerveza%20Sol%20Lata473%20$110",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Arandano",
@@ -309,7 +423,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-arandanos-01.jpeg",
         "nro" : "139",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Arandano%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Arandano%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Maracuya",
@@ -317,7 +434,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-maracuya-01.jpeg",
         "nro" : "140",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Maracuya%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Maracuya%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Sandia",
@@ -325,7 +445,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-sandia-01.jpeg",
         "nro" : "141",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Sandia%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Sandia%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Waldbier",
@@ -333,7 +456,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-waldbier-01.jpeg",
         "nro" : "142",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Sandia%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Sandia%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila IPA",
@@ -341,7 +467,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-ipa-01.jpeg",
         "nro" : "143",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20IPA%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20IPA%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Mexican",
@@ -349,7 +478,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-mexican-01.jpeg",
         "nro" : "144",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Mexican%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Mexican%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Oktoberfest",
@@ -357,7 +489,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-oktoberfest-01.jpeg",
         "nro" : "145",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Oktoberfest%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Oktoberfest%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Schwarzbier",
@@ -365,7 +500,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-schwarzbier-01.jpeg",
         "nro" : "146",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Schwarzbier%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Schwarzbier%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Kolsch",
@@ -373,7 +511,10 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-kolsch-01.jpeg",
         "nro" : "147",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Kolsch%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Kolsch%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Peñon del Aguila Honigbier",
@@ -381,6 +522,9 @@
         "price" : "120",
         "imgSrc" : "fotoscervezas/peñon-honigbier-01.jpeg",
         "nro" : "148",
-        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Honigbier%20$120"
+        "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Honigbier%20$120",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
 ]

@@ -5,7 +5,10 @@
         "price" : "70",
         "imgSrc" : "fotosotros/hielo-1kg-01.jpeg",
         "nro" : "1101",
-        "wpp" : "Bolsa%20Hielo%201KG%20$70"
+        "wpp" : "Bolsa%20Hielo%201KG%20$70",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Bolsa Hielo 2KG",
@@ -13,7 +16,10 @@
         "price" : "100",
         "imgSrc" : "fotosotros/hielo-2kg-01.jpeg",
         "nro" : "1102",
-        "wpp" : "Bolsa%20Hielo%202KG%20$100"
+        "wpp" : "Bolsa%20Hielo%202KG%20$100",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Bolsa Hielo 3KG",
@@ -21,7 +27,10 @@
         "price" : "140",
         "imgSrc" : "fotosotros/hielo-3kg-01.jpeg",
         "nro" : "1103",
-        "wpp" : "Bolsa%20Hielo%203KG%20$140"
+        "wpp" : "Bolsa%20Hielo%203KG%20$140",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Bolsa Hielo 4KG",
@@ -29,7 +38,10 @@
         "price" : "-",
         "imgSrc" : "",
         "nro" : "1104",
-        "wpp" : "Bolsa%20Hielo%204KG%20$-"
+        "wpp" : "Bolsa%20Hielo%204KG%20$-",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Bolsa Hielo 15KG",
@@ -37,7 +49,10 @@
         "price" : "-",
         "imgSrc" : "",
         "nro" : "1105",
-        "wpp" : "Bolsa%20Hielo%2015KG%20$-"
+        "wpp" : "Bolsa%20Hielo%2015KG%20$-",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Vasos 500CC x1",
@@ -45,7 +60,10 @@
         "price" : "10",
         "imgSrc" : "",
         "nro" : "1106",
-        "wpp" : "Vaso%20500CC%20x1%20$10"
+        "wpp" : "Vaso%20500CC%20x1%20$10",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Set Vasos Stella",
@@ -53,7 +71,10 @@
         "price" : "1100",
         "imgSrc" : "",
         "nro" : "1107",
-        "wpp" : "Set%20Vasos%20Stella%20$1100"
+        "wpp" : "Set%20Vasos%20Stella%20$1100",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
     ,
     {
@@ -62,7 +83,10 @@
         "price" : "1300",
         "imgSrc" : "",
         "nro" : "1108",
-        "wpp" : "Set%20Vasos%20Patagonia%20$1300"
+        "wpp" : "Set%20Vasos%20Patagonia%20$1300",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
     ,
     {
@@ -71,7 +95,10 @@
         "price" : "4500",
         "imgSrc" : "",
         "nro" : "1109",
-        "wpp" : "Jagermeister%20700ml.%20+%202%20vasos%20$4500"
+        "wpp" : "Jagermeister%20700ml.%20+%202%20vasos%20$4500",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Set Vasos Andes",
@@ -79,7 +106,10 @@
         "price" : "850",
         "imgSrc" : "",
         "nro" : "1110",
-        "wpp" : "Set%20Vasos%20Andes%20$850"
+        "wpp" : "Set%20Vasos%20Andes%20$850",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Set Vasos Budweiser",
@@ -87,6 +117,9 @@
         "price" : "1050",
         "imgSrc" : "",
         "nro" : "1111",
-        "wpp" : "Set%20Vasos%20Budweiser%20$1050"
+        "wpp" : "Set%20Vasos%20Budweiser%20$1050",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
 ]

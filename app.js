@@ -109,9 +109,10 @@ function loadJSONCervezas(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -142,9 +143,10 @@ function loadJSONVodkas(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -175,9 +177,10 @@ function loadJSONAperitivos(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -208,9 +211,10 @@ function loadJSONVinos(){
                 <div class = "product-item"">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -242,9 +246,10 @@ function loadJSONWhisky(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -275,9 +280,10 @@ function loadJSONGin(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -308,9 +314,10 @@ function loadJSONChampagne(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -344,9 +351,10 @@ function loadJSONSa(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -377,9 +385,10 @@ function loadJSONOtros(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">

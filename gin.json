@@ -5,7 +5,10 @@
         "price" : "670",
         "imgSrc" : "fotosgins/brighton-01.jpeg",
         "nro" : "501",
-        "wpp" : "Gin%20Brighton%20$670"
+        "wpp" : "Gin%20Brighton%20$670",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Gordons",
@@ -13,7 +16,10 @@
         "price" : "740",
         "imgSrc" : "fotosgins/gordons-01.jpeg",
         "nro" : "502",
-        "wpp" : "Gin%20Gordons%20$740"
+        "wpp" : "Gin%20Gordons%20$740",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Heraclito London Dry",
@@ -21,7 +27,10 @@
         "price" : "990",
         "imgSrc" : "fotosgins/heraclito-london-dry-01.jpeg",
         "nro" : "503"
-        ,"wpp" : "Gin%20Heraclito%20London%20Dry%20$990"
+        ,"wpp" : "Gin%20Heraclito%20London%20Dry%20$990",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Heraclito & Macedonio",
@@ -29,7 +38,10 @@
         "price" : "1090",
         "imgSrc" : "fotosgins/heraclito-macedonio-01.jpeg",
         "nro" : "504",
-        "wpp" : "Gin%20Heraclito%20y%20Macedonio%20$1090"
+        "wpp" : "Gin%20Heraclito%20y%20Macedonio%20$1090",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Inmigrante",
@@ -37,7 +49,10 @@
         "price" : "1050",
         "imgSrc" : "fotosgins/inmigrante-01.jpeg",
         "nro" : "505",
-        "wpp" : "Gin%20Inmigrante%20$1050"
+        "wpp" : "Gin%20Inmigrante%20$1050",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Principe Apostoles",
@@ -45,7 +60,10 @@
         "price" : "1500",
         "imgSrc" : "fotosgins/principe-apostoles-01.jpeg",
         "nro" : "506",
-        "wpp" : "Gin%20Principe%20Apostoles%20$1500"
+        "wpp" : "Gin%20Principe%20Apostoles%20$1500",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Principe Apostoles Rosa",
@@ -53,7 +71,10 @@
         "price" : "1500",
         "imgSrc" : "fotosgins/principe-apostoles-rosa-01.jpeg",
         "nro" : "507",
-        "wpp" : "Gin%20Principe%20Apostoles%20Rosa%20$1500"
+        "wpp" : "Gin%20Principe%20Apostoles%20Rosa%20$1500",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Kunuk",
@@ -61,7 +82,10 @@
         "price" : "1500",
         "imgSrc" : "fotosgins/kunuk-01.jpeg",
         "nro" : "508",
-        "wpp" : "Gin%20Kunuk%20$1500"
+        "wpp" : "Gin%20Kunuk%20$1500",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Beefeater 750ml.",
@@ -69,7 +93,10 @@
         "price" : "1840",
         "imgSrc" : "fotosgins/beefeater-750-01.jpeg",
         "nro" : "509",
-        "wpp" : "Gin%20Beefeater%20750ml%20$1840"
+        "wpp" : "Gin%20Beefeater%20750ml%20$1840",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Beefeater 1L.",
@@ -77,7 +104,10 @@
         "price" : "1840",
         "imgSrc" : "fotosgins/beefeater-1L-01.jpeg",
         "nro" : "510",
-        "wpp" : "Gin%20Beefeater%201L%20$1840"
+        "wpp" : "Gin%20Beefeater%201L%20$1840",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Buenos Aires",
@@ -85,7 +115,10 @@
         "price" : "1600",
         "imgSrc" : "fotosgins/buenos-aires-01.jpeg",
         "nro" : "511",
-        "wpp" : "Gin%20Buenos%20Aires%20$1600"
+        "wpp" : "Gin%20Buenos%20Aires%20$1600",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Tanqueray",
@@ -93,7 +126,10 @@
         "price" : "1730",
         "imgSrc" : "fotosgins/tanqueray-01.jpeg",
         "nro" : "512",
-        "wpp" : "Gin%20Tanqueray%20$1730"
+        "wpp" : "Gin%20Tanqueray%20$1730",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Tanqueray Sevilla",
@@ -101,6 +137,9 @@
         "price" : "2200",
         "imgSrc" : "fotosgins/tanqueray-sevilla-01.jpeg",
         "nro" : "513",
-        "wpp" : "Gin%20Tanqueray%20Sevilla%20$2200"
+        "wpp" : "Gin%20Tanqueray%20Sevilla%20$2200",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
 ]

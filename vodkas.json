@@ -5,7 +5,10 @@
         "price" : "160",
         "imgSrc" : "fotosvodkas/drlemon-1LT-01.jpeg",
         "nro" : "301",
-        "wpp" : "Vodka%20Dr.%20Lemon%201LT%20$160"
+        "wpp" : "Vodka%20Dr.%20Lemon%201LT%20$160",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Dr. Lemon lata limon",
@@ -13,7 +16,10 @@
         "price" : "95",
         "imgSrc" : "fotosvodkas/drlemon-limon-01.jpeg",
         "nro" : "302",
-        "wpp" : "Vodka%20Dr.%20Lemon%20lata%20limon%20$95"
+        "wpp" : "Vodka%20Dr.%20Lemon%20lata%20limon%20$95",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Dr. Lemon lata pomelo",
@@ -21,7 +27,10 @@
         "price" : "95",
         "imgSrc" : "fotosvodkas/drlemon-pomelo-01.jpeg",
         "nro" : "303",
-        "wpp" : "Vodka%20Dr.%20Lemon%20lata%20pomelo%20$95"
+        "wpp" : "Vodka%20Dr.%20Lemon%20lata%20pomelo%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Skyy",
@@ -29,7 +38,10 @@
         "price" : "550",
         "imgSrc" : "fotosvodkas/skyy-01.jpeg",
         "nro" : "304",
-        "wpp" : "Vodka%20Skyy%20$550"
+        "wpp" : "Vodka%20Skyy%20$550",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Skyy Raspberry",
@@ -37,7 +49,10 @@
         "price" : "550",
         "imgSrc" : "fotosvodkas/skyy-raspberry-01.jpeg",
         "nro" : "305",
-        "wpp" : "Vodka%20Skyy%20Raspberry%20$550"
+        "wpp" : "Vodka%20Skyy%20Raspberry%20$550",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Smirnoff",
@@ -45,7 +60,10 @@
         "price" : "460",
         "imgSrc" : "fotosvodkas/smirnoff-01.jpeg",
         "nro" : "306",
-        "wpp" : "Vodka%20Smirnoff%20$460"
+        "wpp" : "Vodka%20Smirnoff%20$460",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Smirnoff Citric",
@@ -53,7 +71,10 @@
         "price" : "520",
         "imgSrc" : "fotosvodkas/smirnoff-citric-01.jpeg",
         "nro" : "307",
-        "wpp" : "Vodka%20Smirnoff%20Citric%20$520"
+        "wpp" : "Vodka%20Smirnoff%20Citric%20$520",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Smirnoff Citrus",
@@ -61,7 +82,10 @@
         "price" : "520",
         "imgSrc" : "fotosvodkas/smirnoff-citrus-01.jpeg",
         "nro" : "308",
-        "wpp" : "Vodka%20Smirnoff%20Citrus%20$520"
+        "wpp" : "Vodka%20Smirnoff%20Citrus%20$520",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Smirnoff Manzana",
@@ -69,7 +93,10 @@
         "price" : "520",
         "imgSrc" : "fotosvodkas/smirnoff-manzana-01.jpeg",
         "nro" : "309",
-        "wpp" : "Vodka%20Smirnoff%20Manzana%20$520"
+        "wpp" : "Vodka%20Smirnoff%20Manzana%20$520",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Smirnoff Raspberry",
@@ -77,7 +104,10 @@
         "price" : "520",
         "imgSrc" : "fotosvodkas/smirnoff-raspberry-01.jpeg",
         "nro" : "310",
-        "wpp" : "Vodka%20Smirnoff%20Raspberry%20$520"
+        "wpp" : "Vodka%20Smirnoff%20Raspberry%20$520",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Smirnoff Sandia",
@@ -85,7 +115,10 @@
         "price" : "520",
         "imgSrc" : "fotosvodkas/smirnoff-sandia-01.jpeg",
         "nro" : "311",
-        "wpp" : "Vodka%20Smirnoff%20Sandia%20$520"
+        "wpp" : "Vodka%20Smirnoff%20Sandia%20$520",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Sernova",
@@ -93,7 +126,10 @@
         "price" : "400",
         "imgSrc" : "fotosvodkas/sernova-01.jpeg",
         "nro" : "312",
-        "wpp" : "Vodka%20Sernova%20$400"
+        "wpp" : "Vodka%20Sernova%20$400",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Sernova Wild Berries",
@@ -101,7 +137,10 @@
         "price" : "430",
         "imgSrc" : "fotosvodkas/sernova-berries-01.jpeg",
         "nro" : "313",
-        "wpp" : "Vodka%20Sernova%20Berries%20$430"
+        "wpp" : "Vodka%20Sernova%20Berries%20$430",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Sernova Citrus",
@@ -109,7 +148,10 @@
         "price" : "430",
         "imgSrc" : "fotosvodkas/sernova-citrus-01.jpeg",
         "nro" : "314",
-        "wpp" : "Vodka%20Sernova%20Citrus%20$430"
+        "wpp" : "Vodka%20Sernova%20Citrus%20$430",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Malevo Caramelo",
@@ -117,7 +159,10 @@
         "price" : "750",
         "imgSrc" : "fotosvodkas/malevo-01.jpeg",
         "nro" : "315",
-        "wpp" : "Vodka%20Malevo%20Caramelo%20$750"
+        "wpp" : "Vodka%20Malevo%20Caramelo%20$750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute regular 750",
@@ -125,7 +170,10 @@
         "price" : "0",
         "imgSrc" : "fotosvodkas/absolut-comun-01.jpeg",
         "nro" : "316",
-        "wpp" : "Vodka%20Absolute%20regular%20$-"
+        "wpp" : "Vodka%20Absolute%20regular%20$-",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Apeach 750",
@@ -133,7 +181,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-apeach-01.jpeg",
         "nro" : "317",
-        "wpp" : "Vodka%20Absolute%20Apeach%20$1750"
+        "wpp" : "Vodka%20Absolute%20Apeach%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Apple 750",
@@ -141,7 +192,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-appe-01.jpeg",
         "nro" : "318",
-        "wpp" : "Vodka%20Absolute%20Apple%20$1750"
+        "wpp" : "Vodka%20Absolute%20Apple%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Citron 750",
@@ -149,7 +203,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-citron-01.jpeg",
         "nro" : "319",
-        "wpp" : "Vodka%20Absolute%20Citron%20$1750"
+        "wpp" : "Vodka%20Absolute%20Citron%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Lime 750",
@@ -157,7 +214,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-lime-01.jpeg",
         "nro" : "320",
-        "wpp" : "Vodka%20Absolute%20Lime%20$1750"
+        "wpp" : "Vodka%20Absolute%20Lime%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Mandrin 750",
@@ -165,7 +225,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-mandarina-01.jpeg",
         "nro" : "321",
-        "wpp" : "Vodka%20Absolute%20Mandrin%20$1750"
+        "wpp" : "Vodka%20Absolute%20Mandrin%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Mango 750",
@@ -173,7 +236,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-mango-01.jpeg",
         "nro" : "322",
-        "wpp" : "Vodka%20Absolute%20Mango%20$1750"
+        "wpp" : "Vodka%20Absolute%20Mango%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Pears 750",
@@ -181,7 +247,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-pears-01.jpeg",
         "nro" : "323",
-        "wpp" : "Vodka%20Absolute%20Pears%20$1750"
+        "wpp" : "Vodka%20Absolute%20Pears%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Raspberry 750",
@@ -189,7 +258,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-raspberry-01.jpeg",
         "nro" : "324",
-        "wpp" : "Vodka%20Absolute%20Raspberry%20$1750"
+        "wpp" : "Vodka%20Absolute%20Raspberry%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Rubired 750",
@@ -197,7 +269,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-rubyred-01.jpeg",
         "nro" : "325",
-        "wpp" : "Vodka%20Absolute%20Rubired%20$1750"
+        "wpp" : "Vodka%20Absolute%20Rubired%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Vanilla 750",
@@ -205,7 +280,10 @@
         "price" : "1750",
         "imgSrc" : "fotosvodkas/absolut-vainilla-01.jpeg",
         "nro" : "326",
-        "wpp" : "Vodka%20Absolute%20Vanilla%20$1750"
+        "wpp" : "Vodka%20Absolute%20Vanilla%20$1750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Camacho",
@@ -213,7 +291,10 @@
         "price" : "230",
         "imgSrc" : "fotostequilas/camacho-01.jpeg",
         "nro" : "401",
-        "wpp" : "Tequila%20Camacho%20$230"
+        "wpp" : "Tequila%20Camacho%20$230",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "DF Blanco",
@@ -221,7 +302,10 @@
         "price" : "220",
         "imgSrc" : "fotostequilas/df-blanco-01.jpeg",
         "nro" : "402",
-        "wpp" : "Tequila%20DF%20Dorado%20$220"
+        "wpp" : "Tequila%20DF%20Dorado%20$220",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "DF Dorado",
@@ -229,7 +313,10 @@
         "price" : "220",
         "imgSrc" : "fotostequilas/df-dorado-01.jpeg",
         "nro" : "403",
-        "wpp" : "Tequila%20DF%20Blanco%20$220"
+        "wpp" : "Tequila%20DF%20Blanco%20$220",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Jose Cuervo",
@@ -237,6 +324,9 @@
         "price" : "1500",
         "imgSrc" : "fotostequilas/jose-cuervo-01.jpeg",
         "nro" : "404",
-        "wpp" : "Tequila%20Jose%20Cuervo%20$1500"
+        "wpp" : "Tequila%20Jose%20Cuervo%20$1500",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
 ]
