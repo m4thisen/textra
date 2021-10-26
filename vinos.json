@@ -6,9 +6,9 @@
     "imgSrc" : "",
     "nro" : "1301",
     "wpp" : "Vinos%20Los%20Gigantes%20Malbec%20$190",
-    "estado" : "",
-    "stock" : "",
-    "carrito" : "add-to-cart-btn"
+    "estado" : "sin-stock",
+    "stock" : "NO DISPONIBLE",
+    "carrito" : ""
 },
 {
     "name" : "Los Gigantes Cabernet",
