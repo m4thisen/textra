@@ -79,6 +79,7 @@ function eventListeners(){
     ofertas1List.addEventListener('click', purchaseProduct);
     ofertas2List.addEventListener('click', purchaseProduct);
     productListCervezas.addEventListener('click', purchaseProduct);
+    productListCervezas.addEventListener('click', purchasePack);
     productListVodkas.addEventListener('click', purchaseProduct);
     productListAperitivos.addEventListener('click', purchaseProduct);
     productListVinos.addEventListener('click', purchaseProduct);
@@ -112,6 +113,9 @@ function loadJSONCervezas(){
                         <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <button type = "button" class = ${product.carritoPack}>
+                            <i class = "fas fa-shopping-cart"></i>Agregar Pack 6
+                        </button>
                         <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
@@ -121,6 +125,8 @@ function loadJSONCervezas(){
                         <p class = "product-price">$${product.price}</p>
                         <p class = "product-nro" style="display:none">${product.nro}</p>
                         <p class = "product-wpp" style="display:none">${product.wpp}</p>
+                        <p class = "product-wppPack" style="display:none">${product.wppPack}</p>
+                        <p class = "product-pricePack" style="display:none">$${product.pricePack}</p>
                     </div>
                 </div>
             `;
@@ -555,6 +561,14 @@ function purchaseProduct(e){
         cartCountInfo.style.animation = "mynewmove 2s";
     }
 }
+function purchasePack(e){
+    if(e.target.classList.contains('add-to-cart-btn-pack')){
+        let product = e.target.parentElement.parentElement;
+        console.log("hola");
+        getProductInfo3(product);
+        cartCountInfo.style.animation = "mynewmove 2s";
+    }
+}
 // get product info after add to cart button click
 function getProductInfo(product){
     let productInfo = {
@@ -565,6 +579,20 @@ function getProductInfo(product){
         price: product.querySelector('.product-price').textContent,
         nro: product.querySelector('.product-nro').textContent,
         wpp: product.querySelector('.product-wpp').textContent
+    }
+    cartItemID++;
+    addToCartList(productInfo);
+    saveProductInStorage(productInfo);
+}
+function getProductInfo3(product){
+    let productInfo = {
+        id: cartItemID,
+        imgSrc: product.querySelector('.product-img img').src,
+        name: product.querySelector('.product-name').textContent,
+        category: product.querySelector('.product-category').textContent,
+        price: product.querySelector('.product-pricePack').textContent,
+        nro: product.querySelector('.product-nro').textContent,
+        wpp: product.querySelector('.product-wppPack').textContent
     }
     cartItemID++;
     addToCartList(productInfo);

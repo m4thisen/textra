@@ -6,9 +6,12 @@
         "imgSrc" : "fotoscervezas/schneider.jpeg",
         "nro" : "101",
         "wpp" : "Cerveza%20Schneider%20Lata473%20$70",
+        "pricePack" : "790",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$70",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Quilmes Bock",
@@ -17,9 +20,12 @@
         "imgSrc" : "fotoscervezas/quilmes-bock-01.jpeg",
         "nro" : "102",
         "wpp" : "Cerveza%20Quilmes%20Bock%20$75",
+        "pricePack" : "790",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$70",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "carrito" : "",
+        "carritoPack" : ""
     },
     {
         "name" : "Quilmes Redlager",
@@ -28,9 +34,12 @@
         "imgSrc" : "fotoscervezas/quilmes-red.lager-01.jpg",
         "nro" : "103",
         "wpp" : "Cerveza%20Quilmes%20Redlager%20$75",
+        "pricePack" : "790",
+        "wppPack" : "Cerveza%20PACK%20Quilmes%20Redlager%20$75",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Quilmes Stout",
