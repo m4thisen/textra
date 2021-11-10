@@ -107,7 +107,7 @@
         "wpp" : "Gin%20Beefeater%201L%20$1840",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Buenos Aires",
