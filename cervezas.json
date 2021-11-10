@@ -50,7 +50,7 @@
         "wpp" : "Cerveza%20Quilmes%20Stout%20$75",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Quilmes 0.0",
@@ -61,7 +61,7 @@
         "wpp" : "Cerveza%20Quilmes%20CERO%20$75",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Brahma lata 473ml.",
@@ -83,7 +83,7 @@
         "wpp" : "Cerveza%20Quilmes%1890%20$70",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Amstel lata 473ml.",
@@ -105,7 +105,7 @@
         "wpp" : "Cerveza%20Budweiser%20Lata473%20$80",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Imperial lata 473ml.",
@@ -446,7 +446,7 @@
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Maracuya%20$170",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Peñon del Aguila Sandia",
@@ -468,7 +468,7 @@
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Sandia%20$170",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Peñon del Aguila IPA",
