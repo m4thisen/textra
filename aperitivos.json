@@ -18,8 +18,8 @@
         "imgSrc" : "fotosaperitivos/fernet-750-01.jpeg",
         "nro" : "202",
         "wpp" : "Aperitivo%20Fernet%20Branca%20750%20$670",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
+        "estado" : "",
+        "stock" : "",
         "carrito" : ""
     },
     {
