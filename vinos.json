@@ -365,7 +365,7 @@
 {
     "name" : "Dada 2",
     "category" : "Vinos",
-    "price" : "275",
+    "price" : "325",
     "imgSrc" : "fotosvinos/dada2-01.jpeg",
     "nro" : "1334",
     "wpp" : "Vinos%20Dada%202%20$325",
@@ -376,7 +376,7 @@
 {
     "name" : "Dada 3",
     "category" : "Vinos",
-    "price" : "275",
+    "price" : "325",
     "imgSrc" : "fotosvinos/dada3-01.jpeg",
     "nro" : "1335",
     "wpp" : "Vinos%20Dada%203%20$325",
@@ -387,7 +387,7 @@
 {
     "name" : "Dada 8",
     "category" : "Vinos",
-    "price" : "275",
+    "price" : "325",
     "imgSrc" : "fotosvinos/dada8-01.jpeg",
     "nro" : "1336",
     "wpp" : "Vinos%20Dada%208%20$325",
