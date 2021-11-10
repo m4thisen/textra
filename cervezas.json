@@ -48,9 +48,12 @@
         "imgSrc" : "fotoscervezas/quilmes-stout-01.jpeg",
         "nro" : "104",
         "wpp" : "Cerveza%20Quilmes%20Stout%20$75",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "carrito" : "",
+        "carritoPack" : ""
     },
     {
         "name" : "Quilmes 0.0",
@@ -59,9 +62,12 @@
         "imgSrc" : "fotoscervezas/quilmes-0.0-01.jpg",
         "nro" : "105",
         "wpp" : "Cerveza%20Quilmes%20CERO%20$75",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "carrito" : "",
+        "carritoPack" : ""
     },
     {
         "name" : "Brahma lata 473ml.",
@@ -70,9 +76,12 @@
         "imgSrc" : "fotoscervezas/brahma-01.jpeg",
         "nro" : "106",
         "wpp" : "Cerveza%20Brahma%20Lata473%20$95",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Quilmes 1890 lata",
@@ -81,9 +90,12 @@
         "imgSrc" : "fotoscervezas/1890-01.jpeg",
         "nro" : "107",
         "wpp" : "Cerveza%20Quilmes%1890%20$70",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "carrito" : "",
+        "carritoPack" : ""
     },
     {
         "name" : "Amstel lata 473ml.",
@@ -92,9 +104,12 @@
         "imgSrc" : "fotoscervezas/amstel-01.jpeg",
         "nro" : "108",
         "wpp" : "Cerveza%20Amstel%20Lata473%20$95",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Budweiser lata 473ml.",
@@ -103,9 +118,12 @@
         "imgSrc" : "fotoscervezas/budweiser-01.jpeg",
         "nro" : "109",
         "wpp" : "Cerveza%20Budweiser%20Lata473%20$80",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "carrito" : "",
+        "carritoPack" : ""
     },
     {
         "name" : "Imperial lata 473ml.",
@@ -114,9 +132,12 @@
         "imgSrc" : "fotoscervezas/imperial-01.jpeg",
         "nro" : "110",
         "wpp" : "Cerveza%20Imperial%20Lata473%20$100",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Imperial Golden lata 473ml.",
@@ -125,9 +146,12 @@
         "imgSrc" : "fotoscervezas/imperial-golden-01.jpeg",
         "nro" : "111",
         "wpp" : "Cerveza%20Imperial%20Golden%20Lata473%20$100",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Warsteiner lata 473ml.",
@@ -136,9 +160,12 @@
         "imgSrc" : "fotoscervezas/warsteiner-01.jpeg",
         "nro" : "112",
         "wpp" : "Cerveza%20Warsteiner%20Lata473%20$105",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Miller lata 473ml.",
@@ -147,9 +174,12 @@
         "imgSrc" : "fotoscervezas/miller-01.jpeg",
         "nro" : "113",
         "wpp" : "Cerveza%20Miller%20Lata473%20$110",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Stella Artois lata 473ml.",
@@ -158,9 +188,12 @@
         "imgSrc" : "fotoscervezas/stella-01.jpeg",
         "nro" : "114",
         "wpp" : "Cerveza%20Stella%20Artois%20Lata473%20$115",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Grolsh lata 473ml.",
@@ -169,9 +202,12 @@
         "imgSrc" : "fotoscervezas/grolsch-01.jpeg",
         "nro" : "115",
         "wpp" : "Cerveza%20Grolsh%20Lata473%20$120",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Andes lata 473ml. Criolla",
@@ -180,9 +216,12 @@
         "imgSrc" : "fotoscervezas/andes-criolla-01.jpeg",
         "nro" : "116",
         "wpp" : "Cerveza%20Andes%20Lata473%20Criolla%20$110",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Andes lata 473ml. Roja",
@@ -191,9 +230,12 @@
         "imgSrc" : "fotoscervezas/andes-roja-01.jpeg",
         "nro" : "117",
         "wpp" : "Cerveza%20Andes%20Lata473%20Roja%20$110",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Andes lata 473ml. Negra",
@@ -202,9 +244,12 @@
         "imgSrc" : "fotoscervezas/andes-negra-01.jpeg",
         "nro" : "118",
         "wpp" : "Cerveza%20Andes%20Lata473%20Negra%20$110",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Andes lata 473ml. IPA",
@@ -213,9 +258,12 @@
         "imgSrc" : "fotoscervezas/andes-ipa-01.jpeg",
         "nro" : "119",
         "wpp" : "Cerveza%20Andes%20Lata473%20IPA%20$110",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Andes lata 473ml. Rubia",
@@ -224,9 +272,12 @@
         "imgSrc" : "fotoscervezas/andes-rubia-01.jpeg",
         "nro" : "120",
         "wpp" : "Cerveza%20Andes%20Lata473%20Rubia%20$110",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Heineken lata 473ml.",
@@ -235,9 +286,12 @@
         "imgSrc" : "fotoscervezas/heinekenlata.jpeg",
         "nro" : "121",
         "wpp" : "Cerveza%20Heineken%20Lata473%20$125",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Imperial APA",
@@ -246,9 +300,12 @@
         "imgSrc" : "fotoscervezas/imperial-apa-01.jpeg",
         "nro" : "122",
         "wpp" : "Cerveza%20Imperial%20APA%20$120",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Imperial IPA",
@@ -257,9 +314,12 @@
         "imgSrc" : "fotoscervezas/imperial-ipa-01.jpeg",
         "nro" : "123",
         "wpp" : "Cerveza%20Imperial%20IPA%20$120",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Imperial Roja",
@@ -268,9 +328,12 @@
         "imgSrc" : "fotoscervezas/imperial-roja-01.jpeg",
         "nro" : "124",
         "wpp" : "Cerveza%20Imperial%20Roja%20$120",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia lata 473ml. 24.7",
@@ -279,9 +342,12 @@
         "imgSrc" : "fotoscervezas/patagonia-24.7-lata-01.jpg",
         "nro" : "125",
         "wpp" : "Cerveza%20Patagonia%20Lata473%2024.7%20$130",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia lata 473ml. Amber",
@@ -290,9 +356,12 @@
         "imgSrc" : "fotoscervezas/patagonia-amber-lata-01.jpeg",
         "nro" : "126",
         "wpp" : "Cerveza%20Patagonia%20Lata473%20Amber%20$130",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia lata 473ml. Bohemian",
@@ -301,9 +370,12 @@
         "imgSrc" : "fotoscervezas/patagonia-bohemian-01.jpeg",
         "nro" : "127",
         "wpp" : "Cerveza%20Patagonia%20Lata473%20Bohemian%20$130",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia lata 473ml. Kune",
@@ -312,9 +384,12 @@
         "imgSrc" : "fotoscervezas/patagonia-kune-lata-01.jpeg",
         "nro" : "128",
         "wpp" : "Cerveza%20Patagonia%20Lata473%20Kune%20$130",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia lata 473ml. Weisse",
@@ -323,9 +398,12 @@
         "imgSrc" : "fotoscervezas/patagonia-weisse-lata-01.jpeg",
         "nro" : "129",
         "wpp" : "Cerveza%20Patagonia%20Lata473%20Weisse%20$130",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia 710ml. 24.7",
@@ -334,9 +412,12 @@
         "imgSrc" : "fotoscervezas/patagonia-24.7-710-01.jpg",
         "nro" : "130",
         "wpp" : "Cerveza%20Patagonia%20710%2024.7%20$200",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia 710ml. Amber",
@@ -345,9 +426,12 @@
         "imgSrc" : "fotoscervezas/patagonia-amber-710-01.jpeg",
         "nro" : "131",
         "wpp" : "Cerveza%20Patagonia%20710%20Amber%20$200",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia 710ml. Lager",
@@ -356,9 +440,12 @@
         "imgSrc" : "fotoscervezas/patagonia-lager-710-01.jpeg",
         "nro" : "132",
         "wpp" : "Cerveza%20Patagonia%20710%20Lager%20$200",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia 710ml. Kune",
@@ -367,9 +454,12 @@
         "imgSrc" : "fotoscervezas/patagonia-kune-710-01.jpeg",
         "nro" : "133",
         "wpp" : "Cerveza%20Patagonia%20710%20Kune%20$200",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia 710ml. Weisse",
@@ -378,9 +468,12 @@
         "imgSrc" : "fotoscervezas/patagonia-weisse-710-01.jpeg",
         "nro" : "134",
         "wpp" : "Cerveza%20Patagonia%20710%20Weisse%20$200",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Patagonia 710ml. Bohemian",
@@ -389,9 +482,12 @@
         "imgSrc" : "fotoscervezas/patagonia-bohemian-710-01.jpeg",
         "nro" : "135",
         "wpp" : "Cerveza%20Patagonia%20710%20Bohemian%20$200",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Corona Porron 355ml.",
@@ -400,9 +496,12 @@
         "imgSrc" : "fotoscervezas/corona-porron-01.jpeg",
         "nro" : "136",
         "wpp" : "Cerveza%20Corona%20Porron%20355ml.%20$130",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Corona 710",
@@ -411,9 +510,12 @@
         "imgSrc" : "fotoscervezas/corona-710-01.jpeg",
         "nro" : "137",
         "wpp" : "Cerveza%20Corona%20710%20$215",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Sol lata 473ml.",
@@ -422,9 +524,12 @@
         "imgSrc" : "fotoscervezas/sol-01.jpeg",
         "nro" : "138",
         "wpp" : "Cerveza%20Sol%20Lata473%20$130",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Peñon del Aguila Arandano",
@@ -433,9 +538,12 @@
         "imgSrc" : "fotoscervezas/peñon-arandanos-01.jpeg",
         "nro" : "139",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Arandano%20$170",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Peñon del Aguila Maracuya",
@@ -444,9 +552,12 @@
         "imgSrc" : "fotoscervezas/peñon-maracuya-01.jpeg",
         "nro" : "140",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Maracuya%20$170",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "carrito" : "",
+        "carritoPack" : ""
     },
     {
         "name" : "Peñon del Aguila Sandia",
@@ -455,9 +566,12 @@
         "imgSrc" : "fotoscervezas/peñon-sandia-01.jpeg",
         "nro" : "141",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Sandia%20$170",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Peñon del Aguila Waldbier",
@@ -466,9 +580,12 @@
         "imgSrc" : "fotoscervezas/peñon-waldbier-01.jpeg",
         "nro" : "142",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Sandia%20$170",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "carrito" : "",
+        "carritoPack" : ""
     },
     {
         "name" : "Peñon del Aguila IPA",
@@ -477,9 +594,12 @@
         "imgSrc" : "fotoscervezas/peñon-ipa-01.jpeg",
         "nro" : "143",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20IPA%20$170",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Peñon del Aguila Mexican",
@@ -488,9 +608,12 @@
         "imgSrc" : "fotoscervezas/peñon-mexican-01.jpeg",
         "nro" : "144",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Mexican%20$135",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Peñon del Aguila Oktoberfest",
@@ -499,9 +622,12 @@
         "imgSrc" : "fotoscervezas/peñon-oktoberfest-01.jpeg",
         "nro" : "145",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Oktoberfest%20$135",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Peñon del Aguila Schwarzbier",
@@ -510,9 +636,12 @@
         "imgSrc" : "fotoscervezas/peñon-schwarzbier-01.jpeg",
         "nro" : "146",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Schwarzbier%20$135",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Peñon del Aguila Kolsch",
@@ -521,9 +650,12 @@
         "imgSrc" : "fotoscervezas/peñon-kolsch-01.jpeg",
         "nro" : "147",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Kolsch%20$135",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     },
     {
         "name" : "Peñon del Aguila Honigbier",
@@ -532,8 +664,11 @@
         "imgSrc" : "fotoscervezas/peñon-honigbier-01.jpeg",
         "nro" : "148",
         "wpp" : "Cerveza%20Peñon%20del%20Aguila%20Honigbier%20$135",
+        "pricePack" : "500",
+        "wppPack" : "Cerveza%20Pack%20Schneider%20Lata473%20$500",
         "estado" : "",
         "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : "add-to-cart-btn",
+        "carritoPack" : "add-to-cart-btn-pack"
     }
 ]

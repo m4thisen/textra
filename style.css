@@ -910,7 +910,7 @@ footer > .container{
     .navbar{
         padding: 0.5rem 1em!important;
     }
-    .product-list, .product-list-cervezas,.product-list-vodkas,.product-list-vinos, .ofertas1-list, .ofertas2-list, .promocion1-list, .promocion2-list, .product-list-aperitivos, .product-list-whisky, .product-list-gin, .product-list-champagne, .product-list-sa, .product-list-otros{
+    .product-list, .product-list-cervezas,.product-list-vodkas,.product-list-vinos, .ofertas1-list, .ofertas2-list, .promocion1-list, .promocion2-list, .promocion3-list, .product-list-aperitivos, .product-list-whisky, .product-list-gin, .product-list-champagne, .product-list-sa, .product-list-otros{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         column-gap: 2rem;
@@ -984,7 +984,7 @@ footer > .container{
     .footer-banner .btn{
         margin-left: 0;
     }
-    .product-list, .product-list-cervezas,.product-list-vodkas ,.product-list-vinos, .ofertas1-list, .ofertas2-list, .promocion1-list, .promocion2-list, .product-list-aperitivos, .product-list-whisky, .product-list-gin, .product-list-champagne, .product-list-sa, .product-list-otros{
+    .product-list, .product-list-cervezas,.product-list-vodkas ,.product-list-vinos, .ofertas1-list, .ofertas2-list, .promocion1-list, .promocion2-list, .promocion3-list, .product-list-aperitivos, .product-list-whisky, .product-list-gin, .product-list-champagne, .product-list-sa, .product-list-otros{
         grid-template-columns: repeat(4, 1fr);
         display: grid;
         column-gap: 2rem;
@@ -1021,7 +1021,7 @@ footer > .container{
     .banner-content h1{
         font-size: 3.5rem;
     }
-    .product-list, .product-list-cervezas,.product-list-vodkas ,.product-list-vinos, .ofertas1-list, .ofertas2-list, .promocion1-list, .promocion2-list, .product-list-aperitivos, .product-list-whisky, .product-list-gin, .product-list-champagne, .product-list-sa, .product-list-otros{
+    .product-list, .product-list-cervezas,.product-list-vodkas ,.product-list-vinos, .ofertas1-list, .ofertas2-list, .promocion1-list, .promocion2-list, .promocion3-list, .product-list-aperitivos, .product-list-whisky, .product-list-gin, .product-list-champagne, .product-list-sa, .product-list-otros{
         grid-template-columns: repeat(4, 1fr);
     }
     .container{

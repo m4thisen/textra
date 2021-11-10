@@ -13,6 +13,7 @@ const productListVodkas = document.querySelector('.product-list-vodkas')
 const productListVinos = document.querySelector('.product-list-vinos')
 const promocion1List = document.querySelector('.promocion1-list');
 const promocion2List = document.querySelector('.promocion2-list');
+const promocion3List = document.querySelector('.promocion3-list');
 const ofertas1List = document.querySelector('.ofertas1-list');
 const ofertas2List = document.querySelector('.ofertas2-list');
 const cartList = document.querySelector('.cart-list');
@@ -50,6 +51,7 @@ function eventListeners(){
         loadOfertas2();
         loadPromocion1();
         loadPromocion2();
+        loadPromocion3();
         loadCart();
         showSlides(slideIndex);
         cambiarImagenPrincipal();
@@ -74,6 +76,7 @@ function eventListeners(){
     if(promocion1List != null){
         promocion1List.addEventListener('click', purchaseProduct);
         promocion2List.addEventListener('click', purchaseProduct);
+        promocion3List.addEventListener('click', purchaseProduct);
     }
     if(ofertas1List != null){
     ofertas1List.addEventListener('click', purchaseProduct);
@@ -493,9 +496,10 @@ function loadPromocion1(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn" id="especial">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -526,9 +530,10 @@ function loadPromocion2(){
                 <div class = "product-item">
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
-                        <button type = "button" class = "add-to-cart-btn">
+                        <button type = "button" class = ${product.carrito}>
                             <i class = "fas fa-shopping-cart"></i>Agregar al pedido
                         </button>
+                        <a class = ${product.estado}>${product.stock}</a>
                     </div>
 
                     <div class = "product-content">
@@ -548,6 +553,39 @@ function loadPromocion2(){
     })
     .catch(error => {
         console.log(`User live server or local server promo 2` + error);
+        //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
+    })
+}
+function loadPromocion3(){
+    fetch('promociones3.json')
+    .then(response => response.json())
+    .then(data =>{
+        let html = '';
+        data.forEach(product => {
+            html += `
+                <div class = "product-item">
+                    <div class = "product-img">
+                        <img src = "${product.imgSrc}" alt = "product image">
+                        <button type = "button" class = ${product.carrito}>
+                            <i class = "fas fa-shopping-cart"></i>Agregar al pedido
+                        </button>
+                        <a class = ${product.estado}>${product.stock}</a>
+                    </div>
+
+                    <div class = "product-content">
+                        <p class = "product-name">${product.name}</p>
+                        <span class = "product-category">${product.category}</span>
+                        <p class = "product-price">$${product.price}</p>
+                        <p class = "product-nro" style="display:none">${product.nro}</p>
+                        <p class = "product-wpp" style="display:none">${product.wpp}</p>
+                    </div>
+                </div>
+            `;
+        });
+        promocion3List.innerHTML = html;
+    })
+    .catch(error => {
+        console.log(`User live server or local server promo 3` + error);
         //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }

@@ -141,5 +141,28 @@
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Maleficio",
+        "category" : "Gin",
+        "price" : "2420",
+        "imgSrc" : "fotosgins/maleficio-01.jpeg",
+        "nro" : "514",
+        "wpp" : "Gin%20Maleficio%20$2420",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Heredero",
+        "category" : "Gin",
+        "price" : "2420",
+        "imgSrc" : "fotosgins/heredero-01.jpeg",
+        "nro" : "515",
+        "wpp" : "Gin%20Heredero%20$2420",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
+
 ]

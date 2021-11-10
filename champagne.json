@@ -407,6 +407,28 @@
         "carrito" : "add-to-cart-btn"
     },
     {
+        "name" : "2020 LPQTP",
+        "category" : "Champagne",
+        "price" : "560",
+        "imgSrc" : "fotoschampagnes/2020-lpqtp-01.jpeg",
+        "nro" : "938",
+        "wpp" : "Champagne%202020%20LPQTP%20$560",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Sottano Extra Brut",
+        "category" : "Champagne",
+        "price" : "560",
+        "imgSrc" : "fotoschampagnes/sottano-extrabrut-01.jpeg",
+        "nro" : "939",
+        "wpp" : "Champagne%20Sottano%20ExtraBrut%20$560",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
         "name" : "Real Frutos Rojos",
         "category" : "Sidras",
         "price" : "190",
