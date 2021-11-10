@@ -19,7 +19,7 @@
         "wpp" : "Vodka%20Dr.%20Lemon%20lata%20limon%20$95",
         "estado" : "",
         "stock" : "",
-        "carrito" : ""
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Dr. Lemon lata pomelo",
@@ -52,7 +52,7 @@
         "wpp" : "Vodka%20Skyy%20Raspberry%20$550",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Smirnoff",
@@ -173,7 +173,7 @@
         "wpp" : "Vodka%20Absolute%20regular%20$-",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Apeach 750",
@@ -184,7 +184,7 @@
         "wpp" : "Vodka%20Absolute%20Apeach%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Apple 750",
@@ -195,7 +195,7 @@
         "wpp" : "Vodka%20Absolute%20Apple%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Citron 750",
@@ -206,7 +206,7 @@
         "wpp" : "Vodka%20Absolute%20Citron%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Lime 750",
@@ -217,7 +217,7 @@
         "wpp" : "Vodka%20Absolute%20Lime%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Mandrin 750",
@@ -228,7 +228,7 @@
         "wpp" : "Vodka%20Absolute%20Mandrin%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Mango 750",
@@ -239,7 +239,7 @@
         "wpp" : "Vodka%20Absolute%20Mango%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Pears 750",
@@ -250,7 +250,7 @@
         "wpp" : "Vodka%20Absolute%20Pears%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Raspberry 750",
@@ -261,7 +261,7 @@
         "wpp" : "Vodka%20Absolute%20Raspberry%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Rubired 750",
@@ -272,7 +272,7 @@
         "wpp" : "Vodka%20Absolute%20Rubired%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Absolute Vanilla 750",
@@ -283,7 +283,7 @@
         "wpp" : "Vodka%20Absolute%20Vanilla%20$1750",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Camacho",
