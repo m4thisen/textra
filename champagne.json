@@ -30,7 +30,7 @@
         "wpp" : "Champagne%20LaPoderosa%20$245",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Norton Extra Brut",
@@ -63,7 +63,7 @@
         "wpp" : "Champagne%20Dolores%20Rose%20$290",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Dolores Extrabrut",
@@ -74,7 +74,7 @@
         "wpp" : "Champagne%20Dolores%20Extrabrut%20$290",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Federico Extra Dulce",
@@ -129,7 +129,7 @@
         "wpp" : "Champagne%20Trapiche%20$330",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Don David",
@@ -140,7 +140,7 @@
         "wpp" : "Champagne%20Don%20David%20$340",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Cosecha especial Norton",
@@ -162,7 +162,7 @@
         "wpp" : "Champagne%20Mumm%20$400",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Mumm Leger",
@@ -173,7 +173,7 @@
         "wpp" : "Champagne%20Mumm%20Leger%20$400",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Fresita",
@@ -217,7 +217,7 @@
         "wpp" : "Champagne%20Nieto%20Sentiner%20Rose%20$550",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Nieto Sentiner Brut Nature",
@@ -261,7 +261,7 @@
         "wpp" : "Champagne%20Saleintein%20Rose%20$525",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Perro Callejero EB ROSE",
