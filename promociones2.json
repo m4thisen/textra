@@ -2,10 +2,10 @@
     {
         "name" : "Cynar <br> Paso de los toros (pomelo) 1.5L",
         "category" : "Promocion Cynar",
-        "price" : "570",
+        "price" : "530",
         "imgSrc" : "images/promoaperol.png",
         "nro" : "145",
-        "wpp" : "Promo%20Cynar:%201%20Cynar%20+%201%20Paso%20de%20los%20toros%201.5L%20$570",
+        "wpp" : "Promo%20Cynar:%201%20Cynar%20+%201%20Paso%20de%20los%20toros%201.5L%20$530",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -13,10 +13,10 @@
     {
         "name" : "1 Smirnoff saborizado <br> 4 Speeds",
         "category" : "Promocion Speed",
-        "price" : "660",
+        "price" : "920",
         "imgSrc" : "images/promospeed.png",
         "nro" : "146",
-        "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$660",
+        "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$920",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -24,21 +24,21 @@
     {
         "name" : "1 JaggerMaister <br> 4 Speeds",
         "category" : "Promocion Jagger",
-        "price" : "750",
+        "price" : "2600",
         "imgSrc" : "images/promojager.png",
         "nro" : "147",
-        "wpp" : "Promo%20Jagger:%201%20Jagger%20+%204%20Speeds%20$750",
+        "wpp" : "Promo%20Jagger:%201%20Jagger%20+%204%20Speeds%20$2600",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
     {
-        "name" : "1 Gancia <br> 2 Sprites 1.5L",
+        "name" : "1 Gancia <br> 1 Sprites 1.5L",
         "category" : "Promocion Gancia",
-        "price" : "850",
+        "price" : "500",
         "imgSrc" : "images/promogancia.png",
         "nro" : "148",
-        "wpp" : "Promo%20Gancia:%201%20Gancia%20+%202%20Sprites%201.5L%20$850",
+        "wpp" : "Promo%20Gancia:%201%20Gancia%20+%202%20Sprites%201.5L%20$500",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
