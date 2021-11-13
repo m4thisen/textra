@@ -46,10 +46,10 @@
     {
         "name" : "Inmigrante",
         "category" : "Gin",
-        "price" : "1020",
+        "price" : "1220",
         "imgSrc" : "fotosgins/inmigrante-01.jpeg",
         "nro" : "505",
-        "wpp" : "Gin%20Inmigrante%20$1020",
+        "wpp" : "Gin%20Inmigrante%20$1220",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -145,10 +145,10 @@
     {
         "name" : "Maleficio",
         "category" : "Gin",
-        "price" : "2420",
+        "price" : "670",
         "imgSrc" : "fotosgins/maleficio-01.jpeg",
         "nro" : "514",
-        "wpp" : "Gin%20Maleficio%20$2420",
+        "wpp" : "Gin%20Maleficio%20$670",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -156,10 +156,10 @@
     {
         "name" : "Heredero",
         "category" : "Gin",
-        "price" : "2420",
+        "price" : "1240",
         "imgSrc" : "fotosgins/heredero-01.jpeg",
         "nro" : "515",
-        "wpp" : "Gin%20Heredero%20$2420",
+        "wpp" : "Gin%20Heredero%20$1240",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
