@@ -1,15 +1,5 @@
 [
-{
-    "name" : "Los Gigantes Malbec",
-    "category" : "Vinos",
-    "price" : "190",
-    "imgSrc" : "",
-    "nro" : "1301",
-    "wpp" : "Vinos%20Los%20Gigantes%20Malbec%20$190",
-    "estado" : "sin-stock",
-    "stock" : "NO DISPONIBLE",
-    "carrito" : ""
-},
+
 {
     "name" : "Los Gigantes Cabernet",
     "category" : "Vinos",
@@ -17,6 +7,17 @@
     "imgSrc" : "",
     "nro" : "1302",
     "wpp" : "Vinos%20Los%20Gigantes%20Cabernet%20$185",
+    "estado" : "sin-stock",
+    "stock" : "NO DISPONIBLE",
+    "carrito" : ""
+},
+ {
+    "name" : "Los Gigantes Malbec",
+    "category" : "Vinos",
+    "price" : "190",
+    "imgSrc" : "",
+    "nro" : "1301",
+    "wpp" : "Vinos%20Los%20Gigantes%20Malbec%20$190",
     "estado" : "sin-stock",
     "stock" : "NO DISPONIBLE",
     "carrito" : ""
