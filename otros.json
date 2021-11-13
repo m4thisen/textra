@@ -2,10 +2,10 @@
     {
         "name" : "Bolsa Hielo 1KG",
         "category" : "Hielo",
-        "price" : "90",
+        "price" : "120",
         "imgSrc" : "fotosotros/hielo-1kg-01.jpeg",
         "nro" : "1101",
-        "wpp" : "Bolsa%20Hielo%201KG%20$90",
+        "wpp" : "Bolsa%20Hielo%201KG%20$120",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -13,10 +13,10 @@
     {
         "name" : "Bolsa Hielo 2KG",
         "category" : "Hielo",
-        "price" : "140",
+        "price" : "180",
         "imgSrc" : "fotosotros/hielo-2kg-01.jpeg",
         "nro" : "1102",
-        "wpp" : "Bolsa%20Hielo%202KG%20$140",
+        "wpp" : "Bolsa%20Hielo%202KG%20$180",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -24,10 +24,10 @@
     {
         "name" : "Bolsa Hielo 3KG",
         "category" : "Hielo",
-        "price" : "180",
+        "price" : "240",
         "imgSrc" : "fotosotros/hielo-3kg-01.jpeg",
         "nro" : "1103",
-        "wpp" : "Bolsa%20Hielo%203KG%20$180",
+        "wpp" : "Bolsa%20Hielo%203KG%20$240",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
