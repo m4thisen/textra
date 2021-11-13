@@ -42,7 +42,7 @@
         "wpp" : "Aperitivo%20Fernet%20Branca%201882%20$345",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
-        "carrito" : "add-to-cart-btn"
+        "carrito" : ""
     },
     {
         "name" : "Cinzano Rosso",
@@ -80,10 +80,10 @@
     {
         "name" : "Cynar",
         "category" : "Aperitivos",
-        "price" : "425",
+        "price" : "440",
         "imgSrc" : "fotosaperitivos/cynar-01.jpeg",
         "nro" : "208",
-        "wpp" : "Aperitivo%20Cynar%20$425",
+        "wpp" : "Aperitivo%20Cynar%20$440",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -91,10 +91,10 @@
     {
         "name" : "Campari",
         "category" : "Aperitivos",
-        "price" : "510",
+        "price" : "520",
         "imgSrc" : "fotosaperitivos/campari-01.jpeg",
         "nro" : "209",
-        "wpp" : "Aperitivo%20Campari%20$510",
+        "wpp" : "Aperitivo%20Campari%20$520",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -102,10 +102,10 @@
     {
         "name" : "Aperol",
         "category" : "Aperitivos",
-        "price" : "545",
+        "price" : "610",
         "imgSrc" : "fotosaperitivos/aperol-01.jpeg",
         "nro" : "210",
-        "wpp" : "Aperitivo%20Aperol%20$545",
+        "wpp" : "Aperitivo%20Aperol%20$610",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
