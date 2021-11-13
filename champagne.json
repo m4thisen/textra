@@ -79,10 +79,10 @@
     {
         "name" : "Federico Extra Dulce",
         "category" : "Champagne",
-        "price" : "350",
+        "price" : "380",
         "imgSrc" : "fotoschampagnes/federico-dulce-01.jpeg",
         "nro" : "908",
-        "wpp" : "Champagne%20Federico%20Dulce%20$350",
+        "wpp" : "Champagne%20Federico%20Dulce%20$380",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -178,10 +178,10 @@
     {
         "name" : "Fresita",
         "category" : "Champagne",
-        "price" : "410",
+        "price" : "530",
         "imgSrc" : "fotoschampagnes/fresita-01.jpeg",
         "nro" : "917",
-        "wpp" : "Champagne%20Fresita%20$410",
+        "wpp" : "Champagne%20Fresita%20$530",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -237,8 +237,8 @@
         "imgSrc" : "fotoschampagnes/salentein-extrabrut-01.jpeg",
         "nro" : "922",
         "wpp" : "Champagne%20Saleintein%20$610",
-        "estado" : "",
-        "stock" : "",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
         "carrito" : "add-to-cart-btn"
     },
     {
@@ -314,9 +314,9 @@
         "imgSrc" : "fotoschampagnes/chandon-rose-01.jpeg",
         "nro" : "929",
         "wpp" : "Champagne%20Chandon%20Rose%20$860",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Cruzat Naranjo",
@@ -387,10 +387,10 @@
     {
         "name" : "Baron B Brut nature",
         "category" : "Champagne",
-        "price" : "2200",
+        "price" : "2300",
         "imgSrc" : "fotoschampagnes/baronb-brut-nature-01.jpeg",
         "nro" : "936",
-        "wpp" : "Champagne%20Baron%20B%20brut%20nature%20$2200",
+        "wpp" : "Champagne%20Baron%20B%20brut%20nature%20$2300",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -398,10 +398,10 @@
     {
         "name" : "Baron B Rose",
         "category" : "Champagne",
-        "price" : "2200",
+        "price" : "2300",
         "imgSrc" : "fotoschampagnes/baronb-rose-01.jpeg",
         "nro" : "937",
-        "wpp" : "Champagne%20Baron%20B%20Rose%20$2200",
+        "wpp" : "Champagne%20Baron%20B%20Rose%20$2300",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -409,10 +409,10 @@
     {
         "name" : "2020 LPQTP",
         "category" : "Champagne",
-        "price" : "560",
+        "price" : "400",
         "imgSrc" : "fotoschampagnes/2020-lpqtp-01.jpeg",
         "nro" : "938",
-        "wpp" : "Champagne%202020%20LPQTP%20$560",
+        "wpp" : "Champagne%202020%20LPQTP%20$400",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -420,10 +420,10 @@
     {
         "name" : "Sottano Extra Brut",
         "category" : "Champagne",
-        "price" : "560",
+        "price" : "550",
         "imgSrc" : "fotoschampagnes/sottano-extrabrut-01.jpeg",
         "nro" : "939",
-        "wpp" : "Champagne%20Sottano%20ExtraBrut%20$560",
+        "wpp" : "Champagne%20Sottano%20ExtraBrut%20$550",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
