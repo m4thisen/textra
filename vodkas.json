@@ -35,12 +35,12 @@
     {
         "name" : "Skyy",
         "category" : "Vodka",
-        "price" : "550",
+        "price" : "540",
         "imgSrc" : "fotosvodkas/skyy-01.jpeg",
         "nro" : "304",
-        "wpp" : "Vodka%20Skyy%20$550",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
+        "wpp" : "Vodka%20Skyy%20$540",
+        "estado" : "",
+        "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
     {
@@ -61,17 +61,17 @@
         "imgSrc" : "fotosvodkas/smirnoff-01.jpeg",
         "nro" : "306",
         "wpp" : "Vodka%20Smirnoff%20$570",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
-        "name" : "Smirnoff Citric",
+        "name" : "Smirnoff Bitter Citric",
         "category" : "Vodka",
-        "price" : "620",
+        "price" : "650",
         "imgSrc" : "fotosvodkas/smirnoff-citric-01.jpeg",
         "nro" : "307",
-        "wpp" : "Vodka%20Smirnoff%20Citric%20$620",
+        "wpp" : "Vodka%20Smirnoff%20Citric%20$650",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -79,10 +79,10 @@
     {
         "name" : "Smirnoff Citrus",
         "category" : "Vodka",
-        "price" : "620",
+        "price" : "650",
         "imgSrc" : "fotosvodkas/smirnoff-citrus-01.jpeg",
         "nro" : "308",
-        "wpp" : "Vodka%20Smirnoff%20Citrus%20$620",
+        "wpp" : "Vodka%20Smirnoff%20Citrus%20$650",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -90,10 +90,10 @@
     {
         "name" : "Smirnoff Manzana",
         "category" : "Vodka",
-        "price" : "620",
+        "price" : "650",
         "imgSrc" : "fotosvodkas/smirnoff-manzana-01.jpeg",
         "nro" : "309",
-        "wpp" : "Vodka%20Smirnoff%20Manzana%20$620",
+        "wpp" : "Vodka%20Smirnoff%20Manzana%20$650",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -101,10 +101,10 @@
     {
         "name" : "Smirnoff Raspberry",
         "category" : "Vodka",
-        "price" : "620",
+        "price" : "650",
         "imgSrc" : "fotosvodkas/smirnoff-raspberry-01.jpeg",
         "nro" : "310",
-        "wpp" : "Vodka%20Smirnoff%20Raspberry%20$620",
+        "wpp" : "Vodka%20Smirnoff%20Raspberry%20$650",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -112,10 +112,10 @@
     {
         "name" : "Smirnoff Sandia",
         "category" : "Vodka",
-        "price" : "620",
+        "price" : "650",
         "imgSrc" : "fotosvodkas/smirnoff-sandia-01.jpeg",
         "nro" : "311",
-        "wpp" : "Vodka%20Smirnoff%20Sandia%20$620",
+        "wpp" : "Vodka%20Smirnoff%20Sandia%20$650",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -123,10 +123,10 @@
     {
         "name" : "Sernova",
         "category" : "Vodka",
-        "price" : "475",
+        "price" : "450",
         "imgSrc" : "fotosvodkas/sernova-01.jpeg",
         "nro" : "312",
-        "wpp" : "Vodka%20Sernova%20$475",
+        "wpp" : "Vodka%20Sernova%20$450",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -134,10 +134,10 @@
     {
         "name" : "Sernova Wild Berries",
         "category" : "Vodka",
-        "price" : "500",
+        "price" : "480",
         "imgSrc" : "fotosvodkas/sernova-berries-01.jpeg",
         "nro" : "313",
-        "wpp" : "Vodka%20Sernova%20Berries%20$500",
+        "wpp" : "Vodka%20Sernova%20Berries%20$480",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -145,10 +145,10 @@
     {
         "name" : "Sernova Citrus",
         "category" : "Vodka",
-        "price" : "500",
+        "price" : "480",
         "imgSrc" : "fotosvodkas/sernova-citrus-01.jpeg",
         "nro" : "314",
-        "wpp" : "Vodka%20Sernova%20Citrus%20$500",
+        "wpp" : "Vodka%20Sernova%20Citrus%20$480",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
