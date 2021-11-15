@@ -1,170 +1,5 @@
 [
-    {
-        "name" : "Dr. Lemon 1 lt.",
-        "category" : "Vodka",
-        "price" : "180",
-        "imgSrc" : "fotosvodkas/drlemon-1LT-01.jpeg",
-        "nro" : "301",
-        "wpp" : "Vodka%20Dr.%20Lemon%201LT%20$180",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Dr. Lemon lata limon",
-        "category" : "Vodka",
-        "price" : "95",
-        "imgSrc" : "fotosvodkas/drlemon-limon-01.jpeg",
-        "nro" : "302",
-        "wpp" : "Vodka%20Dr.%20Lemon%20lata%20limon%20$95",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Dr. Lemon lata pomelo",
-        "category" : "Vodka",
-        "price" : "95",
-        "imgSrc" : "fotosvodkas/drlemon-pomelo-01.jpeg",
-        "nro" : "303",
-        "wpp" : "Vodka%20Dr.%20Lemon%20lata%20pomelo%20$95",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Skyy",
-        "category" : "Vodka",
-        "price" : "540",
-        "imgSrc" : "fotosvodkas/skyy-01.jpeg",
-        "nro" : "304",
-        "wpp" : "Vodka%20Skyy%20$540",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Skyy Raspberry",
-        "category" : "Vodka",
-        "price" : "550",
-        "imgSrc" : "fotosvodkas/skyy-raspberry-01.jpeg",
-        "nro" : "305",
-        "wpp" : "Vodka%20Skyy%20Raspberry%20$550",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
-    },
-    {
-        "name" : "Smirnoff",
-        "category" : "Vodka",
-        "price" : "570",
-        "imgSrc" : "fotosvodkas/smirnoff-01.jpeg",
-        "nro" : "306",
-        "wpp" : "Vodka%20Smirnoff%20$570",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
-    },
-    {
-        "name" : "Smirnoff Bitter Citric",
-        "category" : "Vodka",
-        "price" : "650",
-        "imgSrc" : "fotosvodkas/smirnoff-citric-01.jpeg",
-        "nro" : "307",
-        "wpp" : "Vodka%20Smirnoff%20Citric%20$650",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Smirnoff Citrus",
-        "category" : "Vodka",
-        "price" : "650",
-        "imgSrc" : "fotosvodkas/smirnoff-citrus-01.jpeg",
-        "nro" : "308",
-        "wpp" : "Vodka%20Smirnoff%20Citrus%20$650",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Smirnoff Manzana",
-        "category" : "Vodka",
-        "price" : "650",
-        "imgSrc" : "fotosvodkas/smirnoff-manzana-01.jpeg",
-        "nro" : "309",
-        "wpp" : "Vodka%20Smirnoff%20Manzana%20$650",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Smirnoff Raspberry",
-        "category" : "Vodka",
-        "price" : "650",
-        "imgSrc" : "fotosvodkas/smirnoff-raspberry-01.jpeg",
-        "nro" : "310",
-        "wpp" : "Vodka%20Smirnoff%20Raspberry%20$650",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Smirnoff Sandia",
-        "category" : "Vodka",
-        "price" : "650",
-        "imgSrc" : "fotosvodkas/smirnoff-sandia-01.jpeg",
-        "nro" : "311",
-        "wpp" : "Vodka%20Smirnoff%20Sandia%20$650",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Sernova",
-        "category" : "Vodka",
-        "price" : "450",
-        "imgSrc" : "fotosvodkas/sernova-01.jpeg",
-        "nro" : "312",
-        "wpp" : "Vodka%20Sernova%20$450",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Sernova Wild Berries",
-        "category" : "Vodka",
-        "price" : "480",
-        "imgSrc" : "fotosvodkas/sernova-berries-01.jpeg",
-        "nro" : "313",
-        "wpp" : "Vodka%20Sernova%20Berries%20$480",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Sernova Citrus",
-        "category" : "Vodka",
-        "price" : "480",
-        "imgSrc" : "fotosvodkas/sernova-citrus-01.jpeg",
-        "nro" : "314",
-        "wpp" : "Vodka%20Sernova%20Citrus%20$480",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Malevo Caramelo",
-        "category" : "Vodka",
-        "price" : "750",
-        "imgSrc" : "fotosvodkas/malevo-01.jpeg",
-        "nro" : "315",
-        "wpp" : "Vodka%20Malevo%20Caramelo%20$750",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
+    {       
         "name" : "Absolute regular 750",
         "category" : "Vodka",
         "price" : "0",
@@ -319,6 +154,39 @@
         "carrito" : "add-to-cart-btn"
     },
     {
+        "name" : "Dr. Lemon 1 lt.",
+        "category" : "Vodka",
+        "price" : "180",
+        "imgSrc" : "fotosvodkas/drlemon-1LT-01.jpeg",
+        "nro" : "301",
+        "wpp" : "Vodka%20Dr.%20Lemon%201LT%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Dr. Lemon lata limon",
+        "category" : "Vodka",
+        "price" : "95",
+        "imgSrc" : "fotosvodkas/drlemon-limon-01.jpeg",
+        "nro" : "302",
+        "wpp" : "Vodka%20Dr.%20Lemon%20lata%20limon%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Dr. Lemon lata pomelo",
+        "category" : "Vodka",
+        "price" : "95",
+        "imgSrc" : "fotosvodkas/drlemon-pomelo-01.jpeg",
+        "nro" : "303",
+        "wpp" : "Vodka%20Dr.%20Lemon%20lata%20pomelo%20$95",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
         "name" : "Jose Cuervo",
         "category" : "Tequila",
         "price" : "3100",
@@ -328,5 +196,138 @@
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
-    }
+    },
+    {
+        "name" : "Malevo Caramelo",
+        "category" : "Vodka",
+        "price" : "750",
+        "imgSrc" : "fotosvodkas/malevo-01.jpeg",
+        "nro" : "315",
+        "wpp" : "Vodka%20Malevo%20Caramelo%20$750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    
+    {
+        "name" : "Sernova",
+        "category" : "Vodka",
+        "price" : "450",
+        "imgSrc" : "fotosvodkas/sernova-01.jpeg",
+        "nro" : "312",
+        "wpp" : "Vodka%20Sernova%20$450",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Sernova Wild Berries",
+        "category" : "Vodka",
+        "price" : "480",
+        "imgSrc" : "fotosvodkas/sernova-berries-01.jpeg",
+        "nro" : "313",
+        "wpp" : "Vodka%20Sernova%20Berries%20$480",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Sernova Citrus",
+        "category" : "Vodka",
+        "price" : "480",
+        "imgSrc" : "fotosvodkas/sernova-citrus-01.jpeg",
+        "nro" : "314",
+        "wpp" : "Vodka%20Sernova%20Citrus%20$480",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+     {
+        "name" : "Smirnoff",
+        "category" : "Vodka",
+        "price" : "570",
+        "imgSrc" : "fotosvodkas/smirnoff-01.jpeg",
+        "nro" : "306",
+        "wpp" : "Vodka%20Smirnoff%20$570",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
+    },
+    {
+        "name" : "Smirnoff Bitter Citric",
+        "category" : "Vodka",
+        "price" : "650",
+        "imgSrc" : "fotosvodkas/smirnoff-citric-01.jpeg",
+        "nro" : "307",
+        "wpp" : "Vodka%20Smirnoff%20Citric%20$650",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Smirnoff Citrus",
+        "category" : "Vodka",
+        "price" : "650",
+        "imgSrc" : "fotosvodkas/smirnoff-citrus-01.jpeg",
+        "nro" : "308",
+        "wpp" : "Vodka%20Smirnoff%20Citrus%20$650",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Smirnoff Manzana",
+        "category" : "Vodka",
+        "price" : "650",
+        "imgSrc" : "fotosvodkas/smirnoff-manzana-01.jpeg",
+        "nro" : "309",
+        "wpp" : "Vodka%20Smirnoff%20Manzana%20$650",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Smirnoff Raspberry",
+        "category" : "Vodka",
+        "price" : "650",
+        "imgSrc" : "fotosvodkas/smirnoff-raspberry-01.jpeg",
+        "nro" : "310",
+        "wpp" : "Vodka%20Smirnoff%20Raspberry%20$650",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Smirnoff Sandia",
+        "category" : "Vodka",
+        "price" : "650",
+        "imgSrc" : "fotosvodkas/smirnoff-sandia-01.jpeg",
+        "nro" : "311",
+        "wpp" : "Vodka%20Smirnoff%20Sandia%20$650",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Skyy",
+        "category" : "Vodka",
+        "price" : "540",
+        "imgSrc" : "fotosvodkas/skyy-01.jpeg",
+        "nro" : "304",
+        "wpp" : "Vodka%20Skyy%20$540",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Skyy Raspberry",
+        "category" : "Vodka",
+        "price" : "550",
+        "imgSrc" : "fotosvodkas/skyy-raspberry-01.jpeg",
+        "nro" : "305",
+        "wpp" : "Vodka%20Skyy%20Raspberry%20$550",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
+    } 
 ]
