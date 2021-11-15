@@ -22,6 +22,185 @@
         "carrito" : ""
     },
     {
+        "name" : "Baron B Brut nature",
+        "category" : "Champagne",
+        "price" : "2300",
+        "imgSrc" : "fotoschampagnes/baronb-brut-nature-01.jpeg",
+        "nro" : "936",
+        "wpp" : "Champagne%20Baron%20B%20brut%20nature%20$2300",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Baron B Extrabrut",
+        "category" : "Champagne",
+        "price" : "1830",
+        "imgSrc" : "fotoschampagnes/baronb-extrabrut-01.jpeg",
+        "nro" : "935",
+        "wpp" : "Champagne%20Baron%20B%20Extrabrut%20$1830",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    
+    {
+        "name" : "Baron B Rose",
+        "category" : "Champagne",
+        "price" : "2300",
+        "imgSrc" : "fotoschampagnes/baronb-rose-01.jpeg",
+        "nro" : "937",
+        "wpp" : "Champagne%20Baron%20B%20Rose%20$2300",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Callia Extra Brut",
+        "category" : "Champagne",
+        "price" : "330",
+        "imgSrc" : "fotoschampagnes/callia-extrabrut-01.jpeg",
+        "nro" : "905",
+        "wpp" : "Champagne%20Callia%20$330",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Chandon Aperitif",
+        "category" : "Champagne",
+        "price" : "860",
+        "imgSrc" : "fotoschampagnes/chandon-aperitif-01.jpeg",
+        "nro" : "926",
+        "wpp" : "Champagne%20Chandon%20Aperitif%20$860",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Chandon Delice",
+        "category" : "Champagne",
+        "price" : "860",
+        "imgSrc" : "fotoschampagnes/chandon-delice-01.jpeg",
+        "nro" : "927",
+        "wpp" : "Champagne%20Chandon%20Delice%20$860",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Chandon Extrabrut",
+        "category" : "Champagne",
+        "price" : "860",
+        "imgSrc" : "fotoschampagnes/chandon-extrabrut-01.jpeg",
+        "nro" : "928",
+        "wpp" : "Champagne%20Chandon%20Extrabrut%20$860",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Chandon Rose",
+        "category" : "Champagne",
+        "price" : "860",
+        "imgSrc" : "fotoschampagnes/chandon-rose-01.jpeg",
+        "nro" : "929",
+        "wpp" : "Champagne%20Chandon%20Rose%20$860",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
+    },
+    {
+        "name" : "Cosecha especial Norton",
+        "category" : "Champagne",
+        "price" : "575",
+        "imgSrc" : "fotoschampagnes/cosecha-especial-norton-01.jpeg",
+        "nro" : "914",
+        "wpp" : "Champagne%20Cosecha%20Norton%20$575",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+     {
+        "name" : "Cruzat Cuvee Extrabrut",
+        "category" : "Champagne",
+        "price" : "940",
+        "imgSrc" : "fotoschampagnes/cruzat-rose-01.jpeg",
+        "nro" : "932",
+        "wpp" : "Champagne%20Cruzat%20Cuvee%20Extrabrut%20$940",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Cruzat Cuvee Rose",
+        "category" : "Champagne",
+        "price" : "940",
+        "imgSrc" : "fotoschampagnes/cruzzat-cuvee-rose-01.jpeg",
+        "nro" : "931",
+        "wpp" : "Champagne%20Cruzat%20Cuvee%20Rose%20$940",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Cruzat Extrabrut",
+        "category" : "Champagne",
+        "price" : "540",
+        "imgSrc" : "fotoschampagnes/cruzzat-extrabrut-01.jpeg",
+        "nro" : "934",
+        "wpp" : "Champagne%20Cruzat%20Extrabrut%20$540",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+     {
+        "name" : "Cruzat Naranjo",
+        "category" : "Champagne",
+        "price" : "660",
+        "imgSrc" : "fotoschampagnes/cruzzat-edicion-naranjo-01.jpeg",
+        "nro" : "930",
+        "wpp" : "Champagne%20Cruzat%20Naranjo%20$660",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    
+   
+    {
+        "name" : "Cruzat Rose",
+        "category" : "Champagne",
+        "price" : "540",
+        "imgSrc" : "fotoschampagnes/cruzat-rose-01.jpeg",
+        "nro" : "933",
+        "wpp" : "Champagne%20Cruzat%20Rose%20$540",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Dada 7 Sweet",
+        "category" : "Champagne",
+        "price" : "480",
+        "imgSrc" : "fotoschampagnes/dada-7-sweet-01.jpeg",
+        "nro" : "910",
+        "wpp" : "Champagne%20Dada%207%20Sweet%20$480",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Dolores Extrabrut",
+        "category" : "Champagne",
+        "price" : "290",
+        "imgSrc" : "fotoschampagnes/dolores-extrabrut-01.jpeg",
+        "nro" : "907",
+        "wpp" : "Champagne%20Dolores%20Extrabrut%20$290",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
+    },
+    {
         "name" : "La Poderosa Extra Brut",
         "category" : "Champagne",
         "price" : "245",
@@ -43,17 +222,7 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
-        "name" : "Callia Extra Brut",
-        "category" : "Champagne",
-        "price" : "330",
-        "imgSrc" : "fotoschampagnes/callia-extrabrut-01.jpeg",
-        "nro" : "905",
-        "wpp" : "Champagne%20Callia%20$330",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
+    
     {
         "name" : "Dolores Rose",
         "category" : "Champagne",
@@ -66,12 +235,12 @@
         "carrito" : ""
     },
     {
-        "name" : "Dolores Extrabrut",
+        "name" : "Don David",
         "category" : "Champagne",
-        "price" : "290",
-        "imgSrc" : "fotoschampagnes/dolores-extrabrut-01.jpeg",
-        "nro" : "907",
-        "wpp" : "Champagne%20Dolores%20Extrabrut%20$290",
+        "price" : "340",
+        "imgSrc" : "fotoschampagnes/don-david-extrabrut-01.jpeg",
+        "nro" : "913",
+        "wpp" : "Champagne%20Don%20David%20$340",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
@@ -98,17 +267,7 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
-        "name" : "Dada 7 Sweet",
-        "category" : "Champagne",
-        "price" : "480",
-        "imgSrc" : "fotoschampagnes/dada-7-sweet-01.jpeg",
-        "nro" : "910",
-        "wpp" : "Champagne%20Dada%207%20Sweet%20$480",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
+    
     {
         "name" : "Latitud 33",
         "category" : "Champagne",
@@ -131,28 +290,8 @@
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
     },
-    {
-        "name" : "Don David",
-        "category" : "Champagne",
-        "price" : "340",
-        "imgSrc" : "fotoschampagnes/don-david-extrabrut-01.jpeg",
-        "nro" : "913",
-        "wpp" : "Champagne%20Don%20David%20$340",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
-    },
-    {
-        "name" : "Cosecha especial Norton",
-        "category" : "Champagne",
-        "price" : "575",
-        "imgSrc" : "fotoschampagnes/cosecha-especial-norton-01.jpeg",
-        "nro" : "914",
-        "wpp" : "Champagne%20Cosecha%20Norton%20$575",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
+    
+    
     {
         "name" : "Mumm",
         "category" : "Champagne",
@@ -274,138 +413,11 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
-        "name" : "Chandon Aperitif",
-        "category" : "Champagne",
-        "price" : "860",
-        "imgSrc" : "fotoschampagnes/chandon-aperitif-01.jpeg",
-        "nro" : "926",
-        "wpp" : "Champagne%20Chandon%20Aperitif%20$860",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Chandon Delice",
-        "category" : "Champagne",
-        "price" : "860",
-        "imgSrc" : "fotoschampagnes/chandon-delice-01.jpeg",
-        "nro" : "927",
-        "wpp" : "Champagne%20Chandon%20Delice%20$860",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Chandon Extrabrut",
-        "category" : "Champagne",
-        "price" : "860",
-        "imgSrc" : "fotoschampagnes/chandon-extrabrut-01.jpeg",
-        "nro" : "928",
-        "wpp" : "Champagne%20Chandon%20Extrabrut%20$860",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Chandon Rose",
-        "category" : "Champagne",
-        "price" : "860",
-        "imgSrc" : "fotoschampagnes/chandon-rose-01.jpeg",
-        "nro" : "929",
-        "wpp" : "Champagne%20Chandon%20Rose%20$860",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
-    },
-    {
-        "name" : "Cruzat Naranjo",
-        "category" : "Champagne",
-        "price" : "660",
-        "imgSrc" : "fotoschampagnes/cruzzat-edicion-naranjo-01.jpeg",
-        "nro" : "930",
-        "wpp" : "Champagne%20Cruzat%20Naranjo%20$660",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Cruzat Cuvee Rose",
-        "category" : "Champagne",
-        "price" : "940",
-        "imgSrc" : "fotoschampagnes/cruzzat-cuvee-rose-01.jpeg",
-        "nro" : "931",
-        "wpp" : "Champagne%20Cruzat%20Cuvee%20Rose%20$940",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Cruzat Cuvee Extrabrut",
-        "category" : "Champagne",
-        "price" : "940",
-        "imgSrc" : "fotoschampagnes/cruzat-rose-01.jpeg",
-        "nro" : "932",
-        "wpp" : "Champagne%20Cruzat%20Cuvee%20Extrabrut%20$940",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Cruzat Rose",
-        "category" : "Champagne",
-        "price" : "540",
-        "imgSrc" : "fotoschampagnes/cruzat-rose-01.jpeg",
-        "nro" : "933",
-        "wpp" : "Champagne%20Cruzat%20Rose%20$540",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Cruzat Extrabrut",
-        "category" : "Champagne",
-        "price" : "540",
-        "imgSrc" : "fotoschampagnes/cruzzat-extrabrut-01.jpeg",
-        "nro" : "934",
-        "wpp" : "Champagne%20Cruzat%20Extrabrut%20$540",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Baron B Extrabrut",
-        "category" : "Champagne",
-        "price" : "1830",
-        "imgSrc" : "fotoschampagnes/baronb-extrabrut-01.jpeg",
-        "nro" : "935",
-        "wpp" : "Champagne%20Baron%20B%20Extrabrut%20$1830",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Baron B Brut nature",
-        "category" : "Champagne",
-        "price" : "2300",
-        "imgSrc" : "fotoschampagnes/baronb-brut-nature-01.jpeg",
-        "nro" : "936",
-        "wpp" : "Champagne%20Baron%20B%20brut%20nature%20$2300",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Baron B Rose",
-        "category" : "Champagne",
-        "price" : "2300",
-        "imgSrc" : "fotoschampagnes/baronb-rose-01.jpeg",
-        "nro" : "937",
-        "wpp" : "Champagne%20Baron%20B%20Rose%20$2300",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
+    
+    
+   
+    
+    
     {
         "name" : "2020 LPQTP",
         "category" : "Champagne",
@@ -429,7 +441,7 @@
         "carrito" : "add-to-cart-btn"
     },
     {
-        "name" : "Real Frutos Rojos",
+        "name" : "Sidra Real Frutos Rojos",
         "category" : "Sidras",
         "price" : "190",
         "imgSrc" : "fotossidras/real-frutos-rojos-01.jpeg",
@@ -440,7 +452,7 @@
         "carrito" : "add-to-cart-btn"
     },
     {
-        "name" : "1930 Demi Sec",
+        "name" : "Sidra 1930 Demi Sec",
         "category" : "Sidras",
         "price" : "350",
         "imgSrc" : "fotossidras/1930-demi-sec-01.jpeg",
@@ -451,7 +463,7 @@
         "carrito" : "add-to-cart-btn"
     },
     {
-        "name" : "1930 Dulce",
+        "name" : "Sidra 1930 Dulce",
         "category" : "Sidras",
         "price" : "350",
         "imgSrc" : "fotossidras/1930-dulce-01.jpeg",
@@ -462,7 +474,7 @@
         "carrito" : "add-to-cart-btn"
     },
     {
-        "name" : "1930 Pera",
+        "name" : "Sidra 1930 Pera",
         "category" : "Sidras",
         "price" : "350",
         "imgSrc" : "fotossidras/1930-pera-01.jpeg",
@@ -484,7 +496,7 @@
         "carrito" : "add-to-cart-btn"
     },
     {
-        "name" : "1888 Rose",
+        "name" : "Sidra 1888 Rose",
         "category" : "Sidras",
         "price" : "560",
         "imgSrc" : "fotossidras/1888-rose-01.jpeg",
