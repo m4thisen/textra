@@ -547,7 +547,7 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn",
         "carritoPack" : "add-to-cart-btn-pack"
-    }
+    },
     {
         "name" : "Quilmes Bock",
         "category" : "Cerveza",
@@ -674,5 +674,5 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn",
         "carritoPack" : "add-to-cart-btn-pack"
-    },
+    }
 ]
