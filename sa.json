@@ -87,6 +87,17 @@
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
     },
+    
+        "name" : "Fanta 1.5L",
+        "category" : "Sin alcohol",
+        "price" : "155",
+        "imgSrc" : "fotossa/fanta-225-01.jpeg",
+        "nro" : "1002",
+        "wpp" : "Fanta%202.25L%20$155",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
     {
         "name" : "Gatorade 500ml cool blue",
         "category" : "Sin alcohol",
