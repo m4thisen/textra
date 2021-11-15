@@ -1,16 +1,5 @@
 [
     {
-        "name" : "Novecento",
-        "category" : "Champagne",
-        "price" : "200",
-        "imgSrc" : "fotoschampagnes/novecento-01.jpeg",
-        "nro" : "901",
-        "wpp" : "Champagne%20Novecento%20$200",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
         "name" : "Aime Extra Brut",
         "category" : "Champagne",
         "price" : "250",
@@ -201,29 +190,6 @@
         "carrito" : ""
     },
     {
-        "name" : "La Poderosa Extra Brut",
-        "category" : "Champagne",
-        "price" : "245",
-        "imgSrc" : "fotoschampagnes/la-poderosa-01.jpeg",
-        "nro" : "903",
-        "wpp" : "Champagne%20LaPoderosa%20$245",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
-    },
-    {
-        "name" : "Norton Extra Brut",
-        "category" : "Champagne",
-        "price" : "350",
-        "imgSrc" : "fotoschampagnes/norton-extrabrut-01.jpeg",
-        "nro" : "904",
-        "wpp" : "Champagne%20Norton%20$350",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    
-    {
         "name" : "Dolores Rose",
         "category" : "Champagne",
         "price" : "290",
@@ -267,7 +233,28 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    
+    {
+        "name" : "Fresita",
+        "category" : "Champagne",
+        "price" : "530",
+        "imgSrc" : "fotoschampagnes/fresita-01.jpeg",
+        "nro" : "917",
+        "wpp" : "Champagne%20Fresita%20$530",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "La Poderosa Extra Brut",
+        "category" : "Champagne",
+        "price" : "245",
+        "imgSrc" : "fotoschampagnes/la-poderosa-01.jpeg",
+        "nro" : "903",
+        "wpp" : "Champagne%20LaPoderosa%20$245",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
+    },
     {
         "name" : "Latitud 33",
         "category" : "Champagne",
@@ -279,19 +266,6 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
-        "name" : "Trapiche",
-        "category" : "Champagne",
-        "price" : "330",
-        "imgSrc" : "fotoschampagnes/trapiche-extrabrut-01.jpeg",
-        "nro" : "912",
-        "wpp" : "Champagne%20Trapiche%20$330",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
-    },
-    
-    
     {
         "name" : "Mumm",
         "category" : "Champagne",
@@ -314,18 +288,7 @@
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
     },
-    {
-        "name" : "Fresita",
-        "category" : "Champagne",
-        "price" : "530",
-        "imgSrc" : "fotoschampagnes/fresita-01.jpeg",
-        "nro" : "917",
-        "wpp" : "Champagne%20Fresita%20$530",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
+{
         "name" : "Navarro Correas",
         "category" : "Champagne",
         "price" : "580",
@@ -336,7 +299,18 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
+{
+        "name" : "Nieto Sentiner Brut Nature",
+        "category" : "Champagne",
+        "price" : "650",
+        "imgSrc" : "fotoschampagnes/nieto-senetier-nature-01.jpeg",
+        "nro" : "921",
+        "wpp" : "Champagne%20Nieto%20Sentiner%20Nature%20$650",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+{
         "name" : "Nieto Sentiner Extrabrut",
         "category" : "Champagne",
         "price" : "600",
@@ -359,12 +333,45 @@
         "carrito" : ""
     },
     {
-        "name" : "Nieto Sentiner Brut Nature",
+        "name" : "Norton Extra Brut",
         "category" : "Champagne",
-        "price" : "650",
-        "imgSrc" : "fotoschampagnes/nieto-senetier-nature-01.jpeg",
-        "nro" : "921",
-        "wpp" : "Champagne%20Nieto%20Sentiner%20Nature%20$650",
+        "price" : "350",
+        "imgSrc" : "fotoschampagnes/norton-extrabrut-01.jpeg",
+        "nro" : "904",
+        "wpp" : "Champagne%20Norton%20$350",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    }, 
+    {
+        "name" : "Novecento",
+        "category" : "Champagne",
+        "price" : "200",
+        "imgSrc" : "fotoschampagnes/novecento-01.jpeg",
+        "nro" : "901",
+        "wpp" : "Champagne%20Novecento%20$200",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Perro Callejero EB ROSE",
+        "category" : "Champagne",
+        "price" : "490",
+        "imgSrc" : "fotoschampagnes/perro-callejero-extrabrut-01.jpeg",
+        "nro" : "925",
+        "wpp" : "Champagne%20Perro%20Callejero%20$490",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Saleintein Brut Nature",
+        "category" : "Champagne",
+        "price" : "670",
+        "imgSrc" : "fotoschampagnes/salentein-brut-nature-01.jpeg",
+        "nro" : "923",
+        "wpp" : "Champagne%20Saleintein%20Nature%20$670",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -380,18 +387,7 @@
         "stock" : "NO DISPONIBLE",
         "carrito" : "add-to-cart-btn"
     },
-    {
-        "name" : "Saleintein Brut Nature",
-        "category" : "Champagne",
-        "price" : "670",
-        "imgSrc" : "fotoschampagnes/salentein-brut-nature-01.jpeg",
-        "nro" : "923",
-        "wpp" : "Champagne%20Saleintein%20Nature%20$670",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
+ {
         "name" : "Saleintein Rose",
         "category" : "Champagne",
         "price" : "525",
@@ -402,56 +398,7 @@
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
     },
-    {
-        "name" : "Perro Callejero EB ROSE",
-        "category" : "Champagne",
-        "price" : "490",
-        "imgSrc" : "fotoschampagnes/perro-callejero-extrabrut-01.jpeg",
-        "nro" : "925",
-        "wpp" : "Champagne%20Perro%20Callejero%20$490",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    
-    
-   
-    
-    
-    {
-        "name" : "2020 LPQTP",
-        "category" : "Champagne",
-        "price" : "400",
-        "imgSrc" : "fotoschampagnes/2020-lpqtp-01.jpeg",
-        "nro" : "938",
-        "wpp" : "Champagne%202020%20LPQTP%20$400",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Sottano Extra Brut",
-        "category" : "Champagne",
-        "price" : "550",
-        "imgSrc" : "fotoschampagnes/sottano-extrabrut-01.jpeg",
-        "nro" : "939",
-        "wpp" : "Champagne%20Sottano%20ExtraBrut%20$550",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Sidra Real Frutos Rojos",
-        "category" : "Sidras",
-        "price" : "190",
-        "imgSrc" : "fotossidras/real-frutos-rojos-01.jpeg",
-        "nro" : "1201",
-        "wpp" : "Sidra%20Real%20Frutos%20Rojos%20$190",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
+    {     
         "name" : "Sidra 1930 Demi Sec",
         "category" : "Sidras",
         "price" : "350",
@@ -505,5 +452,49 @@
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
-    }
+    },
+{
+        "name" : "Sidra Real Frutos Rojos",
+        "category" : "Sidras",
+        "price" : "190",
+        "imgSrc" : "fotossidras/real-frutos-rojos-01.jpeg",
+        "nro" : "1201",
+        "wpp" : "Sidra%20Real%20Frutos%20Rojos%20$190",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Sottano Extra Brut",
+        "category" : "Champagne",
+        "price" : "550",
+        "imgSrc" : "fotoschampagnes/sottano-extrabrut-01.jpeg",
+        "nro" : "939",
+        "wpp" : "Champagne%20Sottano%20ExtraBrut%20$550",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+{
+        "name" : "Trapiche",
+        "category" : "Champagne",
+        "price" : "330",
+        "imgSrc" : "fotoschampagnes/trapiche-extrabrut-01.jpeg",
+        "nro" : "912",
+        "wpp" : "Champagne%20Trapiche%20$330",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
+    }, 
+{
+        "name" : "2020 LPQTP",
+        "category" : "Champagne",
+        "price" : "400",
+        "imgSrc" : "fotoschampagnes/2020-lpqtp-01.jpeg",
+        "nro" : "938",
+        "wpp" : "Champagne%202020%20LPQTP%20$400",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+} 
 ]
