@@ -87,8 +87,8 @@
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
     },
-    
-        "name" : "Fanta 1.5L",
+    {
+       "name" : "Fanta 1.5L",
         "category" : "Sin alcohol",
         "price" : "155",
         "imgSrc" : "fotossa/fanta-225-01.jpeg",
