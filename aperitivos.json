@@ -1,6 +1,60 @@
 [
-    
     {
+        "name" : "Aperol",
+        "category" : "Aperitivos",
+        "price" : "610",
+        "imgSrc" : "fotosaperitivos/aperol-01.jpeg",
+        "nro" : "210",
+        "wpp" : "Aperitivo%20Aperol%20$610",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Campari",
+        "category" : "Aperitivos",
+        "price" : "520",
+        "imgSrc" : "fotosaperitivos/campari-01.jpeg",
+        "nro" : "209",
+        "wpp" : "Aperitivo%20Campari%20$520",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },   
+    {
+        "name" : "Cinzano Rosso",
+        "category" : "Aperitivos",
+        "price" : "360",
+        "imgSrc" : "fotosaperitivos/cinzano-rosso-01.jpeg",
+        "nro" : "205",
+        "wpp" : "Aperitivo%20Cinzano%20Rosso%20$360",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+  {
+        "name" : "Cynar",
+        "category" : "Aperitivos",
+        "price" : "440",
+        "imgSrc" : "fotosaperitivos/cynar-01.jpeg",
+        "nro" : "208",
+        "wpp" : "Aperitivo%20Cynar%20$440",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+ {
+        "name" : "Fernet 1882",
+        "category" : "Aperitivos",
+        "price" : "345",
+        "imgSrc" : "fotosaperitivos/1882-01.jpeg",
+        "nro" : "204",
+        "wpp" : "Aperitivo%20Fernet%20Branca%201882%20$345",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
+    },
+  {
         "name" : "Fernet Branca 450",
         "category" : "Aperitivos",
         "price" : "420",
@@ -11,7 +65,7 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
+   {
         "name" : "Fernet Branca 750",
         "category" : "Aperitivos",
         "price" : "670",
@@ -33,29 +87,7 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
-        "name" : "Fernet Branca 1882",
-        "category" : "Aperitivos",
-        "price" : "345",
-        "imgSrc" : "fotosaperitivos/1882-01.jpeg",
-        "nro" : "204",
-        "wpp" : "Aperitivo%20Fernet%20Branca%201882%20$345",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
-    },
-    {
-        "name" : "Cinzano Rosso",
-        "category" : "Aperitivos",
-        "price" : "360",
-        "imgSrc" : "fotosaperitivos/cinzano-rosso-01.jpeg",
-        "nro" : "205",
-        "wpp" : "Aperitivo%20Cinzano%20Rosso%20$360",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
+   {
         "name" : "Gancia",
         "category" : "Aperitivos",
         "price" : "320",
@@ -66,7 +98,7 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
+{
         "name" : "Gancia Spritz",
         "category" : "Aperitivos",
         "price" : "300",
@@ -77,40 +109,7 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
-        "name" : "Cynar",
-        "category" : "Aperitivos",
-        "price" : "440",
-        "imgSrc" : "fotosaperitivos/cynar-01.jpeg",
-        "nro" : "208",
-        "wpp" : "Aperitivo%20Cynar%20$440",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Campari",
-        "category" : "Aperitivos",
-        "price" : "520",
-        "imgSrc" : "fotosaperitivos/campari-01.jpeg",
-        "nro" : "209",
-        "wpp" : "Aperitivo%20Campari%20$520",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Aperol",
-        "category" : "Aperitivos",
-        "price" : "610",
-        "imgSrc" : "fotosaperitivos/aperol-01.jpeg",
-        "nro" : "210",
-        "wpp" : "Aperitivo%20Aperol%20$610",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
+ {
         "name" : "Velho Bareiro",
         "category" : "Aperitivos",
         "price" : "620",
