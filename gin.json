@@ -1,11 +1,44 @@
 [
     {
+        "name" : "Beefeater 750ml.",
+        "category" : "Gin",
+        "price" : "2060",
+        "imgSrc" : "fotosgins/beefeater-750-01.jpeg",
+        "nro" : "509",
+        "wpp" : "Gin%20Beefeater%20750ml%20$2060",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Beefeater 1L.",
+        "category" : "Gin",
+        "price" : "1840",
+        "imgSrc" : "fotosgins/beefeater-1L-01.jpeg",
+        "nro" : "510",
+        "wpp" : "Gin%20Beefeater%201L%20$1840",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
+    },
+    {
         "name" : "Brighton",
         "category" : "Gin",
         "price" : "750",
         "imgSrc" : "fotosgins/brighton-01.jpeg",
         "nro" : "501",
         "wpp" : "Gin%20Brighton%20$750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Buenos Aires",
+        "category" : "Gin",
+        "price" : "1600",
+        "imgSrc" : "fotosgins/buenos-aires-01.jpeg",
+        "nro" : "511",
+        "wpp" : "Gin%20Buenos%20Aires%20$1600",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -44,12 +77,45 @@
         "carrito" : "add-to-cart-btn"
     },
     {
+        "name" : "Heredero",
+        "category" : "Gin",
+        "price" : "1240",
+        "imgSrc" : "fotosgins/heredero-01.jpeg",
+        "nro" : "515",
+        "wpp" : "Gin%20Heredero%20$1240",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
         "name" : "Inmigrante",
         "category" : "Gin",
         "price" : "1220",
         "imgSrc" : "fotosgins/inmigrante-01.jpeg",
         "nro" : "505",
         "wpp" : "Gin%20Inmigrante%20$1220",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    
+        "name" : "Kunuk",
+        "category" : "Gin",
+        "price" : "1690",
+        "imgSrc" : "fotosgins/kunuk-01.jpeg",
+        "nro" : "508",
+        "wpp" : "Gin%20Kunuk%20$1690",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+{
+        "name" : "Maleficio",
+        "category" : "Gin",
+        "price" : "670",
+        "imgSrc" : "fotosgins/maleficio-01.jpeg",
+        "nro" : "514",
+        "wpp" : "Gin%20Maleficio%20$670",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -76,51 +142,7 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
-    {
-        "name" : "Kunuk",
-        "category" : "Gin",
-        "price" : "1690",
-        "imgSrc" : "fotosgins/kunuk-01.jpeg",
-        "nro" : "508",
-        "wpp" : "Gin%20Kunuk%20$1690",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Beefeater 750ml.",
-        "category" : "Gin",
-        "price" : "2060",
-        "imgSrc" : "fotosgins/beefeater-750-01.jpeg",
-        "nro" : "509",
-        "wpp" : "Gin%20Beefeater%20750ml%20$2060",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Beefeater 1L.",
-        "category" : "Gin",
-        "price" : "1840",
-        "imgSrc" : "fotosgins/beefeater-1L-01.jpeg",
-        "nro" : "510",
-        "wpp" : "Gin%20Beefeater%201L%20$1840",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
-    },
-    {
-        "name" : "Buenos Aires",
-        "category" : "Gin",
-        "price" : "1600",
-        "imgSrc" : "fotosgins/buenos-aires-01.jpeg",
-        "nro" : "511",
-        "wpp" : "Gin%20Buenos%20Aires%20$1600",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
+ {
         "name" : "Tanqueray",
         "category" : "Gin",
         "price" : "1920",
@@ -141,28 +163,5 @@
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Maleficio",
-        "category" : "Gin",
-        "price" : "670",
-        "imgSrc" : "fotosgins/maleficio-01.jpeg",
-        "nro" : "514",
-        "wpp" : "Gin%20Maleficio%20$670",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    },
-    {
-        "name" : "Heredero",
-        "category" : "Gin",
-        "price" : "1240",
-        "imgSrc" : "fotosgins/heredero-01.jpeg",
-        "nro" : "515",
-        "wpp" : "Gin%20Heredero%20$1240",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
-    }
-
+    }    
 ]
