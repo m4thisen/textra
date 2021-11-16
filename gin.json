@@ -2,10 +2,10 @@
   {
     "name": "Aconcagua 750ml.",
     "category": "Gin",
-    "price": "2060",
+    "price": "1450",
     "imgSrc": "fotosgins/gin-aconcagua-01.jpeg",
     "nro": "501",
-    "wpp": "Gin%20Aconcagua%20750ml%20$2060",
+    "wpp": "Gin%20Aconcagua%20750ml%20$1450",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -13,10 +13,10 @@
   {
     "name": "Arlequin 750ml.",
     "category": "Gin",
-    "price": "2060",
+    "price": "570",
     "imgSrc": "fotosgins/gin-arlequin-01.jpeg",
     "nro": "502",
-    "wpp": "Gin%20Arlequin%20750ml%20$2060",
+    "wpp": "Gin%20Arlequin%20750ml%20$570",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -35,10 +35,10 @@
   {
     "name": "Beefeater Pink 750ml.",
     "category": "Gin",
-    "price": "2060",
+    "price": "2450",
     "imgSrc": "fotosgins/beefeater-pink-01.jpeg",
     "nro": "504",
-    "wpp": "Gin%20Beefeater%20Pink%20750ml%20$2060",
+    "wpp": "Gin%20Beefeater%20Pink%20750ml%20$2450",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -79,10 +79,10 @@
   {
     "name": "Dalmata 750ml.",
     "category": "Gin",
-    "price": "1600",
+    "price": "1575",
     "imgSrc": "fotosgins/gin-dalmata-01.jpeg",
     "nro": "508",
-    "wpp": "Gin%20Dalmata%20750ml%20$1600",
+    "wpp": "Gin%20Dalmata%20750ml%20$1575",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
