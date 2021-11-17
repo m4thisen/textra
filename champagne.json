@@ -431,6 +431,28 @@
     "carrito": ""
   },
   {
+    "name": "Sidra 1930 Anana",
+    "category": "Sidras",
+    "price": "350",
+    "imgSrc": "fotossidras/sidra-1930-anana-01.jpeg",
+    "nro": "948",
+    "wpp": "Sidra%1930%20Anana%20$350",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
+  },
+  {
+    "name": "Sidra 1930 Fresa",
+    "category": "Sidras",
+    "price": "350",
+    "imgSrc": "fotossidras/sidra-1930-fresa-01.jpeg",
+    "nro": "949",
+    "wpp": "Sidra%1930%20Fresa%20$350",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
+  },
+  {
     "name": "Sidra 1930 Demi Sec",
     "category": "Sidras",
     "price": "350",
@@ -477,10 +499,10 @@
   {
     "name": "Sidra 1888 Rose",
     "category": "Sidras",
-    "price": "560",
+    "price": "590",
     "imgSrc": "fotossidras/1888-rose-01.jpeg",
     "nro": "944",
-    "wpp": "Sidra%201888%20Rose%20$560",
+    "wpp": "Sidra%201888%20Rose%20$590",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -517,29 +539,7 @@
     "estado": "sin-stock",
     "stock": "NO DISPONIBLE",
     "carrito": ""
-  },
-  {
-    "name": "Sidra 1930 Anana",
-    "category": "Sidras",
-    "price": "350",
-    "imgSrc": "fotossidras/sidra-1930-anana-01.jpeg",
-    "nro": "948",
-    "wpp": "Sidra%1930%20Anana%20$350",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
-  },
-  {
-    "name": "Sidra 1930 Fresa",
-    "category": "Sidras",
-    "price": "350",
-    "imgSrc": "fotossidras/sidra-1930-fresa-01.jpeg",
-    "nro": "949",
-    "wpp": "Sidra%1930%20Fresa%20$350",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
-  },
+  }, 
   {
     "name": "2020 LPQTP",
     "category": "Champagne",
