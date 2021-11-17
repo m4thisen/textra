@@ -200,10 +200,10 @@
   {
     "name": "Runa",
     "category": "Gin",
-    "price": "",
+    "price": "1120",
     "imgSrc": "fotosgins/gin-runa-01.jpeg",
     "nro": "519",
-    "wpp": "Gin%20Runa%20$0",
+    "wpp": "Gin%20Runa%20$1120",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
