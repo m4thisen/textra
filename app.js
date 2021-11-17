@@ -813,13 +813,13 @@ let link = "https://wa.me/541124924167?text="
 function cambiarImagenPrincipal(){
     if(document.getElementById('foto-principal')!=null){
 let index = 0;
-let listaimg = ["images/local-nuevo.jpg", "images/car-fernet.jpeg", "images/car-horarios.jpeg", "images/car-patagonia.jpeg", "images/car-pedidos.jpeg"];
+let listaimg = ["images/local-nuevo.jpg", "images/aviso-direccion-02.jpeg", "images/aviso-envios-01.jpeg", "images/aviso-horarios-02.jpeg"];
 setInterval(changeImage, 3000);
     function changeImage() {
       let img = document.getElementById('foto-principal');
       img.src=listaimg[index];
       index++;
-      if(index == 5)
+      if(index == 4)
       index = 0;
     }
 }
