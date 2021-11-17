@@ -200,23 +200,23 @@
     {
         "name" : "Set Andes 2 vasos",
         "category" : "Vasos",
-        "price" : "4500",
+        "price" : "1500",
         "imgSrc" : "fotosotros/vasos-andes-01.jpeg",
         "nro" : "1119",
-        "wpp" : "Set%20vasos%20andes%20$4500",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Set%20vasos%20andes%20$1500",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Set Vasos Temple",
         "category" : "Vasos",
-        "price" : "1050",
+        "price" : "2100",
         "imgSrc" : "fotosotros/kit-vasos-temple-01.jpeg",
         "nro" : "1120",
-        "wpp" : "Set%20Vasos%20Temple%20$1050",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Set%20Vasos%20Temple%20$2100",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
 ]
