@@ -2,10 +2,10 @@
     {
         "name" : "Amargo Obrero",
         "category" : "Aperitivos",
-        "price" : "610",
+        "price" : "270",
         "imgSrc" : "fotosaperitivos/amargo-obrero-01.jpeg",
         "nro" : "201",
-        "wpp" : "Amargo%20Obrero%20$610",
+        "wpp" : "Amargo%20Obrero%20$270",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -101,10 +101,10 @@
     {
         "name" : "Frizze 1 lt.",
         "category" : "Aperitivos",
-        "price" : "850",
+        "price" : "165",
         "imgSrc" : "fotosaperitivos/frizze-litro-01.jpeg",
         "nro" : "210",
-        "wpp" : "Aperitivo%20Frizze%201LT%20$850",
+        "wpp" : "Aperitivo%20Frizze%201LT%20$165",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
