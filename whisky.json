@@ -145,10 +145,10 @@
   {
     "name": "Coco Bongo Maracuya",
     "category": "Licores",
-    "price": "1625",
+    "price": "520",
     "imgSrc": "fotoslicores/licor-cocobongo-maracuya-01.jpeg",
     "nro": "714",
-    "wpp": "Licor%20Coco%20Bongo%20Maracuya%20$1625",
+    "wpp": "Licor%20Coco%20Bongo%20Maracuya%20$520",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -156,10 +156,10 @@
   {
     "name": "Coco Bongo Melon",
     "category": "Licores",
-    "price": "1625",
+    "price": "520",
     "imgSrc": "fotoslicores/licor-cocobongo-melon-01.jpeg",
     "nro": "715",
-    "wpp": "Licor%20Coco%20Bongo%20Melon%20$1625",
+    "wpp": "Licor%20Coco%20Bongo%20Melon%20$520",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -319,23 +319,23 @@
     "carrito": ""
   },
   {
-    "name": "Jim Honey",
+    "name": "Jim beam Honey",
     "category": "Whisky",
-    "price": "2200",
+    "price": "2375",
     "imgSrc": "fotoswhiskys/whisky-jim-honey-01.jpeg",
     "nro": "730",
-    "wpp": "Whisky%20Jim%20Honey%20$1800",
+    "wpp": "Whisky%20Jim%20Honey%20$2375",
     "estado": "sin-stock",
     "stock": "NO DISPONIBLE",
     "carrito": ""
   },
   {
-    "name": "Jim White",
+    "name": "Jim Beam White",
     "category": "Whisky",
-    "price": "2200",
+    "price": "2375",
     "imgSrc": "fotoswhiskys/whisky-jim-white-01.jpeg",
     "nro": "731",
-    "wpp": "Whisky%20Jim%20White%20$1800",
+    "wpp": "Whisky%20Jim%20White%20$2375",
     "estado": "sin-stock",
     "stock": "NO DISPONIBLE",
     "carrito": ""
@@ -508,10 +508,10 @@
   {
     "name": "Sheridans",
     "category": "Licores",
-    "price": "3000",
+    "price": "2900",
     "imgSrc": "fotoslicores/sheridan-01.jpeg",
     "nro": "747",
-    "wpp": "Licor%20Sheridans%20$3000",
+    "wpp": "Licor%20Sheridans%20$2900",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
