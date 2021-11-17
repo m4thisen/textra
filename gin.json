@@ -134,10 +134,10 @@
   {
     "name": "Hilbing",
     "category": "Gin",
-    "price": "1240",
+    "price": "1200",
     "imgSrc": "fotosgins/gin-hilbing-01.jpeg",
     "nro": "513",
-    "wpp": "Gin%20Hilbing%20$1240",
+    "wpp": "Gin%20Hilbing%20$1200",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
