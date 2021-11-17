@@ -198,12 +198,12 @@
         "carrito" : "add-to-cart-btn"
     },
     {
-        "name" : "Jagermeister 700ml. + 2 vasos",
+        "name" : "Set Andes 2 vasos",
         "category" : "Vasos",
         "price" : "4500",
-        "imgSrc" : "",
+        "imgSrc" : "fotosotros/vasos-andes-01.jpeg",
         "nro" : "1119",
-        "wpp" : "Jagermeister%20700ml.%20+%202%20vasos%20$4500",
+        "wpp" : "Set%20vasos%20andes%20$4500",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
