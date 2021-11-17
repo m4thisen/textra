@@ -13,10 +13,10 @@
     {
         "name" : "Baggio Naranja",
         "category" : "Sin alcohol",
-        "price" : "75",
+        "price" : "100",
         "imgSrc" : "fotossa/baggio-naranja-01.jpeg",
         "nro" : "1002",
-        "wpp" : "Baggio%20Naranja%20$75",
+        "wpp" : "Baggio%20Naranja%20$100",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -343,10 +343,10 @@
     {
         "name" : "7 Up Comun 1.5L",
         "category" : "Sin alcohol",
-        "price" : "195",
+        "price" : "125",
         "imgSrc" : "fotossa/7up-comun-1.5-01.jpg",
         "nro" : "1032",
-        "wpp" : "7up%201.5L%20$195",
+        "wpp" : "7up%201.5L%20$125",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -354,10 +354,10 @@
     {
         "name" : "7 Up Free 1.5L",
         "category" : "Sin alcohol",
-        "price" : "195",
+        "price" : "125",
         "imgSrc" : "fotossa/7up-free-1.5-01.jpg",
         "nro" : "1033",
-        "wpp" : "7up%20Free%201.5L%20$195",
+        "wpp" : "7up%20Free%201.5L%20$125",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
