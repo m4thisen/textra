@@ -10,7 +10,7 @@
     },
     {
         "name" : "Patagonia 710",
-        "category" : "Cerveza",
+        "category" : "Cervezas",
         "price" : "200",
         "imgSrc" : "catalogo/patagonia710.png",
         "nro" : "402",
@@ -19,9 +19,9 @@
     },
     {
         "name" : "1 Pack X6 Quilmes RedLager",
-        "category" : "Ofertas",
+        "category" : "Cervezas",
         "price" : "530",
-        "imgSrc" : "catalogo/packquilmesbock.png",
+        "imgSrc" : "fotoscervezas/quilmes-red.lager-01.jpg",
         "nro" : "530",
         "wpp" : "Oferta%20Pack%20X6%20Quilmes%20Redlager%20$530",
         "descuento" : "-10%"
