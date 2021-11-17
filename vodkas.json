@@ -134,7 +134,7 @@
     {
         "name" : "DF Blanco",
         "category" : "Tequila",
-        "price" : "313",
+        "price" : "310",
         "imgSrc" : "fotostequilas/df-blanco-01.jpeg",
         "nro" : "402",
         "wpp" : "Tequila%20DF%20Dorado%20$310",
@@ -145,7 +145,7 @@
     {
         "name" : "DF Dorado",
         "category" : "Tequila",
-        "price" : "314",
+        "price" : "310",
         "imgSrc" : "fotostequilas/df-dorado-01.jpeg",
         "nro" : "403",
         "wpp" : "Tequila%20DF%20Blanco%20$310",
@@ -344,10 +344,10 @@
     {
         "name" : "Skyy Anana",
         "category" : "Vodka",
-        "price" : "550",
+        "price" : "700",
         "imgSrc" : "fotosvodkas/skyy-anana-01.jpeg",
         "nro" : "332",
-        "wpp" : "Vodka%20Skyy%20Anana%20$550",
+        "wpp" : "Vodka%20Skyy%20Anana%20$700",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -355,10 +355,10 @@
     {
         "name" : "Skyy Coco",
         "category" : "Vodka",
-        "price" : "550",
+        "price" : "700",
         "imgSrc" : "fotosvodkas/skyy-coco-01.jpeg",
         "nro" : "333",
-        "wpp" : "Vodka%20Skyy%20Coco%20$550",
+        "wpp" : "Vodka%20Skyy%20Coco%20$700",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -366,10 +366,10 @@
     {
         "name" : "Skyy Maracuya",
         "category" : "Vodka",
-        "price" : "550",
+        "price" : "700",
         "imgSrc" : "fotosvodkas/skyy-maracuya-01.jpeg",
         "nro" : "334",
-        "wpp" : "Vodka%20Skyy%20Maracuya%20$550",
+        "wpp" : "Vodka%20Skyy%20Maracuya%20$700",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -377,10 +377,10 @@
     {
         "name" : "Skyy Raspberry",
         "category" : "Vodka",
-        "price" : "550",
+        "price" : "700",
         "imgSrc" : "fotosvodkas/skyy-raspberry-01.jpeg",
         "nro" : "335",
-        "wpp" : "Vodka%20Skyy%20Raspberry%20$550",
+        "wpp" : "Vodka%20Skyy%20Raspberry%20$700",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
