@@ -2,10 +2,10 @@
     {
         "name" : "Champagne Federico de Alvear <br> 2 Speeds",
         "category" : "Promocion Federico",
-        "price" : "570",
+        "price" : "530",
         "imgSrc" : "images/promo-federico-speeds-01.jpeg",
         "nro" : "149",
-        "wpp" : "Promo%Federico:%201%20Champagne%20Federico%20+%202%20Speed%20$570",
+        "wpp" : "Promo%Federico:%201%20Champagne%20Federico%20+%202%20Speed%20$530",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -13,10 +13,10 @@
     {
         "name" : "1 Fernet <br> 1 Coca 2.25L.",
         "category" : "Promocion Fernet",
-        "price" : "660",
+        "price" : "850",
         "imgSrc" : "images/promo-fernet-coca225-01.jpeg",
         "nro" : "150",
-        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$660",
+        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$850",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -24,10 +24,10 @@
     {
         "name" : "1 Gin Brighton <br> 1 Paso de los toros Tonica",
         "category" : "Promocion Tonica",
-        "price" : "750",
+        "price" : "850",
         "imgSrc" : "images/promo-gin-tonica-01.jpeg",
         "nro" : "151",
-        "wpp" : "Promo%20Tonica:%201%20Gin%20Brighton%20+%20Tonica%20$750",
+        "wpp" : "Promo%20Tonica:%201%20Gin%20Brighton%20+%20Tonica%20$850",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -35,12 +35,12 @@
     {
         "name" : "1 Smirnoff <br> 2 Baggio",
         "category" : "Promocion Smirnoff",
-        "price" : "850",
+        "price" : "",
         "imgSrc" : "images/promo-smirnoff-baggios-01.jpeg",
         "nro" : "152",
-        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Baggio%20$850",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Baggio%20$",
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     }
 ]
