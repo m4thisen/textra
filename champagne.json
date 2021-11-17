@@ -113,10 +113,10 @@
   {
     "name": "Cosecha Tradia Dulce",
     "category": "Champagne",
-    "price": "575",
+    "price": "400",
     "imgSrc": "fotoschampagnes/champagne-cosecha-tardia-dulce-01.jpeg",
     "nro": "911",
-    "wpp": "Champagne%20Cosecha%20Tardia%20$575",
+    "wpp": "Champagne%20Cosecha%20Tardia%20$400",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -191,10 +191,10 @@
   {
     "name": "Deseado Dulce",
     "category": "Champagne",
-    "price": "480",
+    "price": "495",
     "imgSrc": "fotoschampagnes/champagne-deseado-dulce-01.jpeg",
     "nro": "918",
-    "wpp": "Champagne%20Deseado%20Dulce%20$480",
+    "wpp": "Champagne%20Deseado%20Dulce%20$495",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -417,7 +417,7 @@
     "wpp": "Champagne%20Saleintein%20$610",
     "estado": "sin-stock",
     "stock": "NO DISPONIBLE",
-    "carrito": "add-to-cart-btn"
+    "carrito": ""
   },
   {
     "name": "Saleintein Rose",
@@ -447,7 +447,7 @@
     "price": "350",
     "imgSrc": "fotossidras/1930-dulce-01.jpeg",
     "nro": "941",
-    "wpp": "Sidra%201930%20Demi%20Dulce%20$350",
+    "wpp": "Sidra%201930%20Dulce%20$350",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -519,23 +519,23 @@
     "carrito": ""
   },
   {
-    "name": "1930 Anana",
+    "name": "Sidra 1930 Anana",
     "category": "Sidras",
-    "price": "400",
+    "price": "350",
     "imgSrc": "fotossidras/sidra-1930-anana-01.jpeg",
     "nro": "948",
-    "wpp": "Sidra%1930%20Anana%20$400",
+    "wpp": "Sidra%1930%20Anana%20$350",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
   },
   {
-    "name": "1930 Fresa",
+    "name": "Sidra 1930 Fresa",
     "category": "Sidras",
-    "price": "400",
+    "price": "350",
     "imgSrc": "fotossidras/sidra-1930-fresa-01.jpeg",
     "nro": "949",
-    "wpp": "Sidra%1930%20Fresa%20$400",
+    "wpp": "Sidra%1930%20Fresa%20$350",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
