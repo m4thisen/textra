@@ -10,7 +10,7 @@
     },
     {
         "name" : "Patagonia 710",
-        "category" : "Cervezas",
+        "category" : "Cerveza",
         "price" : "200",
         "imgSrc" : "catalogo/patagonia710.png",
         "nro" : "402",
@@ -19,7 +19,7 @@
     },
     {
         "name" : "1 Pack X6 Quilmes RedLager",
-        "category" : "Cervezas",
+        "category" : "Cerveza",
         "price" : "530",
         "imgSrc" : "fotoscervezas/quilmes-red.lager-01.jpg",
         "nro" : "530",
