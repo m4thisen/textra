@@ -290,24 +290,24 @@
   {
     "name": "Mumm",
     "category": "Champagne",
-    "price": "400",
+    "price": "540",
     "imgSrc": "fotoschampagnes/mumm-extra-brut-01.jpeg",
     "nro": "927",
-    "wpp": "Champagne%20Mumm%20$400",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Champagne%20Mumm%20$540",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Mumm Leger",
     "category": "Champagne",
-    "price": "400",
+    "price": "540",
     "imgSrc": "fotoschampagnes/mumm-leger-01.jpeg",
     "nro": "928",
-    "wpp": "Champagne%20Mumm%20Leger%20$400",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Champagne%20Mumm%20Leger%20$540",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Navarro Correas",
