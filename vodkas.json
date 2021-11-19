@@ -245,10 +245,10 @@
      {
         "name" : "Smirnoff",
         "category" : "Vodka",
-        "price" : "570",
+        "price" : "600",
         "imgSrc" : "fotosvodkas/smirnoff-01.jpeg",
         "nro" : "323",
-        "wpp" : "Vodka%20Smirnoff%20$570",
+        "wpp" : "Vodka%20Smirnoff%20$600",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
