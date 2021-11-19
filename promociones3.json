@@ -35,12 +35,12 @@
     {
         "name" : "1 Smirnoff <br> 2 Baggio",
         "category" : "Promocion Smirnoff",
-        "price" : "",
+        "price" : "750",
         "imgSrc" : "images/promo-smirnoff-baggios-01.jpeg",
         "nro" : "152",
-        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Baggio%20$",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Baggio%20$750",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
 ]
