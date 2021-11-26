@@ -13,10 +13,10 @@
     {
         "name" : "Aperol",
         "category" : "Aperitivos",
-        "price" : "610",
+        "price" : "590",
         "imgSrc" : "fotosaperitivos/aperol-01.jpeg",
         "nro" : "202",
-        "wpp" : "Aperitivo%20Aperol%20$610",
+        "wpp" : "Aperitivo%20Aperol%20$590",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -24,10 +24,10 @@
     {
         "name" : "Campari",
         "category" : "Aperitivos",
-        "price" : "560",
+        "price" : "550",
         "imgSrc" : "fotosaperitivos/campari-01.jpeg",
         "nro" : "203",
-        "wpp" : "Aperitivo%20Campari%20$560",
+        "wpp" : "Aperitivo%20Campari%20$550",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
