@@ -13,10 +13,10 @@
     {
         "name" : "1 Campari <br>2 jugos Baggio",
         "category" : "Promocion Campari",
-        "price" : "740",
+        "price" : "730",
         "imgSrc" : "images/promocampari.png",
         "nro" : "142",
-        "wpp" : "Promo%20Campari:%201%20Campari%20+%202%20Baggio%20$740",
+        "wpp" : "Promo%20Campari:%201%20Campari%20+%202%20Baggio%20$730",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
