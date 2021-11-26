@@ -255,10 +255,10 @@
 {
     "name" : "Cordero Piel de Lobo",
     "category" : "Vinos",
-    "price" : "360",
+    "price" : "390",
     "imgSrc" : "fotosvinos/cordero-piel-01.jpeg",
     "nro" : "1324",
-    "wpp" : "Vinos%20Cordero%20Piel%20de%20Lobo%20$360",
+    "wpp" : "Vinos%20Cordero%20Piel%20de%20Lobo%20$390",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
