@@ -327,9 +327,9 @@
     "imgSrc": "fotoschampagnes/nieto-senetier-nature-01.jpeg",
     "nro": "930",
     "wpp": "Champagne%20Nieto%20Sentiner%20Nature%20$650",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Nieto Sentiner Extrabrut",
@@ -338,9 +338,9 @@
     "imgSrc": "fotoschampagnes/nieto-sentiner-extrabrut-01.jpeg",
     "nro": "931",
     "wpp": "Champagne%20Nieto%20Sentiner%20Extrabrut%20$600",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Nieto Sentiner Rose",
@@ -382,9 +382,9 @@
     "imgSrc": "fotoschampagnes/perro-callejero-extrabrut-01.jpeg",
     "nro": "935",
     "wpp": "Champagne%20Perro%20Callejero%20$490",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Real Etiqueta Blanca",
@@ -404,9 +404,9 @@
     "imgSrc": "fotoschampagnes/salentein-brut-nature-01.jpeg",
     "nro": "937",
     "wpp": "Champagne%20Saleintein%20Nature%20$670",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Saleintein Extra Brut",
