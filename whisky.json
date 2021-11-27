@@ -13,10 +13,10 @@
   {
     "name": "Bacardi Blanco 1L",
     "category": "Ron",
-    "price": "1240",
+    "price": "1440",
     "imgSrc": "fotosrons/havana-blanco-01.jpeg",
     "nro": "702",
-    "wpp": "Ron%20Bacardi%20Blanco%201L%20$1240",
+    "wpp": "Ron%20Bacardi%20Blanco%201L%20$1440",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -24,10 +24,10 @@
   {
     "name": "Bacardi Blanco 750",
     "category": "Ron",
-    "price": "1030",
+    "price": "1150",
     "imgSrc": "fotosrons/bacardi-blanco-750-01.jpeg",
     "nro": "703",
-    "wpp": "Ron%20Bacardi%20Blanco%20$1030",
+    "wpp": "Ron%20Bacardi%20Blanco%20$1150",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -35,10 +35,10 @@
   {
     "name": "Bacardi Oro 1L",
     "category": "Ron",
-    "price": "1240",
+    "price": "1440",
     "imgSrc": "fotosrons/bacardi-oro-01.jpeg",
     "nro": "704",
-    "wpp": "Ron%20Bacardi%20Oro%201L%20$1240",
+    "wpp": "Ron%20Bacardi%20Oro%201L%20$1440",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -46,10 +46,10 @@
   {
     "name": "Bacardi Oro 750",
     "category": "Ron",
-    "price": "1030",
+    "price": "1150",
     "imgSrc": "fotosrons/bacardi-oro-750-01.jpeg",
     "nro": "705",
-    "wpp": "Ron%20Bacardi%20Oro/Blanco%20$1030",
+    "wpp": "Ron%20Bacardi%20Oro/Blanco%20$1150",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -112,10 +112,10 @@
   {
     "name": "Capitan Morgan Gold",
     "category": "Ron",
-    "price": "940",
+    "price": "990",
     "imgSrc": "fotosrons/morgan-gold-01.jpeg",
     "nro": "711",
-    "wpp": "Ron%20Capitan%20Morgan%20Gold$940",
+    "wpp": "Ron%20Capitan%20Morgan%20Gold$990",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -123,10 +123,10 @@
   {
     "name": "Capitan Morgan White",
     "category": "Ron",
-    "price": "940",
+    "price": "990",
     "imgSrc": "fotosrons/morgan-white-01.jpeg",
     "nro": "712",
-    "wpp": "Ron%20Capitan%20Morgan%20White$940",
+    "wpp": "Ron%20Capitan%20Morgan%20White$990",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -259,8 +259,8 @@
     "imgSrc": "fotoslicores/jagger-01.jpeg",
     "nro": "724",
     "wpp": "Licor%20JaggerMeister%20700cc%20$2300",
-    "estado": "",
-    "stock": "",
+    "estado": " NO DISPONIBLE",
+    "stock": "sin-stock",
     "carrito": "add-to-cart-btn"
   },
   {
@@ -277,10 +277,10 @@
   {
     "name": "Jameson 750",
     "category": "Whisky",
-    "price": "1900",
+    "price": "2000",
     "imgSrc": "fotoswhiskys/jameson-750-01.jpeg",
     "nro": "726",
-    "wpp": "Whisky%20Jameson%20750%20$1900",
+    "wpp": "Whisky%20Jameson%20750%20$2000",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
