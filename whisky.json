@@ -259,9 +259,9 @@
     "imgSrc": "fotoslicores/jagger-01.jpeg",
     "nro": "724",
     "wpp": "Licor%20JaggerMeister%20700cc%20$2300",
-    "estado": " NO DISPONIBLE",
-    "stock": "sin-stock",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "J & B",
