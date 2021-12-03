@@ -156,10 +156,10 @@
     {
         "name" : "Dr. Lemon 1 lt.",
         "category" : "Vodka",
-        "price" : "180",
+        "price" : "195",
         "imgSrc" : "fotosvodkas/drlemon-1LT-01.jpeg",
         "nro" : "315",
-        "wpp" : "Vodka%20Dr.%20Lemon%201LT%20$180",
+        "wpp" : "Vodka%20Dr.%20Lemon%201LT%20$195",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
