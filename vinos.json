@@ -387,10 +387,10 @@
 {
     "name" : "Emilia Malbec",
     "category" : "Vinos",
-    "price" : "380",
+    "price" : "410",
     "imgSrc" : "fotosvinos/emilia-malbec-01.jpeg",
     "nro" : "1336",
-    "wpp" : "Vinos%20Emilia%20Malbec%20$380",
+    "wpp" : "Vinos%20Emilia%20Malbec%20$410",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
