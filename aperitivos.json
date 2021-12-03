@@ -35,10 +35,10 @@
     {
         "name" : "Cinzano Rosso",
         "category" : "Aperitivos",
-        "price" : "360",
+        "price" : "380",
         "imgSrc" : "fotosaperitivos/cinzano-rosso-01.jpeg",
         "nro" : "204",
-        "wpp" : "Aperitivo%20Cinzano%20Rosso%20$360",
+        "wpp" : "Aperitivo%20Cinzano%20Rosso%20$380",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -101,10 +101,10 @@
     {
         "name" : "Frizze 1 lt.",
         "category" : "Aperitivos",
-        "price" : "165",
+        "price" : "195",
         "imgSrc" : "fotosaperitivos/frizze-litro-01.jpeg",
         "nro" : "210",
-        "wpp" : "Aperitivo%20Frizze%201LT%20$165",
+        "wpp" : "Aperitivo%20Frizze%201LT%20$195",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -112,10 +112,10 @@
    {
         "name" : "Gancia",
         "category" : "Aperitivos",
-        "price" : "320",
+        "price" : "330",
         "imgSrc" : "fotosaperitivos/gancia-01.jpeg",
         "nro" : "211",
-        "wpp" : "Aperitivo%20Gancia%20$320",
+        "wpp" : "Aperitivo%20Gancia%20$330",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
