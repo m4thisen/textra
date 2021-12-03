@@ -257,10 +257,10 @@
   {
     "name": "Fresita",
     "category": "Champagne",
-    "price": "530",
+    "price": "575",
     "imgSrc": "fotoschampagnes/fresita-01.jpeg",
     "nro": "924",
-    "wpp": "Champagne%20Fresita%20$530",
+    "wpp": "Champagne%20Fresita%20$575",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -312,10 +312,10 @@
   {
     "name": "Navarro Correas",
     "category": "Champagne",
-    "price": "580",
+    "price": "660",
     "imgSrc": "fotoschampagnes/navarro-correas-extrabrut-01.jpeg",
     "nro": "929",
-    "wpp": "Champagne%20Navarro%20Correas%20$580",
+    "wpp": "Champagne%20Navarro%20Correas%20$660",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
