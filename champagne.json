@@ -58,10 +58,10 @@
   {
     "name": "Chandon Aperitif",
     "category": "Champagne",
-    "price": "860",
+    "price": "950",
     "imgSrc": "fotoschampagnes/chandon-aperitif-01.jpeg",
     "nro": "906",
-    "wpp": "Champagne%20Chandon%20Aperitif%20$860",
+    "wpp": "Champagne%20Chandon%20Aperitif%20$950",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -69,10 +69,10 @@
   {
     "name": "Chandon Delice",
     "category": "Champagne",
-    "price": "860",
+    "price": "950",
     "imgSrc": "fotoschampagnes/chandon-delice-01.jpeg",
     "nro": "907",
-    "wpp": "Champagne%20Chandon%20Delice%20$860",
+    "wpp": "Champagne%20Chandon%20Delice%20$950",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -84,9 +84,9 @@
     "imgSrc": "fotoschampagnes/chandon-extrabrut-01.jpeg",
     "nro": "908",
     "wpp": "Champagne%20Chandon%20Extrabrut%20$860",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Chandon Rose",
@@ -106,9 +106,9 @@
     "imgSrc": "fotoschampagnes/cosecha-especial-norton-01.jpeg",
     "nro": "910",
     "wpp": "Champagne%20Cosecha%20Norton%20$575",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Cosecha Tradia Dulce",
@@ -250,9 +250,9 @@
     "imgSrc": "fotoschampagnes/federico-extrabrut-01.jpeg",
     "nro": "923",
     "wpp": "Champagne%20Federico%20Brut%20$330",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Fresita",
@@ -488,10 +488,10 @@
   {
     "name": "Sidra 1888",
     "category": "Sidras",
-    "price": "480",
+    "price": "550",
     "imgSrc": "fotossidras/sidra-1888-01.jpeg",
     "nro": "943",
-    "wpp": "Sidra%201888%20$480",
+    "wpp": "Sidra%201888%20$550",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
