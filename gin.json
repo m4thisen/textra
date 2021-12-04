@@ -39,9 +39,9 @@
     "imgSrc": "fotosgins/beefeater-pink-01.jpeg",
     "nro": "504",
     "wpp": "Gin%20Beefeater%20Pink%20750ml%20$2450",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Beefeater 1L.",
@@ -101,10 +101,10 @@
   {
     "name": "Heraclito London Dry",
     "category": "Gin",
-    "price": "1240",
+    "price": "1200",
     "imgSrc": "fotosgins/heraclito-london-dry-01.jpeg",
     "nro": "510",
-    "wpp": "Gin%20Heraclito%20London%20Dry%20$1240",
+    "wpp": "Gin%20Heraclito%20London%20Dry%20$1200",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -167,10 +167,10 @@
   {
     "name": "Maleficio",
     "category": "Gin",
-    "price": "670",
+    "price": "810",
     "imgSrc": "fotosgins/maleficio-01.jpeg",
     "nro": "516",
-    "wpp": "Gin%20Maleficio%20$670",
+    "wpp": "Gin%20Maleficio%20$810",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -211,10 +211,10 @@
   {
     "name": "Tanqueray",
     "category": "Gin",
-    "price": "1920",
+    "price": "2000",
     "imgSrc": "fotosgins/tanqueray-01.jpeg",
     "nro": "520",
-    "wpp": "Gin%20Tanqueray%20$1920",
+    "wpp": "Gin%20Tanqueray%20$2000",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
