@@ -333,10 +333,10 @@
     {
         "name" : "Skyy",
         "category" : "Vodka",
-        "price" : "540",
+        "price" : "600",
         "imgSrc" : "fotosvodkas/skyy-01.jpeg",
         "nro" : "331",
-        "wpp" : "Vodka%20Skyy%20$540",
+        "wpp" : "Vodka%20Skyy%20$600",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
