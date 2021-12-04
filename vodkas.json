@@ -249,9 +249,9 @@
         "imgSrc" : "fotosvodkas/smirnoff-01.jpeg",
         "nro" : "323",
         "wpp" : "Vodka%20Smirnoff%20$600",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Smirnoff Bitter Citric",
