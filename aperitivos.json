@@ -57,13 +57,13 @@
  {
         "name" : "Fernet 1882",
         "category" : "Aperitivos",
-        "price" : "345",
+        "price" : "425",
         "imgSrc" : "fotosaperitivos/1882-01.jpeg",
         "nro" : "206",
-        "wpp" : "Aperitivo%20Fernet%20Branca%201882%20$345",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Aperitivo%20Fernet%20Branca%201882%20$425",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
   {
         "name" : "Fernet Branca 450",
