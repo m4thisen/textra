@@ -57,10 +57,10 @@
   {
     "name": "Baileys",
     "category": "Licores",
-    "price": "1800",
+    "price": "1900",
     "imgSrc": "fotoslicores/baileys-01.jpeg",
     "nro": "706",
-    "wpp": "Licor%20Baileys%20$1800",
+    "wpp": "Licor%20Baileys%20$1900",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -68,10 +68,10 @@
   {
     "name": "Baileys Caramel",
     "category": "Licores",
-    "price": "1820",
+    "price": "1920",
     "imgSrc": "fotoslicores/baileys-caramel-01.jpeg",
     "nro": "707",
-    "wpp": "Licor%20Baileys%20Caramel%20$1820",
+    "wpp": "Licor%20Baileys%20Caramel%20$1920",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -255,13 +255,13 @@
   {
     "name": "JaggerMeister 700cc",
     "category": "Licores",
-    "price": "2300",
+    "price": "2600",
     "imgSrc": "fotoslicores/jagger-01.jpeg",
     "nro": "724",
-    "wpp": "Licor%20JaggerMeister%20700cc%20$2300",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Licor%20JaggerMeister%20700cc%20$2600",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "J & B",
