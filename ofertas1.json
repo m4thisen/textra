@@ -2,10 +2,10 @@
     {
         "name" : "Chandon Delice",
         "category" : "Champagne",
-        "price" : "860",
+        "price" : "950",
         "imgSrc" : "fotoschampagnes/chandon-delice-01.jpeg",
         "nro" : "401",
-        "wpp" : "Oferta%20Chandon%20SDelice%20$860",
+        "wpp" : "Oferta%20Chandon%20SDelice%20$950",
         "descuento" : "-15%"
     },
     {
@@ -29,10 +29,10 @@
     {
         "name" : "Portillo Malbec",
         "category" : "Vinos",
-        "price" : "300",
+        "price" : "325",
         "imgSrc" : "fotosvinos/portillo-01.jpeg",
         "nro" : "404",
-        "wpp" : "Oferta%20Portillo%20Malbec%20$300",
+        "wpp" : "Oferta%20Portillo%20Malbec%20$325",
         "descuento" : "-10%"
     }
 ]
