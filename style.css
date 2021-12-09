@@ -75,6 +75,7 @@ h1{
  height: 6rem;
  width: 7rem;
 }
+/*efecto navidad ultima linea del navbar y el resto*/
 .navbar{
     position: fixed;
     top: 0;
@@ -136,6 +137,7 @@ h1{
         background-position: 0 768px;
     }
 }
+/* fin navidad */
 .navbar-categories{
     display: none;
     width: 100%;
