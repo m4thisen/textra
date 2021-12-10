@@ -212,10 +212,10 @@
     {
         "name" : "Sernova",
         "category" : "Vodka",
-        "price" : "450",
+        "price" : "475",
         "imgSrc" : "fotosvodkas/sernova-01.jpeg",
         "nro" : "320",
-        "wpp" : "Vodka%20Sernova%20$450",
+        "wpp" : "Vodka%20Sernova%20$475",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -223,10 +223,10 @@
     {
         "name" : "Sernova Wild Berries",
         "category" : "Vodka",
-        "price" : "480",
+        "price" : "510",
         "imgSrc" : "fotosvodkas/sernova-berries-01.jpeg",
         "nro" : "321",
-        "wpp" : "Vodka%20Sernova%20Berries%20$480",
+        "wpp" : "Vodka%20Sernova%20Berries%20$510",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -234,10 +234,10 @@
     {
         "name" : "Sernova Citrus",
         "category" : "Vodka",
-        "price" : "480",
+        "price" : "510",
         "imgSrc" : "fotosvodkas/sernova-citrus-01.jpeg",
         "nro" : "322",
-        "wpp" : "Vodka%20Sernova%20Citrus%20$480",
+        "wpp" : "Vodka%20Sernova%20Citrus%20$510",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
