@@ -178,10 +178,10 @@
     {
         "name" : "Monster Guarana",
         "category" : "Sin alcohol",
-        "price" : "145",
+        "price" : "160",
         "imgSrc" : "fotossa/monster-guarana-01.jpeg",
         "nro" : "1017",
-        "wpp" : "Monster%20Guarana%20$145",
+        "wpp" : "Monster%20Guarana%20$160",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -189,10 +189,10 @@
     {
         "name" : "Monster Mango",
         "category" : "Sin alcohol",
-        "price" : "145",
+        "price" : "160",
         "imgSrc" : "fotossa/monster-mango-loco-01.jpeg",
         "nro" : "1018",
-        "wpp" : "Monster%20Mango%20$145",
+        "wpp" : "Monster%20Mango%20$160",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -200,10 +200,10 @@
     {
         "name" : "Monster Taurina",
         "category" : "Sin alcohol",
-        "price" : "145",
+        "price" : "160",
         "imgSrc" : "fotossa/monster-taurina-01.jpeg",
         "nro" : "1019",
-        "wpp" : "Monster%20Taurina%20$145",
+        "wpp" : "Monster%20Taurina%20$160",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
@@ -211,10 +211,10 @@
     {
         "name" : "Monster Sunrise",
         "category" : "Sin alcohol",
-        "price" : "145",
+        "price" : "160",
         "imgSrc" : "fotossa/monster-zero-azucares-01.jpeg",
         "nro" : "1020",
-        "wpp" : "Monster%20Sunrise%20$145",
+        "wpp" : "Monster%20Sunrise%20$160",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -222,10 +222,10 @@
     {
         "name" : "Monster Paradise",
         "category" : "Sin alcohol",
-        "price" : "145",
+        "price" : "160",
         "imgSrc" : "fotossa/monster-zero-sugar-01.jpeg",
         "nro" : "1021",
-        "wpp" : "Monster%20Paradise%20$145",
+        "wpp" : "Monster%20Paradise%20$160",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
