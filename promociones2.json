@@ -2,10 +2,10 @@
     {
         "name" : "Cynar <br> Paso de los toros (pomelo) 1.5L",
         "category" : "Promocion Cynar",
-        "price" : "540",
+        "price" : "570",
         "imgSrc" : "images/promo-cynar-pomelo-01.jpeg",
         "nro" : "145",
-        "wpp" : "Promo%20Cynar:%201%20Cynar%20+%201%20Paso%20de%20los%20toros%201.5L%20$540",
+        "wpp" : "Promo%20Cynar:%201%20Cynar%20+%201%20Paso%20de%20los%20toros%201.5L%20$570",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -28,9 +28,9 @@
         "imgSrc" : "images/promojager.png",
         "nro" : "147",
         "wpp" : "Promo%20Jagger:%201%20Jagger%20+%204%20Speeds%20$2850",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "1 Gancia <br> 1 Sprites 1.75L",
