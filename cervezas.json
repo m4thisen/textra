@@ -178,10 +178,10 @@
     "wpp": "Cerveza%20Heineken%20Lata473%20$140",
     "pricePack": "840",
     "wppPack": "Cerveza%20Pack%20Heineken%20Lata473%20$840",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn",
-    "carritoPack": "add-to-cart-btn-pack"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": "",
+    "carritoPack": ""
   },
 
   {
@@ -215,12 +215,12 @@
   {
     "name": "Imperial Golden lata 473ml.",
     "category": "Cerveza",
-    "price": "110",
+    "price": "115",
     "imgSrc": "fotoscervezas/imperial-golden-01.jpeg",
     "nro": "116",
-    "wpp": "Cerveza%20Imperial%20Golden%20Lata473%20$110",
-    "pricePack": "660",
-    "wppPack": "Cerveza%20Pack%20Imperial%20Golden%20Lata473%20$660",
+    "wpp": "Cerveza%20Imperial%20Golden%20Lata473%20$115",
+    "pricePack": "690",
+    "wppPack": "Cerveza%20Pack%20Imperial%20Golden%20Lata473%20$690",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn",
@@ -243,16 +243,16 @@
   {
     "name": "Imperial lata 473ml.",
     "category": "Cerveza",
-    "price": "110",
+    "price": "115",
     "imgSrc": "fotoscervezas/imperial-01.jpeg",
     "nro": "118",
-    "wpp": "Cerveza%20Imperial%20Lata473%20$110",
-    "pricePack": "660",
-    "wppPack": "Cerveza%20Pack%20Imperial%20Lata473%20$660",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn",
-    "carritoPack": "add-to-cart-btn-pack"
+    "wpp": "Cerveza%20Imperial%20Lata473%20$115",
+    "pricePack": "690",
+    "wppPack": "Cerveza%20Pack%20Imperial%20Lata473%20$690",
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": "",
+    "carritoPack": ""
   },
   {
     "name": "Imperial Roja",
@@ -804,12 +804,12 @@
   {
     "name": "Warsteiner lata 473ml.",
     "category": "Cerveza",
-    "price": "120",
+    "price": "125",
     "imgSrc": "fotoscervezas/warsteiner-01.jpeg",
     "nro": "158",
-    "wpp": "Cerveza%20Warsteiner%20Lata473%20$120",
-    "pricePack": "720",
-    "wppPack": "Cerveza%20Pack%20Warsteiner%20Lata473%20$720",
+    "wpp": "Cerveza%20Warsteiner%20Lata473%20$125",
+    "pricePack": "750",
+    "wppPack": "Cerveza%20Pack%20Warsteiner%20Lata473%20$750",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn",
