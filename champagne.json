@@ -13,10 +13,10 @@
   {
     "name": "Baron B Brut nature",
     "category": "Champagne",
-    "price": "2300",
+    "price": "2670",
     "imgSrc": "fotoschampagnes/baronb-brut-nature-01.jpeg",
     "nro": "902",
-    "wpp": "Champagne%20Baron%20B%20brut%20nature%20$2300",
+    "wpp": "Champagne%20Baron%20B%20brut%20nature%20$2670",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -24,10 +24,10 @@
   {
     "name": "Baron B Extrabrut",
     "category": "Champagne",
-    "price": "1830",
+    "price": "2030",
     "imgSrc": "fotoschampagnes/baronb-extrabrut-01.jpeg",
     "nro": "903",
-    "wpp": "Champagne%20Baron%20B%20Extrabrut%20$1830",
+    "wpp": "Champagne%20Baron%20B%20Extrabrut%20$2030",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -36,10 +36,10 @@
   {
     "name": "Baron B Rose",
     "category": "Champagne",
-    "price": "2300",
+    "price": "2670",
     "imgSrc": "fotoschampagnes/baronb-rose-01.jpeg",
     "nro": "904",
-    "wpp": "Champagne%20Baron%20B%20Rose%20$2300",
+    "wpp": "Champagne%20Baron%20B%20Rose%20$2670",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -51,9 +51,9 @@
     "imgSrc": "fotoschampagnes/callia-extrabrut-01.jpeg",
     "nro": "905",
     "wpp": "Champagne%20Callia%20$330",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Chandon Aperitif",
@@ -106,9 +106,9 @@
     "imgSrc": "fotoschampagnes/cosecha-especial-brut-nature-01.jpeg",
     "nro": "910",
     "wpp": "Champagne%20Cosecha%20especial%20Brut-nature%20Norton%20$700",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Cosecha especial Norton",
@@ -206,9 +206,9 @@
     "imgSrc": "fotoschampagnes/champagne-deseado-dulce-01.jpeg",
     "nro": "919",
     "wpp": "Champagne%20Deseado%20Dulce%20$495",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Dolores Extrabrut",
@@ -246,10 +246,10 @@
   {
     "name": "Federico Extra Dulce",
     "category": "Champagne",
-    "price": "380",
+    "price": "390",
     "imgSrc": "fotoschampagnes/federico-dulce-01.jpeg",
     "nro": "923",
-    "wpp": "Champagne%20Federico%20Dulce%20$380",
+    "wpp": "Champagne%20Federico%20Dulce%20$390",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -400,10 +400,10 @@
   {
     "name": "Real Etiqueta Blanca",
     "category": "Sidras",
-    "price": "490",
+    "price": "270",
     "imgSrc": "fotossidras/sidra-real-etiqueta-blanca-01.jpeg",
     "nro": "937",
-    "wpp": "Sidra%20Real%20Etiqueta%20Blanca%20$490",
+    "wpp": "Sidra%20Real%20Etiqueta%20Blanca%20$270",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -444,10 +444,10 @@
   {
     "name": "Sidra 1930 Anana",
     "category": "Sidras",
-    "price": "350",
+    "price": "370",
     "imgSrc": "fotossidras/sidra-1930-anana-01.jpeg",
     "nro": "941",
-    "wpp": "Sidra%1930%20Anana%20$350",
+    "wpp": "Sidra%1930%20Anana%20$370",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -455,10 +455,10 @@
   {
     "name": "Sidra 1930 Fresa",
     "category": "Sidras",
-    "price": "350",
+    "price": "370",
     "imgSrc": "fotossidras/sidra-1930-fresa-01.jpeg",
     "nro": "942",
-    "wpp": "Sidra%1930%20Fresa%20$350",
+    "wpp": "Sidra%1930%20Fresa%20$370",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -466,10 +466,10 @@
   {
     "name": "Sidra 1930 Demi Sec",
     "category": "Sidras",
-    "price": "350",
+    "price": "370",
     "imgSrc": "fotossidras/1930-demi-sec-01.jpeg",
     "nro": "943",
-    "wpp": "Sidra%201930%20Demi%20Sec%20$350",
+    "wpp": "Sidra%201930%20Demi%20Sec%20$370",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -477,10 +477,10 @@
   {
     "name": "Sidra 1930 Dulce",
     "category": "Sidras",
-    "price": "350",
+    "price": "370",
     "imgSrc": "fotossidras/1930-dulce-01.jpeg",
     "nro": "944",
-    "wpp": "Sidra%201930%20Dulce%20$350",
+    "wpp": "Sidra%201930%20Dulce%20$370",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -488,10 +488,10 @@
   {
     "name": "Sidra 1930 Pera",
     "category": "Sidras",
-    "price": "350",
+    "price": "370",
     "imgSrc": "fotossidras/1930-pera-01.jpeg",
     "nro": "945",
-    "wpp": "Sidra%201930%20Pera%20$350",
+    "wpp": "Sidra%201930%20Pera%20$370",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
