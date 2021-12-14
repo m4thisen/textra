@@ -189,10 +189,10 @@
     {
     "name" : "Callia Malbec",
     "category" : "Vinos",
-    "price" : "210",
+    "price" : "250",
     "imgSrc" : "fotosvinos/callia-01.jpeg",
     "nro" : "1318",
-    "wpp" : "Vinos%20Callia%20Malbec%20$210",
+    "wpp" : "Vinos%20Callia%20Malbec%20$250",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -794,10 +794,10 @@
 {
     "name" : "Luigi Bosca Malbec",
     "category" : "Vinos",
-    "price" : "950",
+    "price" : "1000",
     "imgSrc" : "fotosvinos/luigi-malbec-01.jpeg",
     "nro" : "1373",
-    "wpp" : "Vinos%20Luigi%20Bosca%20Malbec%20$950",
+    "wpp" : "Vinos%20Luigi%20Bosca%20Malbec%20$1000",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
