@@ -161,9 +161,9 @@
     "imgSrc": "fotoschampagnes/cruzzat-extrabrut-01.jpeg",
     "nro": "915",
     "wpp": "Champagne%20Cruzat%20Extrabrut%20$540",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Cruzat Naranjo",
@@ -172,9 +172,9 @@
     "imgSrc": "fotoschampagnes/cruzzat-edicion-naranjo-01.jpeg",
     "nro": "916",
     "wpp": "Champagne%20Cruzat%20Naranjo%20$660",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
 
   {
@@ -184,9 +184,9 @@
     "imgSrc": "fotoschampagnes/cruzat-rose-01.jpeg",
     "nro": "917",
     "wpp": "Champagne%20Cruzat%20Rose%20$540",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Dada 7 Sweet",
