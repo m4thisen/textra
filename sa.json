@@ -6,17 +6,17 @@
         "imgSrc" : "fotossa/glaciar-2-01.jpeg",
         "nro" : "1001",
         "wpp" : "Agua%20Glaciar%202L%20$75",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Baggio Multifruta",
         "category" : "Sin alcohol",
-        "price" : "105",
+        "price" : "110",
         "imgSrc" : "fotossa/baggio-multifruta-01.jpeg",
         "nro" : "1002",
-        "wpp" : "Baggio%20Multifruta%20$105",
+        "wpp" : "Baggio%20Multifruta%20$110",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -24,10 +24,10 @@
     {
         "name" : "Baggio Naranja",
         "category" : "Sin alcohol",
-        "price" : "100",
+        "price" : "110",
         "imgSrc" : "fotossa/baggio-naranja-01.jpeg",
         "nro" : "1003",
-        "wpp" : "Baggio%20Naranja%20$100",
+        "wpp" : "Baggio%20Naranja%20$110",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -50,20 +50,20 @@
         "imgSrc" : "fotossa/cepita-naranja-1-01.jpeg",
         "nro" : "1005",
         "wpp" : "Cepita%20Naranja%201L%20$100",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
-        "name" : "Coca Cola 1.5L",
+        "name" : "Coca Cola 1.75L",
         "category" : "Sin alcohol",
-        "price" : "",
+        "price" : "160",
         "imgSrc" : "fotossa/coca-15-01.jpeg",
         "nro" : "1006",
-        "wpp" : "Coca%20Cola%201.5L%20$-",
-        "estado" : "sin-stock",
-        "stock" : " NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Coca%20Cola%201.5L%20$160",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-bt"
     },
     {
         "name" : "Coca Cola 2.25L",
@@ -79,10 +79,21 @@
     {
         "name" : "Coca Cola sin azucar 1.5L",
         "category" : "Sin alcohol",
-        "price" : "155",
+        "price" : "150",
         "imgSrc" : "fotossa/coca-light-15-01.jpeg",
         "nro" : "1008",
-        "wpp" : "Coca%20Cola%20Light%202.25L%20$155",
+        "wpp" : "Coca%20Cola%20Light%202.25L%20$150",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },
+    {
+        "name" : "Coca Cola sin azucar 1.75L",
+        "category" : "Sin alcohol",
+        "price" : "160",
+        "imgSrc" : "fotossa/coca-light-15-01.jpeg",
+        "nro" : "1008",
+        "wpp" : "Coca%20Cola%20Light%202.25L%20$160",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -156,10 +167,10 @@
     {
         "name" : "Gatorade 500ml Manzana",
         "category" : "Sin alcohol",
-        "price" : "90",
+        "price" : "85",
         "imgSrc" : "fotossa/gatorade-manzana-500-01.jpeg",
         "nro" : "1015",
-        "wpp" : "Gatorade%20500ml%20Manzana%20$90",
+        "wpp" : "Gatorade%20500ml%20Manzana%20$85",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -233,10 +244,10 @@
     {
         "name" : "Paso de los toros Pomelo comun 1.5L",
         "category" : "Sin alcohol",
-        "price" : "125",
+        "price" : "130",
         "imgSrc" : "fotossa/pas-de-los-toros-15-01.jpeg",
         "nro" : "1022",
-        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20comun%201.5L%20$125",
+        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20comun%201.5L%20$130",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -244,10 +255,10 @@
     {
         "name" : "Paso de los toros Pomelo light 1.5L",
         "category" : "Sin alcohol",
-        "price" : "125",
+        "price" : "130",
         "imgSrc" : "fotossa/paso-de-los-toros-free-15-01.jpeg",
         "nro" : "1023",
-        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20light%201.5L%20$125",
+        "wpp" : "Paso%20d%20los%20toros%20Pomelo%20light%201.5L%20$130",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -340,6 +351,28 @@
         "stock" : "",
         "carrito" : "add-to-cart-btn"
     },
+    {
+        "name" : "Sprite 1.5L",
+        "category" : "Sin alcohol",
+        "price" : "140",
+        "imgSrc" : "fotossa/sprite-225-01.jpeg",
+        "nro" : "1032",
+        "wpp" : "Sprite%202.25L%20$140",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },  
+    {
+        "name" : "Sprite 1.75L",
+        "category" : "Sin alcohol",
+        "price" : "150",
+        "imgSrc" : "fotossa/sprite-225-01.jpeg",
+        "nro" : "1032",
+        "wpp" : "Sprite%202.25L%20$150",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
+    },  
       {
         "name" : "Sprite 2.25L",
         "category" : "Sin alcohol",
@@ -347,9 +380,9 @@
         "imgSrc" : "fotossa/sprite-225-01.jpeg",
         "nro" : "1032",
         "wpp" : "Sprite%202.25L%20$195",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },  
     {
         "name" : "7 Up Comun 1.5L",
