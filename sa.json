@@ -310,10 +310,10 @@
     {
         "name" : "Red Bull Tropical",
         "category" : "Sin alcohol",
-        "price" : "50",
+        "price" : "170",
         "imgSrc" : "fotossa/red-bull-tropical-01.jpeg",
         "nro" : "1028",
-        "wpp" : "RedBull%20Tropical%20$50",
+        "wpp" : "RedBull%20Tropical%20$170",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
         "carrito" : ""
