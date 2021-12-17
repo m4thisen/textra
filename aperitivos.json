@@ -13,10 +13,10 @@
     {
         "name" : "Aperol",
         "category" : "Aperitivos",
-        "price" : "590",
+        "price" : "600",
         "imgSrc" : "fotosaperitivos/aperol-01.jpeg",
         "nro" : "202",
-        "wpp" : "Aperitivo%20Aperol%20$590",
+        "wpp" : "Aperitivo%20Aperol%20$600",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -79,10 +79,10 @@
    {
         "name" : "Fernet Branca 750",
         "category" : "Aperitivos",
-        "price" : "670",
+        "price" : "700",
         "imgSrc" : "fotosaperitivos/fernet-750-01.jpeg",
         "nro" : "208",
-        "wpp" : "Aperitivo%20Fernet%20Branca%20750%20$670",
+        "wpp" : "Aperitivo%20Fernet%20Branca%20750%20$700",
         "estado" : "",
         "stock" : "",
         "carrito" : ""
@@ -90,10 +90,10 @@
     {
         "name" : "Fernet Branca 1 lt.",
         "category" : "Aperitivos",
-        "price" : "850",
+        "price" : "900",
         "imgSrc" : "fotosaperitivos/fernet-1L-01.jpeg",
         "nro" : "209",
-        "wpp" : "Aperitivo%20Fernet%20Branca%201LT%20$850",
+        "wpp" : "Aperitivo%20Fernet%20Branca%201LT%20$900",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -134,10 +134,10 @@
  {
         "name" : "Velho Bareiro",
         "category" : "Aperitivos",
-        "price" : "620",
+        "price" : "700",
         "imgSrc" : "fotosaperitivos/velho-01.jpeg",
         "nro" : "213",
-        "wpp" : "Aperitivo%20Velho%20Bareiro%20$620",
+        "wpp" : "Aperitivo%20Velho%20Bareiro%20$700",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
