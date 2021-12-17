@@ -51,9 +51,9 @@
     "imgSrc": "fotoschampagnes/callia-extrabrut-01.jpeg",
     "nro": "905",
     "wpp": "Champagne%20Callia%20$365",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Chandon Aperitif",
