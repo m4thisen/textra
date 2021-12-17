@@ -47,10 +47,10 @@
   {
     "name": "Callia Extra Brut",
     "category": "Champagne",
-    "price": "330",
+    "price": "365",
     "imgSrc": "fotoschampagnes/callia-extrabrut-01.jpeg",
     "nro": "905",
-    "wpp": "Champagne%20Callia%20$330",
+    "wpp": "Champagne%20Callia%20$365",
     "estado": "sin-stock",
     "stock": "NO DISPONIBLE",
     "carrito": ""
@@ -113,13 +113,13 @@
   {
     "name": "Cosecha especial Norton",
     "category": "Champagne",
-    "price": "575",
+    "price": "660",
     "imgSrc": "fotoschampagnes/cosecha-especial-norton-01.jpeg",
     "nro": "911",
-    "wpp": "Champagne%20Cosecha%20Norton%20$575",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Champagne%20Cosecha%20Norton%20$660",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Cosecha Tradia Dulce",
@@ -202,13 +202,13 @@
   {
     "name": "Deseado Dulce",
     "category": "Champagne",
-    "price": "495",
+    "price": "540",
     "imgSrc": "fotoschampagnes/champagne-deseado-dulce-01.jpeg",
     "nro": "919",
-    "wpp": "Champagne%20Deseado%20Dulce%20$495",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Champagne%20Deseado%20Dulce%20$540",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Dolores Extrabrut",
@@ -257,13 +257,13 @@
   {
     "name": "Federico Extra Brut",
     "category": "Champagne",
-    "price": "330",
+    "price": "390",
     "imgSrc": "fotoschampagnes/federico-extrabrut-01.jpeg",
     "nro": "924",
-    "wpp": "Champagne%20Federico%20Brut%20$330",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Champagne%20Federico%20Brut%20$390",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Fresita",
@@ -290,10 +290,10 @@
   {
     "name": "Latitud 33",
     "category": "Champagne",
-    "price": "450",
+    "price": "500",
     "imgSrc": "fotoschampagnes/latitud33-extrabrut-01.jpeg",
     "nro": "927",
-    "wpp": "Champagne%20Latitud%2033%20$450",
+    "wpp": "Champagne%20Latitud%2033%20$500",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -301,10 +301,10 @@
   {
     "name": "Mumm",
     "category": "Champagne",
-    "price": "540",
+    "price": "570",
     "imgSrc": "fotoschampagnes/mumm-extra-brut-01.jpeg",
     "nro": "928",
-    "wpp": "Champagne%20Mumm%20$540",
+    "wpp": "Champagne%20Mumm%20$570",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -367,10 +367,10 @@
   {
     "name": "Norton Extra Brut",
     "category": "Champagne",
-    "price": "350",
+    "price": "395",
     "imgSrc": "fotoschampagnes/norton-extrabrut-01.jpeg",
     "nro": "934",
-    "wpp": "Champagne%20Norton%20$350",
+    "wpp": "Champagne%20Norton%20$395",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -378,10 +378,10 @@
   {
     "name": "Novecento",
     "category": "Champagne",
-    "price": "200",
+    "price": "250",
     "imgSrc": "fotoschampagnes/novecento-01.jpeg",
     "nro": "935",
-    "wpp": "Champagne%20Novecento%20$200",
+    "wpp": "Champagne%20Novecento%20$250",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -411,24 +411,24 @@
   {
     "name": "Saleintein Brut Nature",
     "category": "Champagne",
-    "price": "670",
+    "price": "750",
     "imgSrc": "fotoschampagnes/salentein-brut-nature-01.jpeg",
     "nro": "938",
-    "wpp": "Champagne%20Saleintein%20Nature%20$670",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Champagne%20Saleintein%20Nature%20$750",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Saleintein Extra Brut",
     "category": "Champagne",
-    "price": "610",
+    "price": "700",
     "imgSrc": "fotoschampagnes/salentein-extrabrut-01.jpeg",
     "nro": "939",
     "wpp": "Champagne%20Saleintein%20$610",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Saleintein Rose",
@@ -536,9 +536,9 @@
     "imgSrc": "fotoschampagnes/sottano-extrabrut-01.jpeg",
     "nro": "949",
     "wpp": "Champagne%20Sottano%20ExtraBrut%20$550",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Trapiche",
