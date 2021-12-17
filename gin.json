@@ -24,10 +24,10 @@
   {
     "name": "Beefeater 750ml.",
     "category": "Gin",
-    "price": "2060",
+    "price": "2120",
     "imgSrc": "fotosgins/beefeater-750-01.jpeg",
     "nro": "503",
-    "wpp": "Gin%20Beefeater%20750ml%20$2060",
+    "wpp": "Gin%20Beefeater%20750ml%20$2120",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -46,10 +46,10 @@
   {
     "name": "Beefeater 1L.",
     "category": "Gin",
-    "price": "2450",
+    "price": "2520",
     "imgSrc": "fotosgins/beefeater-1L-01.jpeg",
     "nro": "505",
-    "wpp": "Gin%20Beefeater%201L%20$2450",
+    "wpp": "Gin%20Beefeater%201L%20$2520",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
