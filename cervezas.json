@@ -249,10 +249,10 @@
     "wpp": "Cerveza%20Imperial%20Lata473%20$125",
     "pricePack": "750",
     "wppPack": "Cerveza%20Pack%20Imperial%20Lata473%20$750",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": "",
-    "carritoPack": ""
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn",
+    "carritoPack": "add-to-cart-btn-pack"
   },
   {
     "name": "Imperial Roja",
