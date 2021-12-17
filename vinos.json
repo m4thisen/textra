@@ -164,6 +164,17 @@
     "stock" : "",
     "carrito" : "add-to-cart-btn"
 },
+    {
+    "name" : "Cafayate Chardonnay",
+    "category" : "Vinos",
+    "price" : "250",
+    "imgSrc" : "fotosvinos/cafayate-torront-01.jpeg",
+    "nro" : "1315",
+    "wpp" : "Vinos%20Cafayate%20Torront%20$250",
+    "estado" : "",
+    "stock" : "",
+    "carrito" : "add-to-cart-btn"
+},
 {
     "name" : "Cafayate Rose",
     "category" : "Vinos",
@@ -453,10 +464,10 @@
 {
     "name" : "Familia Gascon Roble",
     "category" : "Vinos",
-    "price" : "410",
+    "price" : "500",
     "imgSrc" : "fotosvinos/familia-gascon-roble-01.jpeg",
     "nro" : "1342",
-    "wpp" : "Vinos%20Familia%20Gascon%20Roble%20$410",
+    "wpp" : "Vinos%20Familia%20Gascon%20Roble%20$500",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -640,10 +651,10 @@
 {
     "name" : "Las Perdices Malbec",
     "category" : "Vinos",
-    "price" : "490",
+    "price" : "530",
     "imgSrc" : "fotosvinos/las-perdices-malbec-01.jpeg",
     "nro" : "1359",
-    "wpp" : "Vinos%20Las%20Perdices%20Malbec%20$490",
+    "wpp" : "Vinos%20Las%20Perdices%20Malbec%20$530",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -783,10 +794,10 @@
 {
     "name" : "Luigi Bosca Cabernet",
     "category" : "Vinos",
-    "price" : "950",
+    "price" : "1000",
     "imgSrc" : "fotosvinos/luigi-cabernet-01.jpeg",
     "nro" : "1372",
-    "wpp" : "Vinos%20Luigi%20Bosca%20Cabernet%20$950",
+    "wpp" : "Vinos%20Luigi%20Bosca%20Cabernet%20$1000",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -860,13 +871,14 @@
 {
     "name" : "Nicasia Malbec",
     "category" : "Vinos",
-    "price" : "730",
+    "price" : "860",
     "imgSrc" : "fotosvinos/nicasia-malbec-01.jpeg",
     "nro" : "1379",
     "wpp" : "Vinos%20Nicasia%20Malbec%20$730",
-    "estado" : "sin-stock",
-    "stock" : "NO DISPONIBLE",
-    "carrito" : ""
+    "estado" : "",
+    "stock" : "",
+    "carrito" : "add-to-cart-btn"
+},"
 },
 {
     "name" : "Nicasia Cabernet",
@@ -1067,7 +1079,7 @@
     "carrito" : "add-to-cart-btn"
 },
 {
-    "name" : "Saleintein Reserva",
+    "name" : "Saleintein Reserva chardonnay",
     "category" : "Vinos Blancos",
     "price" : "760",
     "imgSrc" : "fotosvinos/salentein-reserva-blanco-01.jpeg",
