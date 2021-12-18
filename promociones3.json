@@ -13,10 +13,10 @@
     {
         "name" : "1 Fernet <br> 1 Coca 2.25L.",
         "category" : "Promocion Fernet",
-        "price" : "850",
+        "price" : "880",
         "imgSrc" : "images/promo-fernet-coca225-01.jpeg",
         "nro" : "150",
-        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$850",
+        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$880",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
