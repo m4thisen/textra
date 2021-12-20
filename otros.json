@@ -24,10 +24,10 @@
     {
         "name" : "Papas Asado criollo Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/asado-criollo-01.jpeg",
         "nro" : "1103",
-        "wpp" : "Asado%20Criollo%20$130",
+        "wpp" : "Asado%20Criollo%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -35,10 +35,10 @@
     {
         "name" : "Papas Batatas Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/batatas-01.jpeg",
         "nro" : "1104",
-        "wpp" : "Batatas%20Quento%20$130",
+        "wpp" : "Batatas%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -101,10 +101,10 @@
     {
         "name" : "Chisitos Mega Queso Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/mega-queso-chisitos-01.jpeg",
         "nro" : "1110",
-        "wpp" : "Mega%20Queso%20Quento%20$130",
+        "wpp" : "Mega%20Queso%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -112,10 +112,10 @@
     {
         "name" : "Nachos Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/nachos-01.jpeg",
         "nro" : "1111",
-        "wpp" : "Nachos%20Quento%20$130",
+        "wpp" : "Nachos%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -123,10 +123,10 @@
     {
         "name" : "Palitos Cheddar Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/palitos-cheddar-01.jpeg",
         "nro" : "1112",
-        "wpp" : "Palitos%20Cheddar%20Quento%20$130",
+        "wpp" : "Palitos%20Cheddar%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -134,10 +134,10 @@
     {
         "name" : "Palitos Panceta Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/palitos-panceta-01.jpeg",
         "nro" : "1113",
-        "wpp" : "Palitos%20Panceta%20Quento%20$130",
+        "wpp" : "Palitos%20Panceta%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -145,10 +145,10 @@
     {
         "name" : "Palitos Salados Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/palitos-salados-01.jpeg",
         "nro" : "1114",
-        "wpp" : "Palitos%20Salados%20Quento%20$130",
+        "wpp" : "Palitos%20Salados%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -156,10 +156,10 @@
     {
         "name" : "Papas clasicas Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/papas-clasicas-01.jpeg",
         "nro" : "1115",
-        "wpp" : "Papas%20Clasicas%20Quento%20$103",
+        "wpp" : "Papas%20Clasicas%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -167,10 +167,10 @@
     {
         "name" : "Papas Jamon Serrano Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/papas-jamon-serrano-01.jpeg",
         "nro" : "1116",
-        "wpp" : "Papas%20Jamon%20Serrano%20Quento%20$130",
+        "wpp" : "Papas%20Jamon%20Serrano%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -178,10 +178,10 @@
     {
         "name" : "Papas Ketchup Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/papas-ketchup-01.jpeg",
         "nro" : "1117",
-        "wpp" : "Papas%20Ketchup%20Quento%20$130",
+        "wpp" : "Papas%20Ketchup%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -189,10 +189,10 @@
     {
         "name" : "Papas Onduladas Quento",
         "category" : "Snacks",
-        "price" : "100",
+        "price" : "140",
         "imgSrc" : "fotosotros/papas-onduladas-01.jpeg",
         "nro" : "1118",
-        "wpp" : "Papas%20Onduladas%20Quento%20$130",
+        "wpp" : "Papas%20Onduladas%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -200,10 +200,10 @@
     {
         "name" : "Papas Ciboulette Quento",
         "category" : "Snacks",
-        "price" : "130",
+        "price" : "140",
         "imgSrc" : "fotosotros/queso-ciboulette-01.jpeg",
         "nro" : "1119",
-        "wpp" : "Papas%20Ciboulette%20Quento%20$130",
+        "wpp" : "Papas%20Ciboulette%20Quento%20$140",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
