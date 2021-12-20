@@ -354,10 +354,10 @@
     {
         "name" : "Sprite 1.5L",
         "category" : "Sin alcohol",
-        "price" : "140",
+        "price" : "150",
         "imgSrc" : "fotossa/sprite-225-01.jpeg",
         "nro" : "1032",
-        "wpp" : "Sprite%202.25L%20$140",
+        "wpp" : "Sprite%202.25L%20$150",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -365,10 +365,10 @@
     {
         "name" : "Sprite 1.75L",
         "category" : "Sin alcohol",
-        "price" : "150",
+        "price" : "160",
         "imgSrc" : "fotossa/sprite-225-01.jpeg",
         "nro" : "1032",
-        "wpp" : "Sprite%202.25L%20$150",
+        "wpp" : "Sprite%202.25L%20$160",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
