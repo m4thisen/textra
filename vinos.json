@@ -409,10 +409,10 @@
     {
     "name" : "Estiba 1 Malbec",
     "category" : "Vinos",
-    "price" : "240",
+    "price" : "280",
     "imgSrc" : "fotosvinos/estiba-01.jpeg",
     "nro" : "1337",
-    "wpp" : "Vinos%20Estiba%201%20Malbec%20$240",
+    "wpp" : "Vinos%20Estiba%201%20Malbec%20$280",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
