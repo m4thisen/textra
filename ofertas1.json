@@ -1,11 +1,11 @@
 [
     {
-        "name" : "Chandon Delice",
-        "category" : "Champagne",
-        "price" : "950",
-        "imgSrc" : "fotoschampagnes/chandon-delice-01.jpeg",
-        "nro" : "401",
-        "wpp" : "Oferta%20Chandon%20SDelice%20$950",
+        "name" : "Sidra 1888",
+        "category" : "Sidras",
+        "price" : "550",
+        "imgSrc" : "fotossidras/sidra-1888-01.jpeg",
+        "nro" : "2001",
+        "wpp" : "Oferta%20Sidra%201888%20$550",
         "descuento" : "-15%"
     },
     {
@@ -13,26 +13,26 @@
         "category" : "Cerveza",
         "price" : "215",
         "imgSrc" : "catalogo/patagonia710.png",
-        "nro" : "402",
+        "nro" : "2002",
         "wpp" : "Oferta%20Patagonia%20710%20$215",
         "descuento" : "-20%"
     },
     {
-        "name" : "1 Pack X6 Quilmes RedLager",
-        "category" : "Cerveza",
-        "price" : "530",
-        "imgSrc" : "fotoscervezas/quilmes-red.lager-01.jpg",
-        "nro" : "530",
-        "wpp" : "Oferta%20Pack%20X6%20Quilmes%20Redlager%20$530",
+        "name" : "Sidra 1930 (ananá, fresa, demi sec, dulce o pera)",
+        "category" : "Sidras",
+        "price" : "370",
+        "imgSrc" : "fotossidras/1930-dulce-01.jpeg",
+        "nro" : "2003",
+        "wpp" : "Oferta%20Sidra%201930%20$370",
         "descuento" : "-10%"
     },
     {
-        "name" : "Portillo Malbec",
-        "category" : "Vinos",
-        "price" : "325",
-        "imgSrc" : "fotosvinos/portillo-01.jpeg",
-        "nro" : "404",
-        "wpp" : "Oferta%20Portillo%20Malbec%20$325",
+        "name" : "Deseado Dulce",
+        "category" : "Champagne",
+        "price" : "540",
+        "imgSrc" : "fotoschampagnes/champagne-deseado-dulce-01.jpeg",
+        "nro" : "2004",
+        "wpp" : "Oferta%20Deseado%20Dulce%20$540",
         "descuento" : "-10%"
     }
 ]
