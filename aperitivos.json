@@ -112,10 +112,10 @@
    {
         "name" : "Gancia",
         "category" : "Aperitivos",
-        "price" : "330",
+        "price" : "340",
         "imgSrc" : "fotosaperitivos/gancia-01.jpeg",
         "nro" : "211",
-        "wpp" : "Aperitivo%20Gancia%20$330",
+        "wpp" : "Aperitivo%20Gancia%20$340",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
