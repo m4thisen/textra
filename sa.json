@@ -123,13 +123,13 @@
     {
         "name" : "Fanta 2.25L",
         "category" : "Sin alcohol",
-        "price" : "170",
+        "price" : "210",
         "imgSrc" : "fotossa/fanta-225-01.jpeg",
         "nro" : "1011",
-        "wpp" : "Fanta%202.25L%20$170",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Fanta%202.25L%20$210",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
        "name" : "Fanta 1.5L",
@@ -376,13 +376,13 @@
       {
         "name" : "Sprite 2.25L",
         "category" : "Sin alcohol",
-        "price" : "195",
+        "price" : "210",
         "imgSrc" : "fotossa/sprite-225-01.jpeg",
         "nro" : "1032",
-        "wpp" : "Sprite%202.25L%20$195",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Sprite%202.25L%20$210",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },  
     {
         "name" : "7 Up Comun 1.5L",
