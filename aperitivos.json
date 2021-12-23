@@ -72,31 +72,31 @@
         "imgSrc" : "fotosaperitivos/fernet-450-01.jpeg",
         "nro" : "207",
         "wpp" : "Aperitivo%20Fernet%20Branca%20450%20$420",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
    {
         "name" : "Fernet Branca 750",
         "category" : "Aperitivos",
-        "price" : "700",
+        "price" : "750",
         "imgSrc" : "fotosaperitivos/fernet-750-01.jpeg",
         "nro" : "208",
-        "wpp" : "Aperitivo%20Fernet%20Branca%20750%20$700",
+        "wpp" : "Aperitivo%20Fernet%20Branca%20750%20$750",
         "estado" : "",
         "stock" : "",
-        "carrito" : ""
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Fernet Branca 1 lt.",
         "category" : "Aperitivos",
-        "price" : "900",
+        "price" : "",
         "imgSrc" : "fotosaperitivos/fernet-1L-01.jpeg",
         "nro" : "209",
         "wpp" : "Aperitivo%20Fernet%20Branca%201LT%20$900",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Frizze 1 lt.",
