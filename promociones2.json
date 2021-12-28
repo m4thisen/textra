@@ -13,10 +13,10 @@
     {
         "name" : "1 Smirnoff saborizado <br> 4 Speeds",
         "category" : "Promocion Speed",
-        "price" : "950",
+        "price" : "980",
         "imgSrc" : "images/promospeed.png",
         "nro" : "146",
-        "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$950",
+        "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$980",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
