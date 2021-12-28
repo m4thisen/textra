@@ -2,10 +2,10 @@
     {
         "name" : "Champagne Federico de Alvear <br> 2 Speeds",
         "category" : "Promocion Federico",
-        "price" : "530",
+        "price" : "550",
         "imgSrc" : "images/promo-federico-speeds-01.jpeg",
         "nro" : "149",
-        "wpp" : "Promo%Federico:%201%20Champagne%20Federico%20+%202%20Speed%20$530",
+        "wpp" : "Promo%Federico:%201%20Champagne%20Federico%20+%202%20Speed%20$550",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -13,10 +13,10 @@
     {
         "name" : "1 Fernet <br> 1 Coca 2.25L.",
         "category" : "Promocion Fernet",
-        "price" : "880",
+        "price" : "900",
         "imgSrc" : "images/promo-fernet-coca225-01.jpeg",
         "nro" : "150",
-        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$880",
+        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$900",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
