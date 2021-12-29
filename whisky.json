@@ -90,10 +90,10 @@
   {
     "name": "Buchanans",
     "category": "Whisky",
-    "price": "4100",
+    "price": "4150",
     "imgSrc": "fotoswhiskys/buchanans-01.jpeg",
     "nro": "709",
-    "wpp": "Whisky%20Buchanans%20$4100",
+    "wpp": "Whisky%20Buchanans%20$4150",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -233,10 +233,10 @@
   {
     "name": "Havanna Club Oro",
     "category": "Ron",
-    "price": "1190",
+    "price": "1240",
     "imgSrc": "fotosrons/havana-oro-01.jpeg",
     "nro": "722",
-    "wpp": "Ron%20Havanna%20Club%20Oro%20$1190",
+    "wpp": "Ron%20Havanna%20Club%20Oro%20$1240",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -457,9 +457,9 @@
     "imgSrc": "fotosrons/malibu-01.jpeg",
     "nro": "742",
     "wpp": "Ron%20Malibu%20$1200",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Markers Mark",
