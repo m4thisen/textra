@@ -200,10 +200,10 @@
     {
     "name" : "Callia Malbec",
     "category" : "Vinos",
-    "price" : "250",
+    "price" : "265",
     "imgSrc" : "fotosvinos/callia-01.jpeg",
     "nro" : "1318",
-    "wpp" : "Vinos%20Callia%20Malbec%20$250",
+    "wpp" : "Vinos%20Callia%20Malbec%20$265",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
