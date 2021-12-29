@@ -33,12 +33,12 @@
         "carrito" : ""
     },
     {
-        "name" : "1 Gancia <br> 1 Sprites 1.75L",
+        "name" : "1 Gancia <br> 1 Sprites 2.25L",
         "category" : "Promocion Gancia",
-        "price" : "460",
+        "price" : "530",
         "imgSrc" : "images/promogancia.png",
         "nro" : "148",
-        "wpp" : "Promo%20Gancia:%201%20Gancia%20+%202%20Sprites%201.5L%20$460",
+        "wpp" : "Promo%20Gancia:%201%20Gancia%20+%202%20Sprites%201.5L%20$530",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
