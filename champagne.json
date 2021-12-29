@@ -433,13 +433,13 @@
   {
     "name": "Nieto Sentiner Extrabrut",
     "category": "Champagne",
-    "price": "600",
+    "price": "740",
     "imgSrc": "fotoschampagnes/nieto-sentiner-extrabrut-01.jpeg",
     "nro": "940",
-    "wpp": "Champagne%20Nieto%20Sentiner%20Extrabrut%20$600",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Champagne%20Nieto%20Sentiner%20Extrabrut%20$740",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Nieto Sentiner Rose",
