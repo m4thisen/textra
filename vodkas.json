@@ -2,24 +2,24 @@
     {       
         "name" : "Absolute regular 750",
         "category" : "Vodka",
-        "price" : "0",
+        "price" : "1980",
         "imgSrc" : "fotosvodkas/absolut-comun-01.jpeg",
         "nro" : "301",
-        "wpp" : "Vodka%20Absolute%20regular%20$-",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Vodka%20Absolute%20regular%20$1980",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Apeach 750",
         "category" : "Vodka",
-        "price" : "1750",
+        "price" : "2140",
         "imgSrc" : "fotosvodkas/absolut-apeach-01.jpeg",
         "nro" : "302",
-        "wpp" : "Vodka%20Absolute%20Apeach%20$1750",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Vodka%20Absolute%20Apeach%20$2140",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Apple 750",
@@ -57,13 +57,13 @@
     {
         "name" : "Absolute Mandrin 750",
         "category" : "Vodka",
-        "price" : "1750",
+        "price" : "2140",
         "imgSrc" : "fotosvodkas/absolut-mandarina-01.jpeg",
         "nro" : "306",
-        "wpp" : "Vodka%20Absolute%20Mandrin%20$1750",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Vodka%20Absolute%20Mandrin%20$2140",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Mango 750",
@@ -156,10 +156,10 @@
     {
         "name" : "Dr. Lemon 1 lt.",
         "category" : "Vodka",
-        "price" : "195",
+        "price" : "200",
         "imgSrc" : "fotosvodkas/drlemon-1LT-01.jpeg",
         "nro" : "315",
-        "wpp" : "Vodka%20Dr.%20Lemon%201LT%20$195",
+        "wpp" : "Vodka%20Dr.%20Lemon%201LT%20$200",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -223,10 +223,10 @@
     {
         "name" : "Sernova Wild Berries",
         "category" : "Vodka",
-        "price" : "510",
+        "price" : "530",
         "imgSrc" : "fotosvodkas/sernova-berries-01.jpeg",
         "nro" : "321",
-        "wpp" : "Vodka%20Sernova%20Berries%20$510",
+        "wpp" : "Vodka%20Sernova%20Berries%20$530",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -234,10 +234,10 @@
     {
         "name" : "Sernova Citrus",
         "category" : "Vodka",
-        "price" : "510",
+        "price" : "530",
         "imgSrc" : "fotosvodkas/sernova-citrus-01.jpeg",
         "nro" : "322",
-        "wpp" : "Vodka%20Sernova%20Citrus%20$510",
+        "wpp" : "Vodka%20Sernova%20Citrus%20$530",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
