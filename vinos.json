@@ -354,10 +354,10 @@
 {
     "name" : "Doña Paula Malbec",
     "category" : "Vinos",
-    "price" : "395",
+    "price" : "480",
     "imgSrc" : "fotosvinos/doñapaula-malbec-01.jpeg",
     "nro" : "1332",
-    "wpp" : "Vinos%20Doña%20Paula%20Malbec%20$395",
+    "wpp" : "Vinos%20Doña%20Paula%20Malbec%20$480",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -369,9 +369,9 @@
     "imgSrc" : "fotosvinos/doñapaula-black-01.jpeg",
     "nro" : "1333",
     "wpp" : "Vinos%20Doña%20Paula%20Black%20$395",
-    "estado" : "",
-    "stock" : "",
-    "carrito" : "add-to-cart-btn"
+    "estado" : "sin-stock",
+    "stock" : "NO DISPONIBLE",
+    "carrito" : ""
 },
 {
     "name" : "DV Catena Cabernet Malbec",
