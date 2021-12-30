@@ -167,10 +167,10 @@
   {
     "name": "Maleficio",
     "category": "Gin",
-    "price": "810",
+    "price": "940",
     "imgSrc": "fotosgins/maleficio-01.jpeg",
     "nro": "516",
-    "wpp": "Gin%20Maleficio%20$810",
+    "wpp": "Gin%20Maleficio%20$940",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -178,10 +178,10 @@
   {
     "name": "Principe Apostoles",
     "category": "Gin",
-    "price": "1630",
+    "price": "1740",
     "imgSrc": "fotosgins/principe-apostoles-01.jpeg",
     "nro": "517",
-    "wpp": "Gin%20Principe%20Apostoles%20$1630",
+    "wpp": "Gin%20Principe%20Apostoles%20$1740",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -189,10 +189,10 @@
   {
     "name": "Principe Apostoles Rosa",
     "category": "Gin",
-    "price": "1630",
+    "price": "1740",
     "imgSrc": "fotosgins/principe-apostoles-rosa-01.jpeg",
     "nro": "518",
-    "wpp": "Gin%20Principe%20Apostoles%20Rosa%20$1630",
+    "wpp": "Gin%20Principe%20Apostoles%20Rosa%20$1740",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
