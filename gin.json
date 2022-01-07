@@ -24,10 +24,10 @@
   {
     "name": "Beefeater 750ml.",
     "category": "Gin",
-    "price": "2120",
+    "price": "2370",
     "imgSrc": "fotosgins/beefeater-750-01.jpeg",
     "nro": "503",
-    "wpp": "Gin%20Beefeater%20750ml%20$2120",
+    "wpp": "Gin%20Beefeater%20750ml%20$2370",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -50,17 +50,17 @@
     "imgSrc": "fotosgins/beefeater-1L-01.jpeg",
     "nro": "505",
     "wpp": "Gin%20Beefeater%201L%20$2520",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Brighton",
     "category": "Gin",
-    "price": "750",
+    "price": "860",
     "imgSrc": "fotosgins/brighton-01.jpeg",
     "nro": "506",
-    "wpp": "Gin%20Brighton%20$750",
+    "wpp": "Gin%20Brighton%20$860",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -101,10 +101,10 @@
   {
     "name": "Heraclito London Dry",
     "category": "Gin",
-    "price": "1200",
+    "price": "1240",
     "imgSrc": "fotosgins/heraclito-london-dry-01.jpeg",
     "nro": "510",
-    "wpp": "Gin%20Heraclito%20London%20Dry%20$1200",
+    "wpp": "Gin%20Heraclito%20London%20Dry%20$1240",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
