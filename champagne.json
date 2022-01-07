@@ -47,10 +47,10 @@
   {
     "name": "Callia Dulce",
     "category": "Champagne",
-    "price": "365",
+    "price": "370",
     "imgSrc": "fotoschampagnes/callia-dulce-01.jpeg",
     "nro": "905",
-    "wpp": "Champagne%20Callia%20Dulce%20$365",
+    "wpp": "Champagne%20Callia%20Dulce%20$370",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -58,10 +58,10 @@
   {
     "name": "Callia Extra Brut",
     "category": "Champagne",
-    "price": "365",
+    "price": "370",
     "imgSrc": "fotoschampagnes/callia-extrabrut-01.jpeg",
     "nro": "906",
-    "wpp": "Champagne%20Callia%20Extra%20Brut%20$365",
+    "wpp": "Champagne%20Callia%20Extra%20Brut%20$370",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -422,10 +422,10 @@
   {
     "name": "Nieto Sentiner Grand Cuvee",
     "category": "Champagne",
-    "price": "970",
+    "price": "1070",
     "imgSrc": "fotoschampagnes/nieto-cuvee-01.jpeg",
     "nro": "939",
-    "wpp": "Champagne%20Nieto%20Sentiner%20Grand%20Cuvee%20$970",
+    "wpp": "Champagne%20Nieto%20Sentiner%20Grand%20Cuvee%20$1070",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -510,10 +510,10 @@
   {
     "name": "Saleintein Alyda Nature",
     "category": "Champagne",
-    "price": "1090",
+    "price": "1250",
     "imgSrc": "fotoschampagnes/alyda-nature-01.jpeg",
     "nro": "947",
-    "wpp": "Champagne%20Saleintein%20Alyda%20Nature%20$1090",
+    "wpp": "Champagne%20Saleintein%20Alyda%20Nature%20$1250",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -521,10 +521,10 @@
   {
     "name": "Saleintein Alyda Rose",
     "category": "Champagne",
-    "price": "1220",
+    "price": "1380",
     "imgSrc": "fotoschampagnes/alyda-rose-01.jpeg",
     "nro": "948",
-    "wpp": "Champagne%20Saleintein%20Alyda%20Rose%20$1220",
+    "wpp": "Champagne%20Saleintein%20Alyda%20Rose%20$1380",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
