@@ -13,10 +13,10 @@
     {
         "name" : "1 Fernet <br> 1 Coca 2.25L.",
         "category" : "Promocion Fernet",
-        "price" : "900",
+        "price" : "950",
         "imgSrc" : "images/promo-fernet-coca225-01.jpeg",
         "nro" : "150",
-        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$900",
+        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$950",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -24,10 +24,10 @@
     {
         "name" : "1 Gin Brighton <br> 1 Paso de los toros Tonica",
         "category" : "Promocion Tonica",
-        "price" : "850",
+        "price" : "950",
         "imgSrc" : "images/promo-gin-tonica-01.jpeg",
         "nro" : "151",
-        "wpp" : "Promo%20Tonica:%201%20Gin%20Brighton%20+%20Tonica%20$850",
+        "wpp" : "Promo%20Tonica:%201%20Gin%20Brighton%20+%20Tonica%20$950",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
