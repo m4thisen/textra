@@ -46,13 +46,13 @@
   {
     "name": "Beefeater 1L.",
     "category": "Gin",
-    "price": "2520",
+    "price": "2820",
     "imgSrc": "fotosgins/beefeater-1L-01.jpeg",
     "nro": "505",
-    "wpp": "Gin%20Beefeater%201L%20$2520",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito": ""
+    "wpp": "Gin%20Beefeater%201L%20$2820",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
   },
   {
     "name": "Brighton",
