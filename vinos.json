@@ -772,10 +772,10 @@
 {
     "name" : "Los intocables",
     "category" : "Vinos",
-    "price" : "620",
+    "price" : "700",
     "imgSrc" : "fotosvinos/los-intocables-01.jpeg",
     "nro" : "1370",
-    "wpp" : "Vinos%20Los%20intocables%20$620",
+    "wpp" : "Vinos%20Los%20intocables%20$700",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
