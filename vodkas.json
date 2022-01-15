@@ -171,9 +171,9 @@
         "imgSrc" : "fotosvodkas/drlemon-limon-01.jpeg",
         "nro" : "316",
         "wpp" : "Vodka%20Dr.%20Lemon%20lata%20limon%20$95",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Dr. Lemon lata pomelo",
@@ -182,9 +182,9 @@
         "imgSrc" : "fotosvodkas/drlemon-pomelo-01.jpeg",
         "nro" : "317",
         "wpp" : "Vodka%20Dr.%20Lemon%20lata%20pomelo%20$95",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Jose Cuervo",
