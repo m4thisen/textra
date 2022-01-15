@@ -314,9 +314,9 @@
         "imgSrc" : "fotossa/red-bull-tropical-01.jpeg",
         "nro" : "1028",
         "wpp" : "RedBull%20Tropical%20$170",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Schweppes Pomelo 2.25L",
