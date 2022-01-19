@@ -13,10 +13,10 @@
     {
         "name" : "Absolute Apeach 750",
         "category" : "Vodka",
-        "price" : "2140",
+        "price" : "2190",
         "imgSrc" : "fotosvodkas/absolut-apeach-01.jpeg",
         "nro" : "302",
-        "wpp" : "Vodka%20Absolute%20Apeach%20$2140",
+        "wpp" : "Vodka%20Absolute%20Apeach%20$2190",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -24,13 +24,13 @@
     {
         "name" : "Absolute Apple 750",
         "category" : "Vodka",
-        "price" : "1750",
+        "price" : "2190",
         "imgSrc" : "fotosvodkas/absolut-appe-01.jpeg",
         "nro" : "303",
-        "wpp" : "Vodka%20Absolute%20Apple%20$1750",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Vodka%20Absolute%20Apple%20$2190",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Citron 750",
@@ -57,10 +57,10 @@
     {
         "name" : "Absolute Mandrin 750",
         "category" : "Vodka",
-        "price" : "2140",
+        "price" : "2190",
         "imgSrc" : "fotosvodkas/absolut-mandarina-01.jpeg",
         "nro" : "306",
-        "wpp" : "Vodka%20Absolute%20Mandrin%20$2140",
+        "wpp" : "Vodka%20Absolute%20Mandrin%20$2190",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -112,13 +112,13 @@
     {
         "name" : "Absolute Vanilla 750",
         "category" : "Vodka",
-        "price" : "1750",
+        "price" : "2190",
         "imgSrc" : "fotosvodkas/absolut-vainilla-01.jpeg",
         "nro" : "311",
-        "wpp" : "Vodka%20Absolute%20Vanilla%20$1750",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Vodka%20Absolute%20Vanilla%20$2190",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Camacho",
