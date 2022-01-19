@@ -127,9 +127,9 @@
     "imgSrc": "fotosgins/heredero-01.jpeg",
     "nro": "512",
     "wpp": "Gin%20Heredero%20$1240",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Hilbing",
@@ -145,10 +145,10 @@
   {
     "name": "Inmigrante",
     "category": "Gin",
-    "price": "1220",
+    "price": "1360",
     "imgSrc": "fotosgins/inmigrante-01.jpeg",
     "nro": "514",
-    "wpp": "Gin%20Inmigrante%20$1220",
+    "wpp": "Gin%20Inmigrante%20$1360",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
