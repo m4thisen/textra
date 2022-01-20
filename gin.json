@@ -24,10 +24,10 @@
   {
     "name": "Beefeater 750ml.",
     "category": "Gin",
-    "price": "2370",
+    "price": "2440",
     "imgSrc": "fotosgins/beefeater-750-01.jpeg",
     "nro": "503",
-    "wpp": "Gin%20Beefeater%20750ml%20$2370",
+    "wpp": "Gin%20Beefeater%20750ml%20$2440",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -46,10 +46,10 @@
   {
     "name": "Beefeater 1L.",
     "category": "Gin",
-    "price": "2820",
+    "price": "2890",
     "imgSrc": "fotosgins/beefeater-1L-01.jpeg",
     "nro": "505",
-    "wpp": "Gin%20Beefeater%201L%20$2820",
+    "wpp": "Gin%20Beefeater%201L%20$2890",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -211,10 +211,10 @@
   {
     "name": "Tanqueray",
     "category": "Gin",
-    "price": "2000",
+    "price": "2200",
     "imgSrc": "fotosgins/tanqueray-01.jpeg",
     "nro": "520",
-    "wpp": "Gin%20Tanqueray%20$2000",
+    "wpp": "Gin%20Tanqueray%20$2200",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -222,10 +222,10 @@
   {
     "name": "Tanqueray Sevilla",
     "category": "Gin",
-    "price": "2420",
+    "price": "2630",
     "imgSrc": "fotosgins/tanqueray-sevilla-01.jpeg",
     "nro": "521",
-    "wpp": "Gin%20Tanqueray%20Sevilla%20$2420",
+    "wpp": "Gin%20Tanqueray%20Sevilla%20$2630",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
