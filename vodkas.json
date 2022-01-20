@@ -245,10 +245,10 @@
      {
         "name" : "Smirnoff",
         "category" : "Vodka",
-        "price" : "600",
+        "price" : "670",
         "imgSrc" : "fotosvodkas/smirnoff-01.jpeg",
         "nro" : "323",
-        "wpp" : "Vodka%20Smirnoff%20$600",
+        "wpp" : "Vodka%20Smirnoff%20$670",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -256,10 +256,10 @@
     {
         "name" : "Smirnoff Bitter Citric",
         "category" : "Vodka",
-        "price" : "650",
+        "price" : "720",
         "imgSrc" : "fotosvodkas/smirnoff-citric-01.jpeg",
         "nro" : "324",
-        "wpp" : "Vodka%20Smirnoff%20Citric%20$650",
+        "wpp" : "Vodka%20Smirnoff%20Citric%20$720",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -267,10 +267,10 @@
     {
         "name" : "Smirnoff Citrus",
         "category" : "Vodka",
-        "price" : "650",
+        "price" : "720",
         "imgSrc" : "fotosvodkas/smirnoff-citrus-01.jpeg",
         "nro" : "325",
-        "wpp" : "Vodka%20Smirnoff%20Citrus%20$650",
+        "wpp" : "Vodka%20Smirnoff%20Citrus%20$720",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -278,10 +278,10 @@
     {
         "name" : "Smirnoff Mandarina",
         "category" : "Vodka",
-        "price" : "650",
+        "price" : "720",
         "imgSrc" : "fotosvodkas/smirnoff-mandarina-01.jpeg",
         "nro" : "326",
-        "wpp" : "Vodka%20Smirnoff%20Mandarina%20$650",
+        "wpp" : "Vodka%20Smirnoff%20Mandarina%20$720",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -289,10 +289,10 @@
     {
         "name" : "Smirnoff Manzana",
         "category" : "Vodka",
-        "price" : "650",
+        "price" : "720",
         "imgSrc" : "fotosvodkas/smirnoff-manzana-01.jpeg",
         "nro" : "327",
-        "wpp" : "Vodka%20Smirnoff%20Manzana%20$650",
+        "wpp" : "Vodka%20Smirnoff%20Manzana%20$720",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -300,10 +300,10 @@
     {
         "name" : "Smirnoff Naranja",
         "category" : "Vodka",
-        "price" : "650",
+        "price" : "720",
         "imgSrc" : "fotosvodkas/smirnoff-naranja-01.jpeg",
         "nro" : "328",
-        "wpp" : "Vodka%20Smirnoff%20Naranja%20$650",
+        "wpp" : "Vodka%20Smirnoff%20Naranja%20$720",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -311,10 +311,10 @@
     {
         "name" : "Smirnoff Raspberry",
         "category" : "Vodka",
-        "price" : "650",
+        "price" : "720",
         "imgSrc" : "fotosvodkas/smirnoff-raspberry-01.jpeg",
         "nro" : "329",
-        "wpp" : "Vodka%20Smirnoff%20Raspberry%20$650",
+        "wpp" : "Vodka%20Smirnoff%20Raspberry%20$720",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -322,10 +322,10 @@
     {
         "name" : "Smirnoff Sandia",
         "category" : "Vodka",
-        "price" : "650",
+        "price" : "720",
         "imgSrc" : "fotosvodkas/smirnoff-sandia-01.jpeg",
         "nro" : "330",
-        "wpp" : "Vodka%20Smirnoff%20Sandia%20$650",
+        "wpp" : "Vodka%20Smirnoff%20Sandia%20$720",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
