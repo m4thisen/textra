@@ -574,10 +574,10 @@
 {
     "name" : "La linda Malbec",
     "category" : "Vinos",
-    "price" : "600",
+    "price" : "610",
     "imgSrc" : "fotosvinos/lalinda-malbec-01.jpeg",
     "nro" : "1352",
-    "wpp" : "Vinos%20La%20Linda%20Malbec%20$600",
+    "wpp" : "Vinos%20La%20Linda%20Malbec%20$610",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -585,10 +585,10 @@
 {
     "name" : "La linda Cabernet",
     "category" : "Vinos",
-    "price" : "600",
+    "price" : "610",
     "imgSrc" : "fotosvinos/lalinda-cabernet-01.jpeg",
     "nro" : "1353",
-    "wpp" : "Vinos%20La%20Linda%20Cabernet%20$600",
+    "wpp" : "Vinos%20La%20Linda%20Cabernet%20$610",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -596,10 +596,10 @@
 {
     "name" : "La linda Chardonnay",
     "category" : "Vinos",
-    "price" : "600",
+    "price" : "610",
     "imgSrc" : "fotosvinos/lalinda-chardonnay-01.jpeg",
     "nro" : "1354",
-    "wpp" : "Vinos%20La%20Linda%20Chard%20$600",
+    "wpp" : "Vinos%20La%20Linda%20Chard%20$610",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -1014,10 +1014,10 @@
 {
     "name" : "Portillo Chardonnay",
     "category" : "Vinos Blancos",
-    "price" : "325",
+    "price" : "350",
     "imgSrc" : "fotosvinos/portillo-chardonnay-01.jpeg",
     "nro" : "1392",
-    "wpp" : "Vinos%20Portillo%20Chardonnay%20$325",
+    "wpp" : "Vinos%20Portillo%20Chardonnay%20$350",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
