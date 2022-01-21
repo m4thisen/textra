@@ -35,10 +35,10 @@
     {
         "name" : "1 Smirnoff saborizado <br> 2 jugos Cepita 1L",
         "category" : "Promocion Smirnoff S.",
-        "price" : "830",
+        "price" : "900",
         "imgSrc" : "images/promocepita.png",
         "nro" : "144",
-        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20saborizado%20+%202%20Cepita%201L%20$830",
+        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20saborizado%20+%202%20Cepita%201L%20$900",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
