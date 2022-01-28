@@ -69,10 +69,10 @@
   {
     "name": "Chandon Aperitif",
     "category": "Champagne",
-    "price": "950",
+    "price": "970",
     "imgSrc": "fotoschampagnes/chandon-aperitif-01.jpeg",
     "nro": "907",
-    "wpp": "Champagne%20Chandon%20Aperitif%20$950",
+    "wpp": "Champagne%20Chandon%20Aperitif%20$970",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -84,9 +84,9 @@
     "imgSrc": "fotoschampagnes/chandon-delice-01.jpeg",
     "nro": "908",
     "wpp": "Champagne%20Chandon%20Delice%20$950",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Chandon Extrabrut",
