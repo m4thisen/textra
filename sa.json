@@ -57,10 +57,10 @@
     {
         "name" : "Coca Cola 1.75L",
         "category" : "Sin alcohol",
-        "price" : "160",
+        "price" : "180",
         "imgSrc" : "fotossa/coca-15-01.jpeg",
         "nro" : "1006",
-        "wpp" : "Coca%20Cola%201.5L%20$160",
+        "wpp" : "Coca%20Cola%201.5L%20$180",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-bt"
@@ -68,10 +68,10 @@
     {
         "name" : "Coca Cola 2.25L",
         "category" : "Sin alcohol",
-        "price" : "210",
+        "price" : "220",
         "imgSrc" : "fotossa/coca-225-01.jpeg",
         "nro" : "1007",
-        "wpp" : "Coca%20Cola%202.25L%20$210",
+        "wpp" : "Coca%20Cola%202.25L%20$220",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -90,10 +90,10 @@
     {
         "name" : "Coca Cola sin azucar 1.75L",
         "category" : "Sin alcohol",
-        "price" : "160",
+        "price" : "180",
         "imgSrc" : "fotossa/coca-light-15-01.jpeg",
         "nro" : "1008",
-        "wpp" : "Coca%20Cola%20Light%202.25L%20$160",
+        "wpp" : "Coca%20Cola%20Light%202.25L%20$180",
         "estado" : "sin-stock",
         "stock" : "NO DISPONIBLE",
         "carrito" : "add-to-cart-btn"
@@ -101,10 +101,10 @@
     {
         "name" : "Coca Cola Sin Azucar 2.25L",
         "category" : "Sin alcohol",
-        "price" : "210",
+        "price" : "220",
         "imgSrc" : "fotossa/coca-zero-225-01.jpeg",
         "nro" : "1009",
-        "wpp" : "Coca%20Cola%20Zero%202.25L%20$210",
+        "wpp" : "Coca%20Cola%20Zero%202.25L%20$220",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -123,10 +123,10 @@
     {
         "name" : "Fanta 2.25L",
         "category" : "Sin alcohol",
-        "price" : "210",
+        "price" : "220",
         "imgSrc" : "fotossa/fanta-225-01.jpeg",
         "nro" : "1011",
-        "wpp" : "Fanta%202.25L%20$210",
+        "wpp" : "Fanta%202.25L%20$220",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -365,21 +365,21 @@
     {
         "name" : "Sprite 1.75L",
         "category" : "Sin alcohol",
-        "price" : "160",
+        "price" : "180",
         "imgSrc" : "fotossa/sprite-225-01.jpeg",
         "nro" : "1032",
-        "wpp" : "Sprite%202.25L%20$160",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Sprite%202.25L%20$180",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },  
       {
         "name" : "Sprite 2.25L",
         "category" : "Sin alcohol",
-        "price" : "210",
+        "price" : "220",
         "imgSrc" : "fotossa/sprite-225-01.jpeg",
         "nro" : "1032",
-        "wpp" : "Sprite%202.25L%20$210",
+        "wpp" : "Sprite%202.25L%20$220",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -387,10 +387,10 @@
     {
         "name" : "7 Up Comun 1.5L",
         "category" : "Sin alcohol",
-        "price" : "130",
+        "price" : "135",
         "imgSrc" : "fotossa/7up-comun-1.5-01.jpg",
         "nro" : "1033",
-        "wpp" : "7up%201.5L%20$130",
+        "wpp" : "7up%201.5L%20$135",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -398,10 +398,10 @@
     {
         "name" : "7 Up Free 1.5L",
         "category" : "Sin alcohol",
-        "price" : "130",
+        "price" : "135",
         "imgSrc" : "fotossa/7up-free-1.5-01.jpg",
         "nro" : "1034",
-        "wpp" : "7up%20Free%201.5L%20$130",
+        "wpp" : "7up%20Free%201.5L%20$135",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
