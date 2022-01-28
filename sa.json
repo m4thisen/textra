@@ -68,10 +68,10 @@
     {
         "name" : "Coca Cola 2.25L",
         "category" : "Sin alcohol",
-        "price" : "220",
+        "price" : "230",
         "imgSrc" : "fotossa/coca-225-01.jpeg",
         "nro" : "1007",
-        "wpp" : "Coca%20Cola%202.25L%20$220",
+        "wpp" : "Coca%20Cola%202.25L%20$230",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
