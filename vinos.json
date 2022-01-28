@@ -112,10 +112,10 @@
     {
     "name" : "Benjamin",
     "category" : "Vinos",
-    "price" : "290",
+    "price" : "280",
     "imgSrc" : "fotosvinos/benjamin-01.jpeg",
     "nro" : "1311",
-    "wpp" : "Vinos%20Benjamin%%20$290",
+    "wpp" : "Vinos%20Benjamin%%20$280",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
