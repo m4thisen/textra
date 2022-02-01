@@ -118,7 +118,7 @@ h1{
 }
 .wrapper{
     max-height: 120px;
-    background: gray;
+    background: var(--fire-bush);
     min-width: 20px;
     display: inline-flex;
     overflow-x: auto;
@@ -134,8 +134,9 @@ h1{
     width: 0;
 }
 .wrapper .item-category{
-    background:#ddd;
+    background:black;
     border-radius: 12px;
+    color: white;
     padding: 5px 10px;  
     width: max-content;
     height: 40px;
@@ -402,12 +403,17 @@ h1{
 }
 
 /* products */
-
+.aviso-precios{
+    text-align: center;
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
 .promociones{
     padding: 6rem 0;
 }
 .ofertas{
-    padding: 11rem 0 0 0;
+    padding: 12rem 0 0 0;
 }
 .products{
     padding: 0;

@@ -60,6 +60,9 @@ function eventListeners(){
     document.querySelector('.navbar-toggler').addEventListener('click', () => {
         document.querySelector('.navbar-collapse').classList.toggle('show-navbar');
     });
+    document.querySelector('.all-items-menu').addEventListener('click', () => {
+        document.querySelector('.navbar-collapse').classList.toggle('show-navbar');
+    });
 
     // show/hide cart container
     document.getElementById('cart-btn').addEventListener('click', () => {
