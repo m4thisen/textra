@@ -11,12 +11,12 @@
         "carrito" : "add-to-cart-btn"
     },
     {
-        "name" : "1 Fernet <br> 1 Coca 2.25L.",
+        "name" : "1 Fernet 750ml <br> 1 Coca 2.25L.",
         "category" : "Promocion Fernet",
-        "price" : "950",
+        "price" : "1000",
         "imgSrc" : "images/promo-fernet-coca225-01.jpeg",
         "nro" : "150",
-        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$950",
+        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$1000",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
