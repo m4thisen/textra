@@ -79,10 +79,10 @@
    {
         "name" : "Fernet Branca 750",
         "category" : "Aperitivos",
-        "price" : "750",
+        "price" : "800",
         "imgSrc" : "fotosaperitivos/fernet-750-01.jpeg",
         "nro" : "208",
-        "wpp" : "Aperitivo%20Fernet%20Branca%20750%20$750",
+        "wpp" : "Aperitivo%20Fernet%20Branca%20750%20$800",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -90,10 +90,10 @@
     {
         "name" : "Fernet Branca 1 lt.",
         "category" : "Aperitivos",
-        "price" : "950",
+        "price" : "1000",
         "imgSrc" : "fotosaperitivos/fernet-1L-01.jpeg",
         "nro" : "209",
-        "wpp" : "Aperitivo%20Fernet%20Branca%201LT%20$950",
+        "wpp" : "Aperitivo%20Fernet%20Branca%201LT%20$1000",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
