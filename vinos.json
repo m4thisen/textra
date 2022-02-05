@@ -343,10 +343,10 @@
     {
     "name" : "Don Valentin Lacrado",
     "category" : "Vinos",
-    "price" : "250",
+    "price" : "290",
     "imgSrc" : "fotosvinos/don-valentin-01.jpeg",
     "nro" : "1331",
-    "wpp" : "Vinos%20Don%20Valentin%20Lacrado%20$250",
+    "wpp" : "Vinos%20Don%20Valentin%20Lacrado%20$290",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -453,10 +453,10 @@
 {
     "name" : "Familia Gascon Malbec",
     "category" : "Vinos",
-    "price" : "360",
+    "price" : "380",
     "imgSrc" : "fotosvinos/familia-gascon-01.jpeg",
     "nro" : "1341",
-    "wpp" : "Vinos%20Familia%20Gascon%20Malbec%20$360",
+    "wpp" : "Vinos%20Familia%20Gascon%20Malbec%20$380",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
