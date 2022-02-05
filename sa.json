@@ -24,10 +24,10 @@
     {
         "name" : "Baggio Naranja",
         "category" : "Sin alcohol",
-        "price" : "115",
+        "price" : "120",
         "imgSrc" : "fotossa/baggio-naranja-01.jpeg",
         "nro" : "1003",
-        "wpp" : "Baggio%20Naranja%20$115",
+        "wpp" : "Baggio%20Naranja%20$120",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
