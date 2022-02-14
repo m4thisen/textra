@@ -178,10 +178,10 @@
 {
     "name" : "Cafayate Rose",
     "category" : "Vinos",
-    "price" : "250",
+    "price" : "290",
     "imgSrc" : "fotosvinos/cafayate-rose-01.jpeg",
     "nro" : "1316",
-    "wpp" : "Vinos%20Cafayate%20Rose%20$250",
+    "wpp" : "Vinos%20Cafayate%20Rose%20$290",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -277,10 +277,10 @@
 {
     "name" : "Cosecha Tardia",
     "category" : "Vinos Blancos",
-    "price" : "340",
+    "price" : "360",
     "imgSrc" : "fotosvinos/cosecha-tardia-01.jpeg",
     "nro" : "1325",
-    "wpp" : "Vinos%20Cosecha%20Tardia%20$340",
+    "wpp" : "Vinos%20Cosecha%20Tardia%20$360",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -772,10 +772,10 @@
 {
     "name" : "Los intocables",
     "category" : "Vinos",
-    "price" : "700",
+    "price" : "730",
     "imgSrc" : "fotosvinos/los-intocables-01.jpeg",
     "nro" : "1370",
-    "wpp" : "Vinos%20Los%20intocables%20$700",
+    "wpp" : "Vinos%20Los%20intocables%20$730",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -937,10 +937,10 @@
 {
     "name" : "Paz Malbec",
     "category" : "Vinos",
-    "price" : "520",
+    "price" : "815",
     "imgSrc" : "fotosvinos/paz-malbec-01.jpeg",
     "nro" : "1385",
-    "wpp" : "Vinos%20Paz%20Malbec%20$520",
+    "wpp" : "Vinos%20Paz%20Malbec%20$815",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -1025,10 +1025,10 @@
 {
     "name" : "Portillo Malbec",
     "category" : "Vinos",
-    "price" : "325",
+    "price" : "350",
     "imgSrc" : "fotosvinos/portillo-01.jpeg",
     "nro" : "1393",
-    "wpp" : "Vinos%20Portillo%20Malbec%20$3325",
+    "wpp" : "Vinos%20Portillo%20Malbec%20$350",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -1058,10 +1058,10 @@
 {
     "name" : "Rutini Cabernet Malbec",
     "category" : "Vinos",
-    "price" : "1150",
+    "price" : "1450",
     "imgSrc" : "fotosvinos/rutini-cab-malbec-01.jpeg",
     "nro" : "1396",
-    "wpp" : "Vinos%20Rutini%20Cabernet%20Malbec%20$1150",
+    "wpp" : "Vinos%20Rutini%20Cabernet%20Malbec%20$1450",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -1135,10 +1135,10 @@
 {
     "name" : "Trueque Malbec",
     "category" : "Vinos",
-    "price" : "210",
+    "price" : "320",
     "imgSrc" : "fotosvinos/trueque-malbec-01.jpeg",
     "nro" : "1403",
-    "wpp" : "Vinos%20Trueque%20Malbec%20$210",
+    "wpp" : "Vinos%20Trueque%20Malbec%20$320",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -1146,10 +1146,10 @@
 {
     "name" : "Trueque Cabernet",
     "category" : "Vinos",
-    "price" : "210",
+    "price" : "320",
     "imgSrc" : "fotosvinos/trueque-cabernet-01.jpeg",
     "nro" : "1404",
-    "wpp" : "Vinos%20Trueque%20Cabernet%20$210",
+    "wpp" : "Vinos%20Trueque%20Cabernet%20$320",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
