@@ -123,13 +123,13 @@
   {
     "name": "Heredero",
     "category": "Gin",
-    "price": "1240",
+    "price": "2025",
     "imgSrc": "fotosgins/heredero-01.jpeg",
     "nro": "512",
-    "wpp": "Gin%20Heredero%20$1240",
-    "estado": "sin-stock",
-    "stock": "NO DISPONIBLE",
-    "carrito":     "carrito": ""
+    "wpp": "Gin%20Heredero%20$2025",
+    "estado": "",
+    "stock": "",
+    "carrito": "add-to-cart-btn"
 
   },
   {
