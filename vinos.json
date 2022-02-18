@@ -794,10 +794,10 @@
 {
     "name" : "Luigi Bosca Cabernet",
     "category" : "Vinos",
-    "price" : "1000",
+    "price" : "1100",
     "imgSrc" : "fotosvinos/luigi-cabernet-01.jpeg",
     "nro" : "1372",
-    "wpp" : "Vinos%20Luigi%20Bosca%20Cabernet%20$1000",
+    "wpp" : "Vinos%20Luigi%20Bosca%20Cabernet%20$1100",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -805,10 +805,10 @@
 {
     "name" : "Luigi Bosca Malbec",
     "category" : "Vinos",
-    "price" : "1000",
+    "price" : "1100",
     "imgSrc" : "fotosvinos/luigi-malbec-01.jpeg",
     "nro" : "1373",
-    "wpp" : "Vinos%20Luigi%20Bosca%20Malbec%20$1000",
+    "wpp" : "Vinos%20Luigi%20Bosca%20Malbec%20$1100",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -893,10 +893,10 @@
 {
     "name" : "Nieto Senetier Doc Malbec",
     "category" : "Vinos",
-    "price" : "730",
+    "price" : "750",
     "imgSrc" : "fotosvinos/nieto-doc-malbec-01.jpeg",
     "nro" : "1381",
-    "wpp" : "Vinos%20Nieto%20Senetier%20Doc%20Malbec%20$730",
+    "wpp" : "Vinos%20Nieto%20Senetier%20Doc%20Malbec%20$750",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
@@ -915,10 +915,10 @@
 {
     "name" : "Numina Malbec",
     "category" : "Vinos",
-    "price" : "1180",
+    "price" : "1270",
     "imgSrc" : "fotosvinos/numina-malbec-01.jpeg",
     "nro" : "1383",
-    "wpp" : "Vinos%20Numina%20Malbec%20$1180",
+    "wpp" : "Vinos%20Numina%20Malbec%20$1270",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
