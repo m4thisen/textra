@@ -277,10 +277,10 @@
   {
     "name": "Jameson 750",
     "category": "Whisky",
-    "price": "2000",
+    "price": "2380",
     "imgSrc": "fotoswhiskys/jameson-750-01.jpeg",
     "nro": "726",
-    "wpp": "Whisky%20Jameson%20750%20$2000",
+    "wpp": "Whisky%20Jameson%20750%20$2380",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -288,10 +288,10 @@
   {
     "name": "Jameson Black Barrel",
     "category": "Whisky",
-    "price": "3700",
+    "price": "4270",
     "imgSrc": "fotoswhiskys/jameson-black-01.jpeg",
     "nro": "727",
-    "wpp": "Whisky%20Jameson%20Black%20Barrel%20$3700",
+    "wpp": "Whisky%20Jameson%20Black%20Barrel%20$4270",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -299,10 +299,10 @@
   {
     "name": "Jameson IPA 750",
     "category": "Whisky",
-    "price": "2500",
+    "price": "2890",
     "imgSrc": "fotoswhiskys/jameson-ipa-01.jpeg",
     "nro": "728",
-    "wpp": "Whisky%20Jameson%20IPA%20750%20$2500",
+    "wpp": "Whisky%20Jameson%20IPA%20750%20$2890",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -354,10 +354,10 @@
   {
     "name": "J. Walker Black 750",
     "category": "Whisky",
-    "price": "3630",
+    "price": "3830",
     "imgSrc": "fotoswhiskys/black-label-750-01.jpeg",
     "nro": "733",
-    "wpp": "Whisky%20J.%20Walker%20Black%20750%20$3630",
+    "wpp": "Whisky%20J.%20Walker%20Black%20750%20$3830",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -365,10 +365,10 @@
   {
     "name": "J. Walker Black 1lt.",
     "category": "Whisky",
-    "price": "4380",
+    "price": "4560",
     "imgSrc": "fotoswhiskys/black-label-1L-01.jpeg",
     "nro": "734",
-    "wpp": "Whisky%20J.%20Walker%20Black%201LT%20$4380",
+    "wpp": "Whisky%20J.%20Walker%20Black%201LT%20$4560",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -453,10 +453,10 @@
   {
     "name": "Malibu",
     "category": "Ron",
-    "price": "1350",
+    "price": "1380",
     "imgSrc": "fotosrons/malibu-01.jpeg",
     "nro": "742",
-    "wpp": "Ron%20Malibu%20$1350",
+    "wpp": "Ron%20Malibu%20$1380",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
