@@ -189,10 +189,10 @@
 {
     "name" : "Cafayate Reserva Malbec",
     "category" : "Vinos",
-    "price" : "420",
+    "price" : "490",
     "imgSrc" : "fotosvinos/cafayate-resservamalbec-01.jpeg",
     "nro" : "1317",
-    "wpp" : "Vinos%20Cafayate%20Reserva%20Malbec%20$420",
+    "wpp" : "Vinos%20Cafayate%20Reserva%20Malbec%20$490",
     "estado" : "",
     "stock" : "",
     "carrito" : "add-to-cart-btn"
