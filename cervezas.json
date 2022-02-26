@@ -144,10 +144,10 @@
   {
     "name": "Corona 710",
     "category": "Cerveza",
-    "price": "250",
+    "price": "260",
     "imgSrc": "fotoscervezas/corona-710-01.jpeg",
     "nro": "111",
-    "wpp": "Cerveza%20Corona%20710%20$250",
+    "wpp": "Cerveza%20Corona%20710%20$260",
     "pricePack": "1440",
     "wppPack": "Cerveza%20Corona%20710%20$1440",
     "estado": "",
