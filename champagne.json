@@ -345,10 +345,10 @@
   {
     "name": "Mumm",
     "category": "Champagne",
-    "price": "570",
+    "price": "650",
     "imgSrc": "fotoschampagnes/mumm-extra-brut-01.jpeg",
     "nro": "932",
-    "wpp": "Champagne%20Mumm%20$570",
+    "wpp": "Champagne%20Mumm%20$650",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -356,10 +356,10 @@
   {
     "name": "Mumm Dulce",
     "category": "Champagne",
-    "price": "570",
+    "price": "650",
     "imgSrc": "fotoschampagnes/mumm-dulce-01.jpeg",
     "nro": "933",
-    "wpp": "Champagne%20Mumm%20Dulce%20$570",
+    "wpp": "Champagne%20Mumm%20Dulce%20$650",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -367,10 +367,10 @@
   {
     "name": "Mumm Leger",
     "category": "Champagne",
-    "price": "540",
+    "price": "650",
     "imgSrc": "fotoschampagnes/mumm-leger-01.jpeg",
     "nro": "934",
-    "wpp": "Champagne%20Mumm%20Leger%20$540",
+    "wpp": "Champagne%20Mumm%20Leger%20$650",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -378,10 +378,10 @@
   {
     "name": "Mumm Leger Spritz",
     "category": "Champagne",
-    "price": "540",
+    "price": "650",
     "imgSrc": "fotoschampagnes/mumm-leger-spritz-01.jpeg",
     "nro": "935",
-    "wpp": "Champagne%20Mumm%20Leger%20Spritz%20$540",
+    "wpp": "Champagne%20Mumm%20Leger%20Spritz%20$650",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -389,10 +389,10 @@
   {
     "name": "Mumm Rose",
     "category": "Champagne",
-    "price": "570",
+    "price": "650",
     "imgSrc": "fotoschampagnes/mumm-rose-01.jpeg",
     "nro": "936",
-    "wpp": "Champagne%20Mumm%20Rose%20$570",
+    "wpp": "Champagne%20Mumm%20Rose%20$650",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
