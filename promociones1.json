@@ -6,9 +6,9 @@
         "imgSrc" : "images/promofernet.jpeg",
         "nro" : "141",
         "wpp" : "Promo%20Fernet:%201%20Fernet%201L%20+%202%20Cocas%201.5L%20$1400",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "1 Campari <br>2 jugos Baggio",
@@ -35,10 +35,10 @@
     {
         "name" : "1 Smirnoff saborizado <br> 2 jugos Cepita 1L",
         "category" : "Promocion Smirnoff S.",
-        "price" : "920",
+        "price" : "940",
         "imgSrc" : "images/promocepita.png",
         "nro" : "144",
-        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20saborizado%20+%202%20Cepita%201L%20$900",
+        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20saborizado%20+%202%20Cepita%201L%20$940",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
