@@ -13,10 +13,10 @@
     {
         "name" : "1 Fernet 750ml <br> 1 Coca 2.25L.",
         "category" : "Promocion Fernet",
-        "price" : "1000",
+        "price" : "1100",
         "imgSrc" : "images/promo-fernet-coca225-01.jpeg",
         "nro" : "150",
-        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$1000",
+        "wpp" : "Promo%20Fernet:%201%20Fernet%20+%201%20Coca%202.25L%20$1100",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -39,8 +39,8 @@
         "imgSrc" : "images/promo-smirnoff-baggios-01.jpeg",
         "nro" : "152",
         "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Baggio%20$750",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     }
 ]
