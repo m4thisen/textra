@@ -28,19 +28,19 @@
         "imgSrc" : "images/promo-gin-tonica-01.jpeg",
         "nro" : "151",
         "wpp" : "Promo%20Tonica:%201%20Gin%20Brighton%20+%20Tonica%20$950",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "1 Smirnoff <br> 2 Baggio",
         "category" : "Promocion Smirnoff",
-        "price" : "750",
+        "price" : "900",
         "imgSrc" : "images/promo-smirnoff-baggios-01.jpeg",
         "nro" : "152",
-        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Baggio%20$750",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "wpp" : "Promo%20Smirnoff:%201%20Smirnoff%20+%202%20Baggio%20$900",
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     }
 ]
