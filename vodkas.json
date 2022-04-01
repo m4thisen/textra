@@ -2,10 +2,10 @@
     {       
         "name" : "Absolute regular 750",
         "category" : "Vodka",
-        "price" : "1980",
+        "price" : "2080",
         "imgSrc" : "fotosvodkas/absolut-comun-01.jpeg",
         "nro" : "301",
-        "wpp" : "Vodka%20Absolute%20regular%20$1980",
+        "wpp" : "Vodka%20Absolute%20regular%20$2080",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -28,9 +28,9 @@
         "imgSrc" : "fotosvodkas/absolut-appe-01.jpeg",
         "nro" : "303",
         "wpp" : "Vodka%20Absolute%20Apple%20$2300",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Absolute Citron 750",
@@ -94,9 +94,9 @@
         "imgSrc" : "fotosvodkas/absolut-raspberry-01.jpeg",
         "nro" : "309",
         "wpp" : "Vodka%20Absolute%20Raspberry%20$2300",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "Absolute Rubired 750",
@@ -337,9 +337,9 @@
         "imgSrc" : "fotosvodkas/skyy-01.jpeg",
         "nro" : "331",
         "wpp" : "Vodka%20Skyy%20$600",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     },
     {
         "name" : "Skyy Anana",
@@ -348,9 +348,9 @@
         "imgSrc" : "fotosvodkas/skyy-anana-01.jpeg",
         "nro" : "332",
         "wpp" : "Vodka%20Skyy%20Anana%20$700",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     }, 
     {
         "name" : "Skyy Coco",
@@ -359,9 +359,9 @@
         "imgSrc" : "fotosvodkas/skyy-coco-01.jpeg",
         "nro" : "333",
         "wpp" : "Vodka%20Skyy%20Coco%20$700",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     }, 
     {
         "name" : "Skyy Maracuya",
@@ -370,9 +370,9 @@
         "imgSrc" : "fotosvodkas/skyy-maracuya-01.jpeg",
         "nro" : "334",
         "wpp" : "Vodka%20Skyy%20Maracuya%20$700",
-        "estado" : "",
-        "stock" : "",
-        "carrito" : "add-to-cart-btn"
+        "estado" : "sin-stock",
+        "stock" : "NO DISPONIBLE",
+        "carrito" : ""
     }, 
     {
         "name" : "Skyy Raspberry",
