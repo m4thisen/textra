@@ -11,10 +11,10 @@
     {
         "name" : "Patagonia 710",
         "category" : "Cerveza",
-        "price" : "220",
+        "price" : "250",
         "imgSrc" : "catalogo/patagonia710.png",
         "nro" : "2002",
-        "wpp" : "Oferta%20Patagonia%20710%20$220",
+        "wpp" : "Oferta%20Patagonia%20710%20$250",
         "descuento" : "-20%"
     },
     {
