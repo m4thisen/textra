@@ -69,10 +69,10 @@
   {
     "name": "Chandon Aperitif",
     "category": "Champagne",
-    "price": "970",
+    "price": "1060",
     "imgSrc": "fotoschampagnes/chandon-aperitif-01.jpeg",
     "nro": "907",
-    "wpp": "Champagne%20Chandon%20Aperitif%20$970",
+    "wpp": "Champagne%20Chandon%20Aperitif%20$1060",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -301,10 +301,10 @@
   {
     "name": "Fresita",
     "category": "Champagne",
-    "price": "575",
+    "price": "620",
     "imgSrc": "fotoschampagnes/fresita-01.jpeg",
     "nro": "928",
-    "wpp": "Champagne%20Fresita%20$575",
+    "wpp": "Champagne%20Fresita%20$620",
     "estado": "",
     "stock": "",
     "carrito": "add-to-cart-btn"
@@ -536,9 +536,9 @@
     "imgSrc": "fotoschampagnes/salentein-brut-nature-01.jpeg",
     "nro": "949",
     "wpp": "Champagne%20Saleintein%20Nature%20$750",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Saleintein Extra Brut",
@@ -547,9 +547,9 @@
     "imgSrc": "fotoschampagnes/salentein-extrabrut-01.jpeg",
     "nro": "950",
     "wpp": "Champagne%20Saleintein%20$610",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Saleintein Rose",
@@ -613,9 +613,9 @@
     "imgSrc": "fotossidras/1930-pera-01.jpeg",
     "nro": "956",
     "wpp": "Sidra%201930%20Pera%20$370",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   },
   {
     "name": "Sidra 1888",
@@ -679,8 +679,8 @@
     "imgSrc": "fotoschampagnes/2020-lpqtp-01.jpeg",
     "nro": "962",
     "wpp": "Champagne%202020%20LPQTP%20$400",
-    "estado": "",
-    "stock": "",
-    "carrito": "add-to-cart-btn"
+    "estado": "sin-stock",
+    "stock": "NO DISPONIBLE",
+    "carrito": ""
   }
 ]
