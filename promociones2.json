@@ -2,10 +2,10 @@
     {
         "name" : "Cynar <br> Paso de los toros (pomelo) 1.5L",
         "category" : "Promocion Cynar",
-        "price" : "570",
+        "price" : "600",
         "imgSrc" : "images/promo-cynar-pomelo-01.jpeg",
         "nro" : "145",
-        "wpp" : "Promo%20Cynar:%201%20Cynar%20+%201%20Paso%20de%20los%20toros%201.5L%20$570",
+        "wpp" : "Promo%20Cynar:%201%20Cynar%20+%201%20Paso%20de%20los%20toros%201.5L%20$600",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
@@ -13,10 +13,10 @@
     {
         "name" : "1 Smirnoff saborizado <br> 4 Speeds",
         "category" : "Promocion Speed",
-        "price" : "1040",
+        "price" : "1060",
         "imgSrc" : "images/promospeed.png",
         "nro" : "146",
-        "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$1040",
+        "wpp" : "Promo%20Speed:%201%20Smirnoff%20+%204%20Speeds%20$1060",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
