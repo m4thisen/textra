@@ -2,21 +2,21 @@
     {
         "name" : "1 Fernet 1L <br>2 Cocas 2.25L",
         "category" : "Promocion Fernet",
-        "price" : "1400",
+        "price" : "1650",
         "imgSrc" : "images/promofernet.jpeg",
         "nro" : "141",
         "wpp" : "Promo%20Fernet:%201%20Fernet%201L%20+%202%20Cocas%201.5L%20$1400",
-        "estado" : "sin-stock",
-        "stock" : "NO DISPONIBLE",
-        "carrito" : ""
+        "estado" : "",
+        "stock" : "",
+        "carrito" : "add-to-cart-btn"
     },
     {
         "name" : "1 Campari <br>2 jugos Baggio",
         "category" : "Promocion Campari",
-        "price" : "800",
+        "price" : "870",
         "imgSrc" : "images/promocampari.png",
         "nro" : "142",
-        "wpp" : "Promo%20Campari:%201%20Campari%20+%202%20Baggio%20$800",
+        "wpp" : "Promo%20Campari:%201%20Campari%20+%202%20Baggio%20$870",
         "estado" : "",
         "stock" : "",
         "carrito" : "add-to-cart-btn"
