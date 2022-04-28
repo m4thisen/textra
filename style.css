@@ -17,10 +17,12 @@ html{
     margin: 0;
     box-sizing: border-box;
     font-family: 'Barlow', sans-serif;
+    text-align: center;
 }
 body{
     line-height: 1.5;
     font-weight: 400;
+    background-color: #000;
 }
 
 /* resets and resuable stylings */
